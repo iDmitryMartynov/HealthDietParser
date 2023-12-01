@@ -1,0 +1,2529 @@
+﻿[
+    {
+        "title": "1 Кусок [Ростик'c - KFC]",
+        "Calories": "130 кКал",
+        "Protein": "9,8 г",
+        "Fats": "6,8 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "title": "1 КУСОК КУРИЦЫ 1/53г (порция 53 гр) [Ростик'c - KFC]",
+        "Calories": "130,2 кКал",
+        "Protein": "9,8 г",
+        "Fats": "6,8 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "title": "2 КУСКА КУРИЦЫ 2/53г (порция 106 гр) [Ростик'c - KFC]",
+        "Calories": "260,3 кКал",
+        "Protein": "19,6 г",
+        "Fats": "13,6 г",
+        "Carbohydrates": "14,9 г"
+    },
+    {
+        "title": "2 Стрипса Оригинальные [Ростик'c - KFC]",
+        "Calories": "162 кКал",
+        "Protein": "13,7 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "7,7 г"
+    },
+    {
+        "title": "2 СТРИПСА оригинальные 2/28г (порция 56 гр) [Ростик'c - KFC]",
+        "Calories": "162,2 кКал",
+        "Protein": "13,7 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "7,7 г"
+    },
+    {
+        "title": "2 Стрипса Острые [Ростик'c - KFC]",
+        "Calories": "137 кКал",
+        "Protein": "12,5 г",
+        "Fats": "5,8 г",
+        "Carbohydrates": "8,8 г"
+    },
+    {
+        "title": "2 Стрипса Острые [Ростик'c - KFC]",
+        "Calories": "245 кКал",
+        "Protein": "22,3 г",
+        "Fats": "10,3 г",
+        "Carbohydrates": "15,8 г"
+    },
+    {
+        "title": "2 СТРИПСА острые 2/28г (порция 56 гр) [Ростик'c - KFC]",
+        "Calories": "137,3 кКал",
+        "Protein": "12,5 г",
+        "Fats": "5,8 г",
+        "Carbohydrates": "8,8 г"
+    },
+    {
+        "title": "3 Крылышка [Ростик'c - KFC]",
+        "Calories": "254 кКал",
+        "Protein": "13,4 г",
+        "Fats": "16,8 г",
+        "Carbohydrates": "12,5 г"
+    },
+    {
+        "title": "3 КУСКА КУРИЦЫ 3/53г (порция 159 гр) [Ростик'c - KFC]",
+        "Calories": "390,5 кКал",
+        "Protein": "29,4 г",
+        "Fats": "20,4 г",
+        "Carbohydrates": "22,4 г"
+    },
+    {
+        "title": "3 Стрипса Оригинальные [Ростик'c - KFC]",
+        "Calories": "243 кКал",
+        "Protein": "20,6 г",
+        "Fats": "12,8 г",
+        "Carbohydrates": "11,5 г"
+    },
+    {
+        "title": "3 СТРИПСА оригинальные 3/28г (порция 84 гр) [Ростик'c - KFC]",
+        "Calories": "243,3 кКал",
+        "Protein": "20,6 г",
+        "Fats": "12,8 г",
+        "Carbohydrates": "11,5 г"
+    },
+    {
+        "title": "3 СТРИПСА острые 3/28г (порция 84 гр) [Ростик'c - KFC]",
+        "Calories": "205,9 кКал",
+        "Protein": "18,7 г",
+        "Fats": "8,7 г",
+        "Carbohydrates": "13,3 г"
+    },
+    {
+        "title": "3 Стрипса Острых [Ростик'c - KFC]",
+        "Calories": "240 кКал",
+        "Protein": "23,1 г",
+        "Fats": "12,8 г",
+        "Carbohydrates": "8,1 г"
+    },
+    {
+        "title": "5 За 200 [Ростик'c - KFC]",
+        "Calories": "690 кКал",
+        "Protein": "20 г",
+        "Fats": "119 г",
+        "Carbohydrates": "81 г"
+    },
+    {
+        "title": "5 За 300 [Ростик'c - KFC]",
+        "Calories": "796 кКал",
+        "Protein": "25,5 г",
+        "Fats": "142 г",
+        "Carbohydrates": "99 г"
+    },
+    {
+        "title": "5 Крыльев [Ростик'c - KFC]",
+        "Calories": "424 кКал",
+        "Protein": "22,4 г",
+        "Fats": "27,9 г",
+        "Carbohydrates": "20,8 г"
+    },
+    {
+        "title": "5 СТРИПСОВ оригинальные 5/28г (порция 140 гр) [Ростик'c - KFC]",
+        "Calories": "405,4 кКал",
+        "Protein": "34,3 г",
+        "Fats": "21,3 г",
+        "Carbohydrates": "19,2 г"
+    },
+    {
+        "title": "5 СТРИПСОВ острые 5/28г (порция 140 гр) [Ростик'c - KFC]",
+        "Calories": "343,1 кКал",
+        "Protein": "31,2 г",
+        "Fats": "14,4 г",
+        "Carbohydrates": "22,1 г"
+    },
+    {
+        "title": "6 Стрипса Острых [Ростик'c - KFC]",
+        "Calories": "412 кКал",
+        "Protein": "37,5 г",
+        "Fats": "17,3 г",
+        "Carbohydrates": "26,5 г"
+    },
+    {
+        "title": "6 Стрипсов Оригинальные [Ростик'c - KFC]",
+        "Calories": "388 кКал",
+        "Protein": "40,8 г",
+        "Fats": "14,4 г",
+        "Carbohydrates": "23,8 г"
+    },
+    {
+        "title": "7Up Мохито [Ростик'c - KFC]",
+        "Calories": "45 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "11 г"
+    },
+    {
+        "title": "8 Крылышек [Ростик'c - KFC]",
+        "Calories": "678 кКал",
+        "Protein": "35,9 г",
+        "Fats": "44,7 г",
+        "Carbohydrates": "33,3 г"
+    },
+    {
+        "title": "I-Twister [Ростик'c - KFC]",
+        "Calories": "267 кКал",
+        "Protein": "10,5 г",
+        "Fats": "12,3 г",
+        "Carbohydrates": "28,7 г"
+    },
+    {
+        "title": "I-Twister Cheese [Ростик'c - KFC]",
+        "Calories": "245 кКал",
+        "Protein": "11,4 г",
+        "Fats": "11,9 г",
+        "Carbohydrates": "23,1 г"
+    },
+    {
+        "title": "KFC БАСКЕТ ФРИ (порция 240 гр) [Ростик'c - KFC]",
+        "Calories": "662,4 кКал",
+        "Protein": "9,1 г",
+        "Fats": "37,2 г",
+        "Carbohydrates": "72,2 г"
+    },
+    {
+        "title": "KFC ВАФЛЯ БЕЛЬГИЙСКАЯ (порция 90 гр) [Ростик'c - KFC]",
+        "Calories": "402,3 кКал",
+        "Protein": "4,1 г",
+        "Fats": "21,2 г",
+        "Carbohydrates": "49,1 г"
+    },
+    {
+        "title": "KFC ВАФЛЯ БЕЛЬГИЙСКАЯ С МОРОЖЕНЫМ (порция 130 гр) [Ростик'c - KFC]",
+        "Calories": "416 кКал",
+        "Protein": "5,3 г",
+        "Fats": "20,2 г",
+        "Carbohydrates": "53,2 г"
+    },
+    {
+        "title": "KFC ВАФЛЯ БЕЛЬГИЙСКАЯ С МОРОЖЕНЫМ И ТОППИНГОМ клубничным (порция 140 гр) [Ростик'c - KFC]",
+        "Calories": "480,2 кКал",
+        "Protein": "5,6 г",
+        "Fats": "22,8 г",
+        "Carbohydrates": "63,4 г"
+    },
+    {
+        "title": "KFC ВАФЛЯ БЕЛЬГИЙСКАЯ С МОРОЖЕНЫМ И ТОППИНГОМ мокка-карамель (порция 140 гр) [Ростик'c - KFC]",
+        "Calories": "487,2 кКал",
+        "Protein": "5,6 г",
+        "Fats": "22,8 г",
+        "Carbohydrates": "65,1 г"
+    },
+    {
+        "title": "KFC ВАФЛЯ БЕЛЬГИЙСКАЯ С МОРОЖЕНЫМ И ТОППИНГОМ шоколадным (порция 140 гр) [Ростик'c - KFC]",
+        "Calories": "484,4 кКал",
+        "Protein": "5,7 г",
+        "Fats": "22,8 г",
+        "Carbohydrates": "64 г"
+    },
+    {
+        "title": "KFC ВАФЛЯ БЕЛЬГИЙСКАЯ С ТОППИНГОМ:клубничным (порция 100 гр) [Ростик'c - KFC]",
+        "Calories": "425 кКал",
+        "Protein": "4,1 г",
+        "Fats": "21,2 г",
+        "Carbohydrates": "54,5 г"
+    },
+    {
+        "title": "KFC ВАФЛЯ БЕЛЬГИЙСКАЯ С ТОППИНГОМ:мокка-карамель (порция 100 гр) [Ростик'c - KFC]",
+        "Calories": "432 кКал",
+        "Protein": "4,1 г",
+        "Fats": "21,2 г",
+        "Carbohydrates": "56,3 г"
+    },
+    {
+        "title": "KFC ВАФЛЯ БЕЛЬГИЙСКАЯ С ТОППИНГОМ:шоколадным (порция 100 гр) [Ростик'c - KFC]",
+        "Calories": "428 кКал",
+        "Protein": "4,2 г",
+        "Fats": "21,3 г",
+        "Carbohydrates": "55,1 г"
+    },
+    {
+        "title": "KFC ГЛЯСЕ (порция 260 гр) [Ростик'c - KFC]",
+        "Calories": "83,2 кКал",
+        "Protein": "2,3 г",
+        "Fats": "2,3 г",
+        "Carbohydrates": "13,3 г"
+    },
+    {
+        "title": "KFC ГОРЯЧИЙ ШОКОЛАД (порция 230 гр) [Ростик'c - KFC]",
+        "Calories": "73,6 кКал",
+        "Protein": "2,1 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "11,7 г"
+    },
+    {
+        "title": "KFC КАПУЧИНО (порция 200 гр) [Ростик'c - KFC]",
+        "Calories": "64 кКал",
+        "Protein": "4,4 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "title": "KFC КАРТОФЕЛЬ ФРИ мал. (порция 70 гр) [Ростик'c - KFC]",
+        "Calories": "193,2 кКал",
+        "Protein": "2,7 г",
+        "Fats": "10,9 г",
+        "Carbohydrates": "21,1 г"
+    },
+    {
+        "title": "KFC КАРТОФЕЛЬ ФРИ станд. (порция 120 гр) [Ростик'c - KFC]",
+        "Calories": "331,2 кКал",
+        "Protein": "4,6 г",
+        "Fats": "18,6 г",
+        "Carbohydrates": "36,1 г"
+    },
+    {
+        "title": "KFC КОКА-КОЛА ЛАЙТ/ ПЕПСИ-КОЛА ЛАЙТ Большой 0,75л (порция 750 гр) [Ростик'c - KFC]",
+        "Calories": "1,5 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0,8 г"
+    },
+    {
+        "title": "KFC КОКА-КОЛА ЛАЙТ/ ПЕПСИ-КОЛА ЛАЙТ Детский 0,3л (порция 300 гр) [Ростик'c - KFC]",
+        "Calories": "0,6 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0,3 г"
+    },
+    {
+        "title": "KFC КОКА-КОЛА ЛАЙТ/ ПЕПСИ-КОЛА ЛАЙТ Малый 0,4л (порция 400 гр) [Ростик'c - KFC]",
+        "Calories": "0,8 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0,4 г"
+    },
+    {
+        "title": "KFC КОКА-КОЛА ЛАЙТ/ ПЕПСИ-КОЛА ЛАЙТ Стандарт 0,5л (порция 500 гр) [Ростик'c - KFC]",
+        "Calories": "1 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0,5 г"
+    },
+    {
+        "title": "KFC КОКА-КОЛА/ПЕПСИ-КОЛА Большой 0,75л (порция 750 гр) [Ростик'c - KFC]",
+        "Calories": "315 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "82,5 г"
+    },
+    {
+        "title": "KFC КОКА-КОЛА/ПЕПСИ-КОЛА Детский 0,3л (порция 300 гр) [Ростик'c - KFC]",
+        "Calories": "126 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "33 г"
+    },
+    {
+        "title": "KFC КОКА-КОЛА/ПЕПСИ-КОЛА Малый 0,4л (порция 400 гр) [Ростик'c - KFC]",
+        "Calories": "168 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "44 г"
+    },
+    {
+        "title": "KFC КОКА-КОЛА/ПЕПСИ-КОЛА Стандарт 0,5л (порция 500 гр) [Ростик'c - KFC]",
+        "Calories": "210 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "55 г"
+    },
+    {
+        "title": "KFC КОФЕ ГЛЯСЕ 0,2 ЗЕРНОВОЙ (порция 260 гр) [Ростик'c - KFC]",
+        "Calories": "83,2 кКал",
+        "Protein": "2,3 г",
+        "Fats": "2,3 г",
+        "Carbohydrates": "13,3 г"
+    },
+    {
+        "title": "KFC КОФЕ КАПУЧИНО 0,2 ЗЕРНОВОЙ (порция 150 гр) [Ростик'c - KFC]",
+        "Calories": "61,5 кКал",
+        "Protein": "2,9 г",
+        "Fats": "3,5 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "title": "KFC КОФЕ КАПУЧИНО 0,3 ЗЕРНОВОЙ (порция 190 гр) [Ростик'c - KFC]",
+        "Calories": "74,1 кКал",
+        "Protein": "3,4 г",
+        "Fats": "4,2 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "title": "KFC КОФЕ ЛАТТЕ 0,3 ЗЕРНОВОЙ (порция 250 гр) [Ростик'c - KFC]",
+        "Calories": "122,5 кКал",
+        "Protein": "5,5 г",
+        "Fats": "7 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "title": "KFC КУКУРУЗА (порция 94 гр) [Ростик'c - KFC]",
+        "Calories": "104,3 кКал",
+        "Protein": "1,8 г",
+        "Fats": "4,2 г",
+        "Carbohydrates": "14,9 г"
+    },
+    {
+        "title": "KFC ЛАТТЕ (порция 300 гр) [Ростик'c - KFC]",
+        "Calories": "129 кКал",
+        "Protein": "9 г",
+        "Fats": "4,5 г",
+        "Carbohydrates": "13,2 г"
+    },
+    {
+        "title": "KFC МОРОЖЕНОЕ (порция 120 гр) [Ростик'c - KFC]",
+        "Calories": "168 кКал",
+        "Protein": "4,7 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "26,5 г"
+    },
+    {
+        "title": "KFC МОРОЖЕНОЕ В РОЖКЕ (порция 85 гр) [Ростик'c - KFC]",
+        "Calories": "130,9 кКал",
+        "Protein": "3,7 г",
+        "Fats": "3,3 г",
+        "Carbohydrates": "21,5 г"
+    },
+    {
+        "title": "KFC САЛАТ ВЕДЖИ (порция 200 гр) [Ростик'c - KFC]",
+        "Calories": "54 кКал",
+        "Protein": "2 г",
+        "Fats": "2,6 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "title": "KFC Салат Коул Слоу (порция 130 гр) [Ростик'c - KFC]",
+        "Calories": "158,6 кКал",
+        "Protein": "1,8 г",
+        "Fats": "10,3 г",
+        "Carbohydrates": "14,7 г"
+    },
+    {
+        "title": "KFC САЛАТ ЦЕЗАРЬ (порция 211 гр) [Ростик'c - KFC]",
+        "Calories": "335,5 кКал",
+        "Protein": "22,2 г",
+        "Fats": "19,2 г",
+        "Carbohydrates": "18,4 г"
+    },
+    {
+        "title": "KFC Салат ЦЕЗАРЬ овощной (порция 155 гр) [Ростик'c - KFC]",
+        "Calories": "173,6 кКал",
+        "Protein": "8,5 г",
+        "Fats": "10,7 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "title": "KFC СПРАЙТ/ 7UP Большой 0,75л (порция 750 гр) [Ростик'c - KFC]",
+        "Calories": "217,5 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "52,5 г"
+    },
+    {
+        "title": "KFC СПРАЙТ/ 7UP Детский 0,3л (порция 300 гр) [Ростик'c - KFC]",
+        "Calories": "87 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "21 г"
+    },
+    {
+        "title": "KFC СПРАЙТ/ 7UP Малый 0,4л (порция 400 гр) [Ростик'c - KFC]",
+        "Calories": "116 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "28 г"
+    },
+    {
+        "title": "KFC СПРАЙТ/ 7UP Стандарт 0,5л (порция 500 гр) [Ростик'c - KFC]",
+        "Calories": "145 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "35 г"
+    },
+    {
+        "title": "KFC топпинг клубничный (порция 15 гр) [Ростик'c - KFC]",
+        "Calories": "33,5 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "8,2 г"
+    },
+    {
+        "title": "KFC топпинг мокка-карамель (порция 15 гр) [Ростик'c - KFC]",
+        "Calories": "43,1 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "10,8 г"
+    },
+    {
+        "title": "KFC топпинг шоколадный (порция 15 гр) [Ростик'c - KFC]",
+        "Calories": "38,6 кКал",
+        "Protein": "0,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "title": "KFC ФАНТА/ МИРИНДА Большой 0,75л (порция 750 гр) [Ростик'c - KFC]",
+        "Calories": "232,5 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "56,3 г"
+    },
+    {
+        "title": "KFC ФАНТА/ МИРИНДА Детский 0,3л (порция 300 гр) [Ростик'c - KFC]",
+        "Calories": "93 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "22,5 г"
+    },
+    {
+        "title": "KFC ФАНТА/ МИРИНДА Малый 0,4л (порция 400 гр) [Ростик'c - KFC]",
+        "Calories": "124 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "30 г"
+    },
+    {
+        "title": "KFC ФАНТА/ МИРИНДА Стандарт 0,5л (порция 500 гр) [Ростик'c - KFC]",
+        "Calories": "155 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "37,5 г"
+    },
+    {
+        "title": "KFC ЧИЗКЕЙК С ИЗЮМОМ (порция 104 гр) [Ростик'c - KFC]",
+        "Calories": "283,9 кКал",
+        "Protein": "7,7 г",
+        "Fats": "13,4 г",
+        "Carbohydrates": "32,7 г"
+    },
+    {
+        "title": "KFC ЧИЗКЕЙК С КЛУБНИЧНЫМ ТОППИНГОМ (порция 114 гр) [Ростик'c - KFC]",
+        "Calories": "304,4 кКал",
+        "Protein": "7,8 г",
+        "Fats": "13,5 г",
+        "Carbohydrates": "38,1 г"
+    },
+    {
+        "title": "KFC ЧИЗКЕЙК С ТОППИНГОМ МОККА-КАРАМЕЛЬ (порция 114 гр) [Ростик'c - KFC]",
+        "Calories": "311,2 кКал",
+        "Protein": "7,8 г",
+        "Fats": "13,5 г",
+        "Carbohydrates": "39,9 г"
+    },
+    {
+        "title": "KFC ЧИЗКЕЙК С ШОКОЛАДНЫМ ТОППИНГОМ (порция 114 гр) [Ростик'c - KFC]",
+        "Calories": "307,8 кКал",
+        "Protein": "7,9 г",
+        "Fats": "13,6 г",
+        "Carbohydrates": "38,6 г"
+    },
+    {
+        "title": "King Go Креветки [Ростик'c - KFC]",
+        "Calories": "290 кКал",
+        "Protein": "44 г",
+        "Fats": "9 г",
+        "Carbohydrates": "7 г"
+    },
+    {
+        "title": "Азиатский Твистер [Ростик'c - KFC]",
+        "Calories": "462 кКал",
+        "Protein": "21,8 г",
+        "Fats": "18 г",
+        "Carbohydrates": "53,1 г"
+    },
+    {
+        "title": "Ай-Твистер Новый [Ростик'c - KFC]",
+        "Calories": "230 кКал",
+        "Protein": "10,8 г",
+        "Fats": "9,7 г",
+        "Carbohydrates": "24,8 г"
+    },
+    {
+        "title": "Ай-Твистер Русс [Ростик'c - KFC]",
+        "Calories": "259 кКал",
+        "Protein": "10,4 г",
+        "Fats": "13,3 г",
+        "Carbohydrates": "24,3 г"
+    },
+    {
+        "title": "Ай-Твистер Терияки [Ростик'c - KFC]",
+        "Calories": "224 кКал",
+        "Protein": "9,7 г",
+        "Fats": "7,6 г",
+        "Carbohydrates": "29,4 г"
+    },
+    {
+        "title": "Ай-Твистер Чиз [Ростик'c - KFC]",
+        "Calories": "245 кКал",
+        "Protein": "11,4 г",
+        "Fats": "11,9 г",
+        "Carbohydrates": "23,1 г"
+    },
+    {
+        "title": "Ай-Твистер Чизз-BBQ [Ростик'c - KFC]",
+        "Calories": "229 кКал",
+        "Protein": "11,5 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "25,9 г"
+    },
+    {
+        "title": "Айскофе [Ростик'c - KFC]",
+        "Calories": "29 кКал",
+        "Protein": "1,8 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "title": "Американо [Ростик'c - KFC]",
+        "Calories": "17 кКал",
+        "Protein": "0,2 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "2,9 г"
+    },
+    {
+        "title": "Американо [Ростик'c - KFC]",
+        "Calories": "78 кКал",
+        "Protein": "0,6 г",
+        "Fats": "1,5 г",
+        "Carbohydrates": "15,6 г"
+    },
+    {
+        "title": "Байтс [Ростик'c - KFC]",
+        "Calories": "268 кКал",
+        "Protein": "23,5 г",
+        "Fats": "11,9 г",
+        "Carbohydrates": "16,6 г"
+    },
+    {
+        "title": "Байтс Терияки [Ростик'c - KFC]",
+        "Calories": "296 кКал",
+        "Protein": "19 г",
+        "Fats": "11,3 г",
+        "Carbohydrates": "29,8 г"
+    },
+    {
+        "title": "Байтсы [Ростик'c - KFC]",
+        "Calories": "220 кКал",
+        "Protein": "20,8 г",
+        "Fats": "11,5 г",
+        "Carbohydrates": "8,4 г"
+    },
+    {
+        "title": "Байтсы [Ростик'c - KFC]",
+        "Calories": "220 кКал",
+        "Protein": "20,8 г",
+        "Fats": "11,5 г",
+        "Carbohydrates": "8,4 г"
+    },
+    {
+        "title": "Байтсы Большие [Ростик'c - KFC]",
+        "Calories": "767 кКал",
+        "Protein": "61,7 г",
+        "Fats": "39,9 г",
+        "Carbohydrates": "40,2 г"
+    },
+    {
+        "title": "Байтсы из Куриного Филе [Ростик'c - KFC]",
+        "Calories": "256 кКал",
+        "Protein": "20,6 г",
+        "Fats": "13,3 г",
+        "Carbohydrates": "13,4 г"
+    },
+    {
+        "title": "Байтсы из Куриного Филе Острые [Ростик'c - KFC]",
+        "Calories": "804 кКал",
+        "Protein": "70,5 г",
+        "Fats": "35,7 г",
+        "Carbohydrates": "49,8 г"
+    },
+    {
+        "title": "Байтсы из Куриного Филе с Соусом Барбекю [Ростик'c - KFC]",
+        "Calories": "240 кКал",
+        "Protein": "17,5 г",
+        "Fats": "8,9 г",
+        "Carbohydrates": "22,3 г"
+    },
+    {
+        "title": "Байтсы Малые [Ростик'c - KFC]",
+        "Calories": "243 кКал",
+        "Protein": "19,5 г",
+        "Fats": "12,6 г",
+        "Carbohydrates": "12,7 г"
+    },
+    {
+        "title": "Байтсы Средние [Ростик'c - KFC]",
+        "Calories": "220 кКал",
+        "Protein": "20,8 г",
+        "Fats": "11,5 г",
+        "Carbohydrates": "8,4 г"
+    },
+    {
+        "title": "Байтсы Терияки [Ростик'c - KFC]",
+        "Calories": "301 кКал",
+        "Protein": "16,9 г",
+        "Fats": "12,3 г",
+        "Carbohydrates": "30,7 г"
+    },
+    {
+        "title": "Банановое Мороженое [Ростик'c - KFC]",
+        "Calories": "147 кКал",
+        "Protein": "2,8 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "27,1 г"
+    },
+    {
+        "title": "Баскет 16 Крыльев [Ростик'c - KFC]",
+        "Calories": "1432 кКал",
+        "Protein": "88,8 г",
+        "Fats": "79,9 г",
+        "Carbohydrates": "88,9 г"
+    },
+    {
+        "title": "Баскет 25 Крыльев [Ростик'c - KFC]",
+        "Calories": "2029 кКал",
+        "Protein": "118,5 г",
+        "Fats": "131,2 г",
+        "Carbohydrates": "93,5 г"
+    },
+    {
+        "title": "Баскет L [Ростик'c - KFC]",
+        "Calories": "2280 кКал",
+        "Protein": "147 г",
+        "Fats": "156 г",
+        "Carbohydrates": "73,5 г"
+    },
+    {
+        "title": "Баскет S [Ростик'c - KFC]",
+        "Calories": "1064 кКал",
+        "Protein": "68,6 г",
+        "Fats": "72,8 г",
+        "Carbohydrates": "34,3 г"
+    },
+    {
+        "title": "Баскет Дуэт [Ростик'c - KFC]",
+        "Calories": "1625 кКал",
+        "Protein": "111,8 г",
+        "Fats": "95,6 г",
+        "Carbohydrates": "78,9 г"
+    },
+    {
+        "title": "Баскет Дуэт Оригинальный [Ростик'c - KFC]",
+        "Calories": "1310 кКал",
+        "Protein": "70 г",
+        "Fats": "75 г",
+        "Carbohydrates": "89 г"
+    },
+    {
+        "title": "Баскет Дуэт с Оригинальными Стрипсами [Ростик'c - KFC]",
+        "Calories": "309 кКал",
+        "Protein": "21,2 г",
+        "Fats": "17,6 г",
+        "Carbohydrates": "16,6 г"
+    },
+    {
+        "title": "Баскет Дуэт с Острыми Стрипсами [Ростик'c - KFC]",
+        "Calories": "1170 кКал",
+        "Protein": "76,3 г",
+        "Fats": "62,6 г",
+        "Carbohydrates": "75,1 г"
+    },
+    {
+        "title": "Баскет От Шефа [Ростик'c - KFC]",
+        "Calories": "681 кКал",
+        "Protein": "49,4 г",
+        "Fats": "38,4 г",
+        "Carbohydrates": "34,4 г"
+    },
+    {
+        "title": "Баскет Фри [Ростик'c - KFC]",
+        "Calories": "552 кКал",
+        "Protein": "7,6 г",
+        "Fats": "31 г",
+        "Carbohydrates": "60,2 г"
+    },
+    {
+        "title": "Бельгийская Вафля [Ростик'c - KFC]",
+        "Calories": "402 кКал",
+        "Protein": "4,1 г",
+        "Fats": "21,2 г",
+        "Carbohydrates": "49,1 г"
+    },
+    {
+        "title": "БИГГЕР оригинальный (порция 258 гр) [Ростик'c - KFC]",
+        "Calories": "619,2 кКал",
+        "Protein": "33 г",
+        "Fats": "28,4 г",
+        "Carbohydrates": "58,3 г"
+    },
+    {
+        "title": "Биггер Оригинальный [Ростик'c - KFC]",
+        "Calories": "622 кКал",
+        "Protein": "32,9 г",
+        "Fats": "28,2 г",
+        "Carbohydrates": "58,5 г"
+    },
+    {
+        "title": "БИГГЕР острый (порция 258 гр) [Ростик'c - KFC]",
+        "Calories": "580,5 кКал",
+        "Protein": "31,2 г",
+        "Fats": "24,3 г",
+        "Carbohydrates": "59,9 г"
+    },
+    {
+        "title": "Биггер Острый [Ростик'c - KFC]",
+        "Calories": "583 кКал",
+        "Protein": "31,1 г",
+        "Fats": "24,1 г",
+        "Carbohydrates": "60,1 г"
+    },
+    {
+        "title": "Блинчики [Ростик'c - KFC]",
+        "Calories": "205 кКал",
+        "Protein": "8 г",
+        "Fats": "4,7 г",
+        "Carbohydrates": "32,9 г"
+    },
+    {
+        "title": "Боксмастер без Соуса [Ростик'c - KFC]",
+        "Calories": "285 кКал",
+        "Protein": "20,6 г",
+        "Fats": "10 г",
+        "Carbohydrates": "50,7 г"
+    },
+    {
+        "title": "БОКСМАСТЕР ИЗ ТОСТЕРА оригинальный (порция 253 гр) [Ростик'c - KFC]",
+        "Calories": "690,7 кКал",
+        "Protein": "21,5 г",
+        "Fats": "41,7 г",
+        "Carbohydrates": "57,4 г"
+    },
+    {
+        "title": "Боксмастер из Тостера Оригинальный [Ростик'c - KFC]",
+        "Calories": "250 кКал",
+        "Protein": "10,8 г",
+        "Fats": "12,8 г",
+        "Carbohydrates": "22,9 г"
+    },
+    {
+        "title": "БОКСМАСТЕР ИЗ ТОСТЕРА острый (порция 253 гр) [Ростик'c - KFC]",
+        "Calories": "708,4 кКал",
+        "Protein": "22,8 г",
+        "Fats": "44,5 г",
+        "Carbohydrates": "53,9 г"
+    },
+    {
+        "title": "Боксмастер из Тостера Острый [Ростик'c - KFC]",
+        "Calories": "653 кКал",
+        "Protein": "21,8 г",
+        "Fats": "42,2 г",
+        "Carbohydrates": "46,9 г"
+    },
+    {
+        "title": "Боксмастер Оригинальный [Ростик'c - KFC]",
+        "Calories": "629 кКал",
+        "Protein": "27 г",
+        "Fats": "38,4 г",
+        "Carbohydrates": "43,9 г"
+    },
+    {
+        "title": "Боксмастер Оригинальный [Ростик'c - KFC]",
+        "Calories": "620 кКал",
+        "Protein": "9,3 г",
+        "Fats": "12,5 г",
+        "Carbohydrates": "20,8 г"
+    },
+    {
+        "title": "Боксмастер Оригинальный [Ростик'c - KFC]",
+        "Calories": "250 кКал",
+        "Protein": "10,8 г",
+        "Fats": "12,8 г",
+        "Carbohydrates": "22,9 г"
+    },
+    {
+        "title": "Боксмастер Острый [Ростик'c - KFC]",
+        "Calories": "255 кКал",
+        "Protein": "10,7 г",
+        "Fats": "13,4 г",
+        "Carbohydrates": "22,9 г"
+    },
+    {
+        "title": "Боксмастер Терияки [Ростик'c - KFC]",
+        "Calories": "250 кКал",
+        "Protein": "10,8 г",
+        "Fats": "12,8 г",
+        "Carbohydrates": "22,9 г"
+    },
+    {
+        "title": "Боксмастер Утренний [Ростик'c - KFC]",
+        "Calories": "224 кКал",
+        "Protein": "11,4 г",
+        "Fats": "11,1 г",
+        "Carbohydrates": "19,8 г"
+    },
+    {
+        "title": "Боксмастер Чизз-Бекон [Ростик'c - KFC]",
+        "Calories": "633 кКал",
+        "Protein": "24,3 г",
+        "Fats": "40,3 г",
+        "Carbohydrates": "43,4 г"
+    },
+    {
+        "title": "Брейкер [Ростик'c - KFC]",
+        "Calories": "322 кКал",
+        "Protein": "15,6 г",
+        "Fats": "15,4 г",
+        "Carbohydrates": "30,5 г"
+    },
+    {
+        "title": "Бургер Русс [Ростик'c - KFC]",
+        "Calories": "319 кКал",
+        "Protein": "19 г",
+        "Fats": "13,9 г",
+        "Carbohydrates": "29,6 г"
+    },
+    {
+        "title": "Бустер [Ростик'c - KFC]",
+        "Calories": "219 кКал",
+        "Protein": "12,6 г",
+        "Fats": "10,1 г",
+        "Carbohydrates": "19,5 г"
+    },
+    {
+        "title": "Ванильный Дюшес [Ростик'c - KFC]",
+        "Calories": "182 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "45,5 г"
+    },
+    {
+        "title": "Восточная Пита [Ростик'c - KFC]",
+        "Calories": "243 кКал",
+        "Protein": "11 г",
+        "Fats": "12,7 г",
+        "Carbohydrates": "21,4 г"
+    },
+    {
+        "title": "Грибной Твистер [Ростик'c - KFC]",
+        "Calories": "233 кКал",
+        "Protein": "12 г",
+        "Fats": "10,8 г",
+        "Carbohydrates": "21,9 г"
+    },
+    {
+        "title": "Дабл Чикен [Ростик'c - KFC]",
+        "Calories": "324 кКал",
+        "Protein": "26,8 г",
+        "Fats": "14,5 г",
+        "Carbohydrates": "21,3 г"
+    },
+    {
+        "title": "Дабл Чикен Кентукки BBQ [Ростик'c - KFC]",
+        "Calories": "222 кКал",
+        "Protein": "18,9 г",
+        "Fats": "10,4 г",
+        "Carbohydrates": "13,2 г"
+    },
+    {
+        "title": "Дабл Шефбургер [Ростик'c - KFC]",
+        "Calories": "569 кКал",
+        "Protein": "37,6 г",
+        "Fats": "24,9 г",
+        "Carbohydrates": "48,7 г"
+    },
+    {
+        "title": "Двойной Тёмный Бургер [Ростик'c - KFC]",
+        "Calories": "1033 кКал",
+        "Protein": "57,9 г",
+        "Fats": "54,5 г",
+        "Carbohydrates": "77,6 г"
+    },
+    {
+        "title": "Двойной Эспрессо [Ростик'c - KFC]",
+        "Calories": "23 кКал",
+        "Protein": "0,2 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "title": "Донат Карамельный [Ростик'c - KFC]",
+        "Calories": "440 кКал",
+        "Protein": "7 г",
+        "Fats": "19 г",
+        "Carbohydrates": "62 г"
+    },
+    {
+        "title": "Донат Карамельный [Ростик'c - KFC]",
+        "Calories": "295 кКал",
+        "Protein": "4,7 г",
+        "Fats": "12,7 г",
+        "Carbohydrates": "41,5 г"
+    },
+    {
+        "title": "Донат Клубничный [Ростик'c - KFC]",
+        "Calories": "417 кКал",
+        "Protein": "4,8 г",
+        "Fats": "24 г",
+        "Carbohydrates": "47 г"
+    },
+    {
+        "title": "Донат Яблоко-Корица [Ростик'c - KFC]",
+        "Calories": "378 кКал",
+        "Protein": "4,7 г",
+        "Fats": "18 г",
+        "Carbohydrates": "48 г"
+    },
+    {
+        "title": "Зингер [Ростик'c - KFC]",
+        "Calories": "363 кКал",
+        "Protein": "18,2 г",
+        "Fats": "16,8 г",
+        "Carbohydrates": "34,9 г"
+    },
+    {
+        "title": "ЗОЛОТОЙ ФАЗАН 0,3л (порция 300 гр) [Ростик'c - KFC]",
+        "Calories": "138 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Итальянский Салат Ролл [Ростик'c - KFC]",
+        "Calories": "431 кКал",
+        "Protein": "19 г",
+        "Fats": "19 г",
+        "Carbohydrates": "45,4 г"
+    },
+    {
+        "title": "Капучино [Ростик'c - KFC]",
+        "Calories": "46 кКал",
+        "Protein": "1,9 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "7,1 г"
+    },
+    {
+        "title": "Капучино 0,2 [Ростик'c - KFC]",
+        "Calories": "55 кКал",
+        "Protein": "1,9 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "9,3 г"
+    },
+    {
+        "title": "Капучино 0,4 [Ростик'c - KFC]",
+        "Calories": "128 кКал",
+        "Protein": "5,1 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "19,9 г"
+    },
+    {
+        "title": "Картофель по-Деревенски [Ростик'c - KFC]",
+        "Calories": "265 кКал",
+        "Protein": "3 г",
+        "Fats": "17,4 г",
+        "Carbohydrates": "24,2 г"
+    },
+    {
+        "title": "Картофель по-Деревенски Малый [Ростик'c - KFC]",
+        "Calories": "212 кКал",
+        "Protein": "2,4 г",
+        "Fats": "13,9 г",
+        "Carbohydrates": "19,4 г"
+    },
+    {
+        "title": "Картофель по-Деревенски Малый [Ростик'c - KFC]",
+        "Calories": "265 кКал",
+        "Protein": "3 г",
+        "Fats": "17,4 г",
+        "Carbohydrates": "24,2 г"
+    },
+    {
+        "title": "Картофель Фри [Ростик'c - KFC]",
+        "Calories": "276 кКал",
+        "Protein": "3,8 г",
+        "Fats": "15,5 г",
+        "Carbohydrates": "30,1 г"
+    },
+    {
+        "title": "Картофель Фри Маленькая [Ростик'c - KFC]",
+        "Calories": "193 кКал",
+        "Protein": "2,7 г",
+        "Fats": "10,9 г",
+        "Carbohydrates": "21,1 г"
+    },
+    {
+        "title": "Картофель Фри Малый [Ростик'c - KFC]",
+        "Calories": "166 кКал",
+        "Protein": "3,8 г",
+        "Fats": "15,5 г",
+        "Carbohydrates": "30,1 г"
+    },
+    {
+        "title": "Картофель Фри Стандартный [Ростик'c - KFC]",
+        "Calories": "331 кКал",
+        "Protein": "4,6 г",
+        "Fats": "18,6 г",
+        "Carbohydrates": "36,1 г"
+    },
+    {
+        "title": "Картофельные Кранчи Фри [Ростик'c - KFC]",
+        "Calories": "233 кКал",
+        "Protein": "2,6 г",
+        "Fats": "18,8 г",
+        "Carbohydrates": "13,1 г"
+    },
+    {
+        "title": "Картофельный Хашбраун [Ростик'c - KFC]",
+        "Calories": "534 кКал",
+        "Protein": "2,4 г",
+        "Fats": "52 г",
+        "Carbohydrates": "14,1 г"
+    },
+    {
+        "title": "Картошка Фри [Ростик'c - KFC]",
+        "Calories": "276 кКал",
+        "Protein": "3,8 г",
+        "Fats": "15,5 г",
+        "Carbohydrates": "30,1 г"
+    },
+    {
+        "title": "Кекс Апельсиновый [Ростик'c - KFC]",
+        "Calories": "414 кКал",
+        "Protein": "4,9 г",
+        "Fats": "22,8 г",
+        "Carbohydrates": "47,4 г"
+    },
+    {
+        "title": "Кекс Шоколадно-Апельсиновый [Ростик'c - KFC]",
+        "Calories": "436 кКал",
+        "Protein": "5,4 г",
+        "Fats": "24,8 г",
+        "Carbohydrates": "47,8 г"
+    },
+    {
+        "title": "Кекс Шоколадно-Апельсиновый [Ростик'c - KFC]",
+        "Calories": "131 кКал",
+        "Protein": "1,6 г",
+        "Fats": "7,4 г",
+        "Carbohydrates": "14,3 г"
+    },
+    {
+        "title": "Кетчуп [Ростик'c - KFC]",
+        "Calories": "110 кКал",
+        "Protein": "1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "25 г"
+    },
+    {
+        "title": "Классик [Ростик'c - KFC]",
+        "Calories": "345 кКал",
+        "Protein": "17,1 г",
+        "Fats": "13,8 г",
+        "Carbohydrates": "38,2 г"
+    },
+    {
+        "title": "Клубничный Дайкири [Ростик'c - KFC]",
+        "Calories": "188 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "47,2 г"
+    },
+    {
+        "title": "Кофе Американо 0,3 [Ростик'c - KFC]",
+        "Calories": "78 кКал",
+        "Protein": "0,6 г",
+        "Fats": "1,5 г",
+        "Carbohydrates": "15,6 г"
+    },
+    {
+        "title": "Кофе Глясе 0,2 [Ростик'c - KFC]",
+        "Calories": "84 кКал",
+        "Protein": "1,8 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "14 г"
+    },
+    {
+        "title": "Кофе Капучино 0,3 [Ростик'c - KFC]",
+        "Calories": "119 кКал",
+        "Protein": "3,5 г",
+        "Fats": "2,5 г",
+        "Carbohydrates": "20,7 г"
+    },
+    {
+        "title": "Кофе Капучино без Сахара 0,3 [Ростик'c - KFC]",
+        "Calories": "59 кКал",
+        "Protein": "3,7 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "5,9 г"
+    },
+    {
+        "title": "Кофе Латте 0,3 [Ростик'c - KFC]",
+        "Calories": "157 кКал",
+        "Protein": "5,8 г",
+        "Fats": "3,9 г",
+        "Carbohydrates": "24,5 г"
+    },
+    {
+        "title": "Кофе Латте 0,4 [Ростик'c - KFC]",
+        "Calories": "169 кКал",
+        "Protein": "7,9 г",
+        "Fats": "4,7 г",
+        "Carbohydrates": "24,8 г"
+    },
+    {
+        "title": "Криспи Чипс [Ростик'c - KFC]",
+        "Calories": "444 кКал",
+        "Protein": "5 г",
+        "Fats": "34,3 г",
+        "Carbohydrates": "28,9 г"
+    },
+    {
+        "title": "Крыло Куриное [Ростик'c - KFC]",
+        "Calories": "314 кКал",
+        "Protein": "16,6 г",
+        "Fats": "20,7 г",
+        "Carbohydrates": "15,4 г"
+    },
+    {
+        "title": "Крылышки [Ростик'c - KFC]",
+        "Calories": "678 кКал",
+        "Protein": "35,9 г",
+        "Fats": "44,7 г",
+        "Carbohydrates": "33,3 г"
+    },
+    {
+        "title": "Крылья Острые (3) [Ростик'c - KFC]",
+        "Calories": "254 кКал",
+        "Protein": "13,4 г",
+        "Fats": "16,8 г",
+        "Carbohydrates": "12,5 г"
+    },
+    {
+        "title": "Крылья Острые [Ростик'c - KFC]",
+        "Calories": "304 кКал",
+        "Protein": "19,6 г",
+        "Fats": "20,8 г",
+        "Carbohydrates": "9,8 г"
+    },
+    {
+        "title": "Кукуруза [Ростик'c - KFC]",
+        "Calories": "104 кКал",
+        "Protein": "1,8 г",
+        "Fats": "4,2 г",
+        "Carbohydrates": "14,9 г"
+    },
+    {
+        "title": "Куриная Ножка с Соусом Терияки [Ростик'c - KFC]",
+        "Calories": "230 кКал",
+        "Protein": "16,9 г",
+        "Fats": "12 г",
+        "Carbohydrates": "14 г"
+    },
+    {
+        "title": "Куриные Крылышки [Ростик'c - KFC]",
+        "Calories": "304 кКал",
+        "Protein": "19,6 г",
+        "Fats": "20,8 г",
+        "Carbohydrates": "9,8 г"
+    },
+    {
+        "title": "КУРИНЫЕ КРЫЛЫШКИ 3 шт/27г (порция 81 гр) [Ростик'c - KFC]",
+        "Calories": "254,3 кКал",
+        "Protein": "13,4 г",
+        "Fats": "16,8 г",
+        "Carbohydrates": "12,5 г"
+    },
+    {
+        "title": "КУРИНЫЕ КРЫЛЫШКИ 5 шт/27г (порция 135 гр) [Ростик'c - KFC]",
+        "Calories": "423,9 кКал",
+        "Protein": "22,4 г",
+        "Fats": "27,9 г",
+        "Carbohydrates": "20,8 г"
+    },
+    {
+        "title": "КУРИНЫЕ КРЫЛЫШКИ 8 шт/27г (порция 216 гр) [Ростик'c - KFC]",
+        "Calories": "678,2 кКал",
+        "Protein": "35,9 г",
+        "Fats": "44,7 г",
+        "Carbohydrates": "33,3 г"
+    },
+    {
+        "title": "Куриные Ножки [Ростик'c - KFC]",
+        "Calories": "211 кКал",
+        "Protein": "18,7 г",
+        "Fats": "11,9 г",
+        "Carbohydrates": "7,2 г"
+    },
+    {
+        "title": "Куриный Хот-Дог [Ростик'c - KFC]",
+        "Calories": "226 кКал",
+        "Protein": "9,6 г",
+        "Fats": "10,1 г",
+        "Carbohydrates": "24,3 г"
+    },
+    {
+        "title": "КУРИНЫЙ ШАШЛЫК (порция 130 гр) [Ростик'c - KFC]",
+        "Calories": "182 кКал",
+        "Protein": "32,4 г",
+        "Fats": "5,7 г",
+        "Carbohydrates": "0,3 г"
+    },
+    {
+        "title": "Куриный Шашлык [Ростик'c - KFC]",
+        "Calories": "182 кКал",
+        "Protein": "32,4 г",
+        "Fats": "5,7 г",
+        "Carbohydrates": "0,3 г"
+    },
+    {
+        "title": "Латте [Ростик'c - KFC]",
+        "Calories": "45 кКал",
+        "Protein": "2,1 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "title": "Латте 0,4 [Ростик'c - KFC]",
+        "Calories": "47 кКал",
+        "Protein": "2,2 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "6,9 г"
+    },
+    {
+        "title": "Летняя Пита [Ростик'c - KFC]",
+        "Calories": "235 кКал",
+        "Protein": "10,6 г",
+        "Fats": "12,2 г",
+        "Carbohydrates": "20,7 г"
+    },
+    {
+        "title": "Лимонад Барбарис [Ростик'c - KFC]",
+        "Calories": "50 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "12,6 г"
+    },
+    {
+        "title": "Лимонад Ванильный Дюшес [Ростик'c - KFC]",
+        "Calories": "182 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "45,5 г"
+    },
+    {
+        "title": "ЛОВЕНБРАУ ОРИГИНАЛЬНОЕ 0,3л (порция 300 гр) [Ростик'c - KFC]",
+        "Calories": "138 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "14,1 г"
+    },
+    {
+        "title": "ЛОВЕНБРАУ ОРИГИНАЛЬНОЕ 0,5л (порция 500 гр) [Ростик'c - KFC]",
+        "Calories": "230 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "23,5 г"
+    },
+    {
+        "title": "Лонгер [Ростик'c - KFC]",
+        "Calories": "233 кКал",
+        "Protein": "9,8 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "30,8 г"
+    },
+    {
+        "title": "Лонгер BBQ [Ростик'c - KFC]",
+        "Calories": "236 кКал",
+        "Protein": "9,7 г",
+        "Fats": "7,1 г",
+        "Carbohydrates": "33,3 г"
+    },
+    {
+        "title": "ЛОНГЕР оригинальный (порция 117 гр) [Ростик'c - KFC]",
+        "Calories": "296 кКал",
+        "Protein": "12,9 г",
+        "Fats": "13 г",
+        "Carbohydrates": "31,9 г"
+    },
+    {
+        "title": "Лонгер Оригинальный [Ростик'c - KFC]",
+        "Calories": "296 кКал",
+        "Protein": "12,9 г",
+        "Fats": "13 г",
+        "Carbohydrates": "31,9 г"
+    },
+    {
+        "title": "ЛОНГЕР острый (порция 113 гр) [Ростик'c - KFC]",
+        "Calories": "248,6 кКал",
+        "Protein": "12,3 г",
+        "Fats": "6,4 г",
+        "Carbohydrates": "35,3 г"
+    },
+    {
+        "title": "Лонгер Острый [Ростик'c - KFC]",
+        "Calories": "249 кКал",
+        "Protein": "12,3 г",
+        "Fats": "6,4 г",
+        "Carbohydrates": "35,3 г"
+    },
+    {
+        "title": "Лонгер Чиз [Ростик'c - KFC]",
+        "Calories": "268 кКал",
+        "Protein": "12,9 г",
+        "Fats": "12,3 г",
+        "Carbohydrates": "26,5 г"
+    },
+    {
+        "title": "Маффин Тоффи [Ростик'c - KFC]",
+        "Calories": "475 кКал",
+        "Protein": "5,5 г",
+        "Fats": "24,4 г",
+        "Carbohydrates": "58 г"
+    },
+    {
+        "title": "Микс Бокс [Ростик'c - KFC]",
+        "Calories": "409 кКал",
+        "Protein": "29,1 г",
+        "Fats": "23,1 г",
+        "Carbohydrates": "21,2 г"
+    },
+    {
+        "title": "Милк Шейк Шоколадно-Ореховый 0,25 [Ростик'c - KFC]",
+        "Calories": "215 кКал",
+        "Protein": "4,8 г",
+        "Fats": "4,5 г",
+        "Carbohydrates": "39 г"
+    },
+    {
+        "title": "Милкшейк  Лесная Клубника [Ростик'c - KFC]",
+        "Calories": "143 кКал",
+        "Protein": "3,4 г",
+        "Fats": "3,5 г",
+        "Carbohydrates": "27,2 г"
+    },
+    {
+        "title": "Милкшейк Банан [Ростик'c - KFC]",
+        "Calories": "242 кКал",
+        "Protein": "6,2 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "42,5 г"
+    },
+    {
+        "title": "Милкшейк Ваниль [Ростик'c - KFC]",
+        "Calories": "76 кКал",
+        "Protein": "1,9 г",
+        "Fats": "1,8 г",
+        "Carbohydrates": "13,2 г"
+    },
+    {
+        "title": "Милкшейк Чёрная Смородина [Ростик'c - KFC]",
+        "Calories": "92 кКал",
+        "Protein": "2,2 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "16 г"
+    },
+    {
+        "title": "Милкшейк Шоколадно-Ореховый [Ростик'c - KFC]",
+        "Calories": "86 кКал",
+        "Protein": "1,9 г",
+        "Fats": "1,8 г",
+        "Carbohydrates": "15,6 г"
+    },
+    {
+        "title": "Милкшейк Шоколадно-Ореховый 0,25 [Ростик'c - KFC]",
+        "Calories": "215 кКал",
+        "Protein": "4,8 г",
+        "Fats": "4,5 г",
+        "Carbohydrates": "39 г"
+    },
+    {
+        "title": "МИНИ ТВИСТЕР оригинальный (порция 104 гр) [Ростик'c - KFC]",
+        "Calories": "267,3 кКал",
+        "Protein": "10,5 г",
+        "Fats": "12,3 г",
+        "Carbohydrates": "28,7 г"
+    },
+    {
+        "title": "Мини Твистер Оригинальный [Ростик'c - KFC]",
+        "Calories": "267 кКал",
+        "Protein": "10,5 г",
+        "Fats": "12,3 г",
+        "Carbohydrates": "28,7 г"
+    },
+    {
+        "title": "МИНИ ТВИСТЕР острый (порция 104 гр) [Ростик'c - KFC]",
+        "Calories": "254,8 кКал",
+        "Protein": "9,9 г",
+        "Fats": "10,9 г",
+        "Carbohydrates": "29,2 г"
+    },
+    {
+        "title": "Мой Баскет с Байтс [Ростик'c - KFC]",
+        "Calories": "223 кКал",
+        "Protein": "17,8 г",
+        "Fats": "14,5 г",
+        "Carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Мой Баскет с Крыльями [Ростик'c - KFC]",
+        "Calories": "223 кКал",
+        "Protein": "17,8 г",
+        "Fats": "14,5 г",
+        "Carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Молочный Коктейль [Ростик'c - KFC]",
+        "Calories": "154 кКал",
+        "Protein": "3,4 г",
+        "Fats": "3,5 г",
+        "Carbohydrates": "27,2 г"
+    },
+    {
+        "title": "Молочный Коктейль Пина Колада [Ростик'c - KFC]",
+        "Calories": "90 кКал",
+        "Protein": "1,9 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "16,9 г"
+    },
+    {
+        "title": "Мороженое \"Летняя Фантазия\" [Ростик'c - KFC]",
+        "Calories": "168 кКал",
+        "Protein": "4,7 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "26,5 г"
+    },
+    {
+        "title": "Мороженое [Ростик'c - KFC]",
+        "Calories": "168 кКал",
+        "Protein": "4,7 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "26,5 г"
+    },
+    {
+        "title": "Мороженое Kit Kat [Ростик'c - KFC]",
+        "Calories": "196 кКал",
+        "Protein": "3,2 г",
+        "Fats": "5,8 г",
+        "Carbohydrates": "32,7 г"
+    },
+    {
+        "title": "Мороженое Айс Дрим Клубника [Ростик'c - KFC]",
+        "Calories": "173 кКал",
+        "Protein": "3,6 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "32 г"
+    },
+    {
+        "title": "Мороженое Айс Дрим Шоколад [Ростик'c - KFC]",
+        "Calories": "272 кКал",
+        "Protein": "6,2 г",
+        "Fats": "5,6 г",
+        "Carbohydrates": "49,4 г"
+    },
+    {
+        "title": "Мороженое Айсдрим Клубника [Ростик'c - KFC]",
+        "Calories": "252 кКал",
+        "Protein": "5,5 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "46,2 г"
+    },
+    {
+        "title": "Мороженое Банан-Брауни [Ростик'c - KFC]",
+        "Calories": "178 кКал",
+        "Protein": "2,8 г",
+        "Fats": "4,5 г",
+        "Carbohydrates": "31,6 г"
+    },
+    {
+        "title": "Мороженое в Рожке [Ростик'c - KFC]",
+        "Calories": "131 кКал",
+        "Protein": "3,7 г",
+        "Fats": "3,3 г",
+        "Carbohydrates": "21,5 г"
+    },
+    {
+        "title": "Мороженое Карамельное [Ростик'c - KFC]",
+        "Calories": "158 кКал",
+        "Protein": "2,8 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "29,4 г"
+    },
+    {
+        "title": "Мороженое Клубничное [Ростик'c - KFC]",
+        "Calories": "163 кКал",
+        "Protein": "2,9 г",
+        "Fats": "3 г",
+        "Carbohydrates": "31,1 г"
+    },
+    {
+        "title": "Мороженое Рожок [Ростик'c - KFC]",
+        "Calories": "151 кКал",
+        "Protein": "3,7 г",
+        "Fats": "4,1 г",
+        "Carbohydrates": "24,9 г"
+    },
+    {
+        "title": "Мороженое Сникерс [Ростик'c - KFC]",
+        "Calories": "186 кКал",
+        "Protein": "3,7 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "29,1 г"
+    },
+    {
+        "title": "Мороженое Шоколадное [Ростик'c - KFC]",
+        "Calories": "154 кКал",
+        "Protein": "3 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "28,5 г"
+    },
+    {
+        "title": "Мохито [Ростик'c - KFC]",
+        "Calories": "182 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "45,5 г"
+    },
+    {
+        "title": "Наггетсы [Ростик'c - KFC]",
+        "Calories": "287 кКал",
+        "Protein": "13,8 г",
+        "Fats": "17,2 г",
+        "Carbohydrates": "19,4 г"
+    },
+    {
+        "title": "Напиток Черная Смородина [Ростик'c - KFC]",
+        "Calories": "144 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "36,1 г"
+    },
+    {
+        "title": "Ножка (3) [Ростик'c - KFC]",
+        "Calories": "458 кКал",
+        "Protein": "38,2 г",
+        "Fats": "26,3 г",
+        "Carbohydrates": "17,2 г"
+    },
+    {
+        "title": "Ножки Оригинальные [Ростик'c - KFC]",
+        "Calories": "229 кКал",
+        "Protein": "21 г",
+        "Fats": "12,7 г",
+        "Carbohydrates": "7,7 г"
+    },
+    {
+        "title": "Овсяная Каша [Ростик'c - KFC]",
+        "Calories": "94 кКал",
+        "Protein": "3,3 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "16 г"
+    },
+    {
+        "title": "Острые Крылышки [Ростик'c - KFC]",
+        "Calories": "254 кКал",
+        "Protein": "13,4 г",
+        "Fats": "16,8 г",
+        "Carbohydrates": "12,5 г"
+    },
+    {
+        "title": "Острый Шефбургер [Ростик'c - KFC]",
+        "Calories": "239 кКал",
+        "Protein": "10,7 г",
+        "Fats": "10,1 г",
+        "Carbohydrates": "26,2 г"
+    },
+    {
+        "title": "Острый Шефбургер Де Люкс [Ростик'c - KFC]",
+        "Calories": "453 кКал",
+        "Protein": "25 г",
+        "Fats": "22,8 г",
+        "Carbohydrates": "36,9 г"
+    },
+    {
+        "title": "Панини [Ростик'c - KFC]",
+        "Calories": "519 кКал",
+        "Protein": "24,7 г",
+        "Fats": "21,3 г",
+        "Carbohydrates": "56,8 г"
+    },
+    {
+        "title": "Пати Бокс [Ростик'c - KFC]",
+        "Calories": "240 кКал",
+        "Protein": "23,1 г",
+        "Fats": "12,8 г",
+        "Carbohydrates": "8,1 г"
+    },
+    {
+        "title": "Пати-Баскет [Ростик'c - KFC]",
+        "Calories": "487 кКал",
+        "Protein": "30,3 г",
+        "Fats": "24,7 г",
+        "Carbohydrates": "30,7 г"
+    },
+    {
+        "title": "Печенье Шоколадное с Белым Шоколадом и Фундуком [Ростик'c - KFC]",
+        "Calories": "469 кКал",
+        "Protein": "7,1 г",
+        "Fats": "20,6 г",
+        "Carbohydrates": "63,7 г"
+    },
+    {
+        "title": "Пирожное Черный Лес [Ростик'c - KFC]",
+        "Calories": "478 кКал",
+        "Protein": "2,7 г",
+        "Fats": "19,2 г",
+        "Carbohydrates": "73,6 г"
+    },
+    {
+        "title": "Пирожок Малина-Черника [Ростик'c - KFC]",
+        "Calories": "308 кКал",
+        "Protein": "3,6 г",
+        "Fats": "20,8 г",
+        "Carbohydrates": "26,8 г"
+    },
+    {
+        "title": "Пирожок с Вишней [Ростик'c - KFC]",
+        "Calories": "246 кКал",
+        "Protein": "2,5 г",
+        "Fats": "11,9 г",
+        "Carbohydrates": "32,1 г"
+    },
+    {
+        "title": "Пирожок с Творогом [Ростик'c - KFC]",
+        "Calories": "261 кКал",
+        "Protein": "5,3 г",
+        "Fats": "17 г",
+        "Carbohydrates": "26,6 г"
+    },
+    {
+        "title": "Пирожок с Яблоком [Ростик'c - KFC]",
+        "Calories": "303 кКал",
+        "Protein": "2,9 г",
+        "Fats": "17,7 г",
+        "Carbohydrates": "32,9 г"
+    },
+    {
+        "title": "Пончик [Ростик'c - KFC]",
+        "Calories": "231 кКал",
+        "Protein": "2,9 г",
+        "Fats": "11 г",
+        "Carbohydrates": "29,3 г"
+    },
+    {
+        "title": "Райзер [Ростик'c - KFC]",
+        "Calories": "220 кКал",
+        "Protein": "11,3 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "24,7 г"
+    },
+    {
+        "title": "Ризотто с Грибами [Ростик'c - KFC]",
+        "Calories": "207 кКал",
+        "Protein": "8 г",
+        "Fats": "9,6 г",
+        "Carbohydrates": "22,2 г"
+    },
+    {
+        "title": "Рисбокс Терияки [Ростик'c - KFC]",
+        "Calories": "357 кКал",
+        "Protein": "16,8 г",
+        "Fats": "9,2 г",
+        "Carbohydrates": "51,8 г"
+    },
+    {
+        "title": "Рождественский Бургер [Ростик'c - KFC]",
+        "Calories": "258 кКал",
+        "Protein": "12,7 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "22,8 г"
+    },
+    {
+        "title": "Рожок [Ростик'c - KFC]",
+        "Calories": "151 кКал",
+        "Protein": "3,7 г",
+        "Fats": "4,1 г",
+        "Carbohydrates": "24,9 г"
+    },
+    {
+        "title": "Рожок в Глазури [Ростик'c - KFC]",
+        "Calories": "171 кКал",
+        "Protein": "3,4 г",
+        "Fats": "6,3 г",
+        "Carbohydrates": "25,3 г"
+    },
+    {
+        "title": "Сабле с Яблоком [Ростик'c - KFC]",
+        "Calories": "273 кКал",
+        "Protein": "3,2 г",
+        "Fats": "13,2 г",
+        "Carbohydrates": "35,4 г"
+    },
+    {
+        "title": "Сабле с Яблоком [Ростик'c - KFC]",
+        "Calories": "364 кКал",
+        "Protein": "4,2 г",
+        "Fats": "17,6 г",
+        "Carbohydrates": "47,2 г"
+    },
+    {
+        "title": "Салат Веджи [Ростик'c - KFC]",
+        "Calories": "54 кКал",
+        "Protein": "2 г",
+        "Fats": "2,6 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "title": "Салат Коул Слоу [Ростик'c - KFC]",
+        "Calories": "108 кКал",
+        "Protein": "1,4 г",
+        "Fats": "6,9 г",
+        "Carbohydrates": "9,9 г"
+    },
+    {
+        "title": "Салат Летний [Ростик'c - KFC]",
+        "Calories": "105 кКал",
+        "Protein": "6,5 г",
+        "Fats": "5,9 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "title": "Салат Терияки [Ростик'c - KFC]",
+        "Calories": "112 кКал",
+        "Protein": "7,2 г",
+        "Fats": "4,7 г",
+        "Carbohydrates": "10,2 г"
+    },
+    {
+        "title": "Салат Цезарь [Ростик'c - KFC]",
+        "Calories": "124 кКал",
+        "Protein": "11,1 г",
+        "Fats": "5,9 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "title": "Салат Цезарь Лайт без Соуса [Ростик'c - KFC]",
+        "Calories": "137 кКал",
+        "Protein": "10,6 г",
+        "Fats": "7,3 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "title": "Салат Цезарь Лайт без Соуса [Ростик'c - KFC]",
+        "Calories": "137 кКал",
+        "Protein": "10,6 г",
+        "Fats": "7,3 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "title": "САНДВИЧ ЗИНГЕР (порция 157 гр) [Ростик'c - KFC]",
+        "Calories": "362,7 кКал",
+        "Protein": "18,2 г",
+        "Fats": "16,8 г",
+        "Carbohydrates": "34,9 г"
+    },
+    {
+        "title": "САНДВИЧ КЛАССИК (порция 157 гр) [Ростик'c - KFC]",
+        "Calories": "345,4 кКал",
+        "Protein": "17,1 г",
+        "Fats": "13,8 г",
+        "Carbohydrates": "38,2 г"
+    },
+    {
+        "title": "Сандвич Чикен Барбекю [Ростик'c - KFC]",
+        "Calories": "320 кКал",
+        "Protein": "15,7 г",
+        "Fats": "11,4 г",
+        "Carbohydrates": "38,7 г"
+    },
+    {
+        "title": "Сандерс [Ростик'c - KFC]",
+        "Calories": "212 кКал",
+        "Protein": "10,5 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "28,8 г"
+    },
+    {
+        "title": "Сандерс Баскет [Ростик'c - KFC]",
+        "Calories": "791 кКал",
+        "Protein": "67,3 г",
+        "Fats": "44,6 г",
+        "Carbohydrates": "30,2 г"
+    },
+    {
+        "title": "Сандерс Пита [Ростик'c - KFC]",
+        "Calories": "276 кКал",
+        "Protein": "13,7 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "37,4 г"
+    },
+    {
+        "title": "Сахар [Ростик'c - KFC]",
+        "Calories": "400 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "100 г"
+    },
+    {
+        "title": "СИБИРСКАЯ КОРОНА 0,3л (порция 300 гр) [Ростик'c - KFC]",
+        "Calories": "138 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "14,1 г"
+    },
+    {
+        "title": "СИБИРСКАЯ КОРОНА 0,5л (порция 500 гр) [Ростик'c - KFC]",
+        "Calories": "230 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "23,5 г"
+    },
+    {
+        "title": "Сладкий Снэк Яблоко [Ростик'c - KFC]",
+        "Calories": "203 кКал",
+        "Protein": "3,5 г",
+        "Fats": "6,6 г",
+        "Carbohydrates": "32,3 г"
+    },
+    {
+        "title": "Соус Бальзамик [Ростик'c - KFC]",
+        "Calories": "366 кКал",
+        "Protein": "0,1 г",
+        "Fats": "40 г",
+        "Carbohydrates": "1,4 г"
+    },
+    {
+        "title": "Соус Барбекю [Ростик'c - KFC]",
+        "Calories": "120 кКал",
+        "Protein": "1,5 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "29 г"
+    },
+    {
+        "title": "Соус Деликатесный [Ростик'c - KFC]",
+        "Calories": "306 кКал",
+        "Protein": "0,9 г",
+        "Fats": "32,1 г",
+        "Carbohydrates": "3,4 г"
+    },
+    {
+        "title": "Соус Кисло-Сладкий Чили [Ростик'c - KFC]",
+        "Calories": "160 кКал",
+        "Protein": "0,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "39 г"
+    },
+    {
+        "title": "Соус Майонезный \"Цезарь\" [Ростик'c - KFC]",
+        "Calories": "236 кКал",
+        "Protein": "1,2 г",
+        "Fats": "23,6 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Соус Сырный Особый [Ростик'c - KFC]",
+        "Calories": "300 кКал",
+        "Protein": "1 г",
+        "Fats": "29 г",
+        "Carbohydrates": "8,5 г"
+    },
+    {
+        "title": "Соус Терияки [Ростик'c - KFC]",
+        "Calories": "170 кКал",
+        "Protein": "2,5 г",
+        "Fats": "0 г",
+        "Carbohydrates": "39 г"
+    },
+    {
+        "title": "Соус Фруктовый \"Клюквенный\" [Ростик'c - KFC]",
+        "Calories": "148 кКал",
+        "Protein": "0,1 г",
+        "Fats": "0 г",
+        "Carbohydrates": "36,4 г"
+    },
+    {
+        "title": "Соус Цезарь [Ростик'c - KFC]",
+        "Calories": "236 кКал",
+        "Protein": "1,3 г",
+        "Fats": "24 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "title": "Соус Чесночный [Ростик'c - KFC]",
+        "Calories": "340 кКал",
+        "Protein": "0,5 г",
+        "Fats": "33 г",
+        "Carbohydrates": "8,5 г"
+    },
+    {
+        "title": "Стар Баскет [Ростик'c - KFC]",
+        "Calories": "810 кКал",
+        "Protein": "55,5 г",
+        "Fats": "46,8 г",
+        "Carbohydrates": "41,4 г"
+    },
+    {
+        "title": "Стрипсы Оригинальные (3) [Ростик'c - KFC]",
+        "Calories": "194 кКал",
+        "Protein": "20,4 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "11,9 г"
+    },
+    {
+        "title": "Стрипсы Оригинальные (3) [Ростик'c - KFC]",
+        "Calories": "194 кКал",
+        "Protein": "20,4 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "11,9 г"
+    },
+    {
+        "title": "Стрипсы Оригинальные [Ростик'c - KFC]",
+        "Calories": "219 кКал",
+        "Protein": "21,1 г",
+        "Fats": "10 г",
+        "Carbohydrates": "11,3 г"
+    },
+    {
+        "title": "Стрипсы Острые [Ростик'c - KFC]",
+        "Calories": "240 кКал",
+        "Protein": "23,1 г",
+        "Fats": "12,8 г",
+        "Carbohydrates": "8,1 г"
+    },
+    {
+        "title": "Стрипсы с Соусом Терияки [Ростик'c - KFC]",
+        "Calories": "215 кКал",
+        "Protein": "15,3 г",
+        "Fats": "8,4 г",
+        "Carbohydrates": "19,6 г"
+    },
+    {
+        "title": "Сырники [Ростик'c - KFC]",
+        "Calories": "258 кКал",
+        "Protein": "13,7 г",
+        "Fats": "11,3 г",
+        "Carbohydrates": "25,5 г"
+    },
+    {
+        "title": "Сырные Подушечки (5) [Ростик'c - KFC]",
+        "Calories": "383 кКал",
+        "Protein": "8 г",
+        "Fats": "25,8 г",
+        "Carbohydrates": "29,7 г"
+    },
+    {
+        "title": "Сырный Соус [Ростик'c - KFC]",
+        "Calories": "300 кКал",
+        "Protein": "1 г",
+        "Fats": "29 г",
+        "Carbohydrates": "8,5 г"
+    },
+    {
+        "title": "Такос Сальса [Ростик'c - KFC]",
+        "Calories": "261 кКал",
+        "Protein": "15 г",
+        "Fats": "12,1 г",
+        "Carbohydrates": "23 г"
+    },
+    {
+        "title": "Такос Сырный [Ростик'c - KFC]",
+        "Calories": "266 кКал",
+        "Protein": "15,1 г",
+        "Fats": "14,4 г",
+        "Carbohydrates": "19 г"
+    },
+    {
+        "title": "Тауэр Русс [Ростик'c - KFC]",
+        "Calories": "554 кКал",
+        "Protein": "22,1 г",
+        "Fats": "35,8 г",
+        "Carbohydrates": "35,7 г"
+    },
+    {
+        "title": "Твистер [Ростик'c - KFC]",
+        "Calories": "250 кКал",
+        "Protein": "11,8 г",
+        "Fats": "10,8 г",
+        "Carbohydrates": "26,2 г"
+    },
+    {
+        "title": "Твистер Барбекю [Ростик'c - KFC]",
+        "Calories": "402 кКал",
+        "Protein": "18,7 г",
+        "Fats": "16,5 г",
+        "Carbohydrates": "45 г"
+    },
+    {
+        "title": "Твистер Веджи [Ростик'c - KFC]",
+        "Calories": "269 кКал",
+        "Protein": "4,6 г",
+        "Fats": "18 г",
+        "Carbohydrates": "22,2 г"
+    },
+    {
+        "title": "Твистер Де Люкс Оригинальный [Ростик'c - KFC]",
+        "Calories": "244 кКал",
+        "Protein": "12,4 г",
+        "Fats": "9,7 г",
+        "Carbohydrates": "26,8 г"
+    },
+    {
+        "title": "Твистер Де Люкс Оригинальный [Ростик'c - KFC]",
+        "Calories": "503 кКал",
+        "Protein": "25,6 г",
+        "Fats": "21 г",
+        "Carbohydrates": "53,2 г"
+    },
+    {
+        "title": "Твистер Де Люкс Острый [Ростик'c - KFC]",
+        "Calories": "252 кКал",
+        "Protein": "12,9 г",
+        "Fats": "10,7 г",
+        "Carbohydrates": "26,1 г"
+    },
+    {
+        "title": "Твистер Джуниор [Ростик'c - KFC]",
+        "Calories": "237 кКал",
+        "Protein": "12,5 г",
+        "Fats": "10,7 г",
+        "Carbohydrates": "22,6 г"
+    },
+    {
+        "title": "Твистер Жульен [Ростик'c - KFC]",
+        "Calories": "264 кКал",
+        "Protein": "11,1 г",
+        "Fats": "13,9 г",
+        "Carbohydrates": "23,6 г"
+    },
+    {
+        "title": "Твистер из Тостера Веджи [Ростик'c - KFC]",
+        "Calories": "509 кКал",
+        "Protein": "9,2 г",
+        "Fats": "34 г",
+        "Carbohydrates": "41,1 г"
+    },
+    {
+        "title": "ТВИСТЕР ИЗ ТОСТЕРА оригинальный (порция 192 гр) [Ростик'c - KFC]",
+        "Calories": "449,3 кКал",
+        "Protein": "19,4 г",
+        "Fats": "19 г",
+        "Carbohydrates": "49,7 г"
+    },
+    {
+        "title": "Твистер из Тостера Оригинальный [Ростик'c - KFC]",
+        "Calories": "423 кКал",
+        "Protein": "20,2 г",
+        "Fats": "18,4 г",
+        "Carbohydrates": "44,3 г"
+    },
+    {
+        "title": "ТВИСТЕР ИЗ ТОСТЕРА острый (порция 192 гр) [Ростик'c - KFC]",
+        "Calories": "424,3 кКал",
+        "Protein": "18,2 г",
+        "Fats": "16,3 г",
+        "Carbohydrates": "50,9 г"
+    },
+    {
+        "title": "Твистер из Тостера Острый [Ростик'c - KFC]",
+        "Calories": "207 кКал",
+        "Protein": "9,4 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "23,1 г"
+    },
+    {
+        "title": "Твистер Кентукки BBQ [Ростик'c - KFC]",
+        "Calories": "248 кКал",
+        "Protein": "11,7 г",
+        "Fats": "11 г",
+        "Carbohydrates": "25,5 г"
+    },
+    {
+        "title": "Твистер Летний [Ростик'c - KFC]",
+        "Calories": "242 кКал",
+        "Protein": "10,7 г",
+        "Fats": "12,2 г",
+        "Carbohydrates": "22,2 г"
+    },
+    {
+        "title": "Твистер Оригинальный [Ростик'c - KFC]",
+        "Calories": "241 кКал",
+        "Protein": "11,3 г",
+        "Fats": "9,7 г",
+        "Carbohydrates": "27 г"
+    },
+    {
+        "title": "Твистер Острый [Ростик'c - KFC]",
+        "Calories": "252 кКал",
+        "Protein": "12,9 г",
+        "Fats": "10,7 г",
+        "Carbohydrates": "26,1 г"
+    },
+    {
+        "title": "Твистер Пепперони [Ростик'c - KFC]",
+        "Calories": "447 кКал",
+        "Protein": "20 г",
+        "Fats": "19,1 г",
+        "Carbohydrates": "48,7 г"
+    },
+    {
+        "title": "Твистер по-Американски [Ростик'c - KFC]",
+        "Calories": "426 кКал",
+        "Protein": "19 г",
+        "Fats": "19,1 г",
+        "Carbohydrates": "44,7 г"
+    },
+    {
+        "title": "Твистер Русс [Ростик'c - KFC]",
+        "Calories": "429 кКал",
+        "Protein": "20,1 г",
+        "Fats": "19,7 г",
+        "Carbohydrates": "43,1 г"
+    },
+    {
+        "title": "Твистер Сальса [Ростик'c - KFC]",
+        "Calories": "240 кКал",
+        "Protein": "11,4 г",
+        "Fats": "10,9 г",
+        "Carbohydrates": "24,1 г"
+    },
+    {
+        "title": "Твистер Терияки [Ростик'c - KFC]",
+        "Calories": "439 кКал",
+        "Protein": "18,9 г",
+        "Fats": "16,2 г",
+        "Carbohydrates": "54,8 г"
+    },
+    {
+        "title": "Твистер Утренний [Ростик'c - KFC]",
+        "Calories": "212 кКал",
+        "Protein": "10,6 г",
+        "Fats": "10,4 г",
+        "Carbohydrates": "18,8 г"
+    },
+    {
+        "title": "Твистер Чиз [Ростик'c - KFC]",
+        "Calories": "480 кКал",
+        "Protein": "21,4 г",
+        "Fats": "22,9 г",
+        "Carbohydrates": "46,8 г"
+    },
+    {
+        "title": "Твистер Чизз-Бекон [Ростик'c - KFC]",
+        "Calories": "485 кКал",
+        "Protein": "23,2 г",
+        "Fats": "23,4 г",
+        "Carbohydrates": "45,4 г"
+    },
+    {
+        "title": "Тёмный Боксмастер [Ростик'c - KFC]",
+        "Calories": "253 кКал",
+        "Protein": "9,2 г",
+        "Fats": "14,1 г",
+        "Carbohydrates": "22,3 г"
+    },
+    {
+        "title": "Тёмный Бургер [Ростик'c - KFC]",
+        "Calories": "628 кКал",
+        "Protein": "32,7 г",
+        "Fats": "31,9 г",
+        "Carbohydrates": "52,3 г"
+    },
+    {
+        "title": "Тёмный Твистер [Ростик'c - KFC]",
+        "Calories": "261 кКал",
+        "Protein": "11,2 г",
+        "Fats": "13,5 г",
+        "Carbohydrates": "23,7 г"
+    },
+    {
+        "title": "Тирамису [Ростик'c - KFC]",
+        "Calories": "354 кКал",
+        "Protein": "3,7 г",
+        "Fats": "22,2 г",
+        "Carbohydrates": "35,5 г"
+    },
+    {
+        "title": "Тост с Сыром [Ростик'c - KFC]",
+        "Calories": "288 кКал",
+        "Protein": "11,1 г",
+        "Fats": "12 г",
+        "Carbohydrates": "34,1 г"
+    },
+    {
+        "title": "Тропический Десерт [Ростик'c - KFC]",
+        "Calories": "362 кКал",
+        "Protein": "3,6 г",
+        "Fats": "17,2 г",
+        "Carbohydrates": "48,3 г"
+    },
+    {
+        "title": "Фрешер [Ростик'c - KFC]",
+        "Calories": "331 кКал",
+        "Protein": "16,8 г",
+        "Fats": "12,2 г",
+        "Carbohydrates": "38,5 г"
+    },
+    {
+        "title": "Фрешер Летний [Ростик'c - KFC]",
+        "Calories": "231 кКал",
+        "Protein": "10,4 г",
+        "Fats": "10,2 г",
+        "Carbohydrates": "24,3 г"
+    },
+    {
+        "title": "ХЕЙНЕКЕН 0,5л (порция 500 гр) [Ростик'c - KFC]",
+        "Calories": "230 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "14,5 г"
+    },
+    {
+        "title": "Хот-Дог [Ростик'c - KFC]",
+        "Calories": "265 кКал",
+        "Protein": "13,1 г",
+        "Fats": "12,1 г",
+        "Carbohydrates": "26 г"
+    },
+    {
+        "title": "Цезарь Лайт [Ростик'c - KFC]",
+        "Calories": "139 кКал",
+        "Protein": "11,1 г",
+        "Fats": "6,3 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "title": "Цитрусовый Раф [Ростик'c - KFC]",
+        "Calories": "147 кКал",
+        "Protein": "2,8 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "27,1 г"
+    },
+    {
+        "title": "Черри Берри [Ростик'c - KFC]",
+        "Calories": "188 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "47,2 г"
+    },
+    {
+        "title": "Чизбургер [Ростик'c - KFC]",
+        "Calories": "228 кКал",
+        "Protein": "12,4 г",
+        "Fats": "8,9 г",
+        "Carbohydrates": "24,7 г"
+    },
+    {
+        "title": "Чизбургер Де Люкс [Ростик'c - KFC]",
+        "Calories": "205 кКал",
+        "Protein": "13,9 г",
+        "Fats": "6,9 г",
+        "Carbohydrates": "21,8 г"
+    },
+    {
+        "title": "Чизбургер Де Люкс [Ростик'c - KFC]",
+        "Calories": "359 кКал",
+        "Protein": "25,3 г",
+        "Fats": "13,1 г",
+        "Carbohydrates": "35 г"
+    },
+    {
+        "title": "Чизбургер Де Люкс со Стрипсами [Ростик'c - KFC]",
+        "Calories": "212 кКал",
+        "Protein": "12,1 г",
+        "Fats": "7,5 г",
+        "Carbohydrates": "24,1 г"
+    },
+    {
+        "title": "Чизбургер Жульен [Ростик'c - KFC]",
+        "Calories": "242 кКал",
+        "Protein": "11 г",
+        "Fats": "10,5 г",
+        "Carbohydrates": "25,9 г"
+    },
+    {
+        "title": "Чизбургер Кентукки BBQ [Ростик'c - KFC]",
+        "Calories": "217 кКал",
+        "Protein": "11 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "29,5 г"
+    },
+    {
+        "title": "Чизбургер с Луком [Ростик'c - KFC]",
+        "Calories": "362 кКал",
+        "Protein": "23,1 г",
+        "Fats": "12,8 г",
+        "Carbohydrates": "38,6 г"
+    },
+    {
+        "title": "Чизкейк New-York Карамель [Ростик'c - KFC]",
+        "Calories": "289 кКал",
+        "Protein": "6,4 г",
+        "Fats": "16,1 г",
+        "Carbohydrates": "29,6 г"
+    },
+    {
+        "title": "Чизкейк с Изюмом [Ростик'c - KFC]",
+        "Calories": "284 кКал",
+        "Protein": "7,7 г",
+        "Fats": "13,4 г",
+        "Carbohydrates": "32,7 г"
+    },
+    {
+        "title": "Чизкейк с Клубничным Топпингом [Ростик'c - KFC]",
+        "Calories": "304 кКал",
+        "Protein": "7,8 г",
+        "Fats": "13,5 г",
+        "Carbohydrates": "38,1 г"
+    },
+    {
+        "title": "Чизкейк с Шоколадным Топпингом [Ростик'c - KFC]",
+        "Calories": "308 кКал",
+        "Protein": "7,9 г",
+        "Fats": "13,6 г",
+        "Carbohydrates": "38,6 г"
+    },
+    {
+        "title": "Чикен Наггетс [Ростик'c - KFC]",
+        "Calories": "262 кКал",
+        "Protein": "15,2 г",
+        "Fats": "14,6 г",
+        "Carbohydrates": "17,5 г"
+    },
+    {
+        "title": "Чикен Пепперони [Ростик'c - KFC]",
+        "Calories": "366 кКал",
+        "Protein": "17,4 г",
+        "Fats": "16,1 г",
+        "Carbohydrates": "37,9 г"
+    },
+    {
+        "title": "Чикен Пита [Ростик'c - KFC]",
+        "Calories": "218 кКал",
+        "Protein": "10,4 г",
+        "Fats": "10,4 г",
+        "Carbohydrates": "20,9 г"
+    },
+    {
+        "title": "Чикен Попкорн [Ростик'c - KFC]",
+        "Calories": "259 кКал",
+        "Protein": "22,3 г",
+        "Fats": "11,8 г",
+        "Carbohydrates": "15,9 г"
+    },
+    {
+        "title": "Чикен Чизбургер [Ростик'c - KFC]",
+        "Calories": "357 кКал",
+        "Protein": "17,1 г",
+        "Fats": "14,5 г",
+        "Carbohydrates": "39,6 г"
+    },
+    {
+        "title": "Шеф Лимонад [Ростик'c - KFC]",
+        "Calories": "87 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "20,7 г"
+    },
+    {
+        "title": "Шеф Такос [Ростик'c - KFC]",
+        "Calories": "263 кКал",
+        "Protein": "15,3 г",
+        "Fats": "14,7 г",
+        "Carbohydrates": "17,4 г"
+    },
+    {
+        "title": "Шефбургер [Ростик'c - KFC]",
+        "Calories": "410 кКал",
+        "Protein": "24,2 г",
+        "Fats": "19,5 г",
+        "Carbohydrates": "34,3 г"
+    },
+    {
+        "title": "Шефбургер Де Люкс [Ростик'c - KFC]",
+        "Calories": "492 кКал",
+        "Protein": "27,7 г",
+        "Fats": "26,7 г",
+        "Carbohydrates": "35,3 г"
+    },
+    {
+        "title": "Шефбургер Джуниор [Ростик'c - KFC]",
+        "Calories": "231 кКал",
+        "Protein": "12,3 г",
+        "Fats": "10,5 г",
+        "Carbohydrates": "21,9 г"
+    },
+    {
+        "title": "Шефбургер Джуниор Острый [Ростик'c - KFC]",
+        "Calories": "250 кКал",
+        "Protein": "13,6 г",
+        "Fats": "10 г",
+        "Carbohydrates": "26,5 г"
+    },
+    {
+        "title": "Шефбургер Острый [Ростик'c - KFC]",
+        "Calories": "223 кКал",
+        "Protein": "14 г",
+        "Fats": "9,7 г",
+        "Carbohydrates": "19,9 г"
+    },
+    {
+        "title": "Шоколадный Пирожок Клубника - Крем-Чиз [Ростик'c - KFC]",
+        "Calories": "271 кКал",
+        "Protein": "3,4 г",
+        "Fats": "15,7 г",
+        "Carbohydrates": "29,1 г"
+    },
+    {
+        "title": "Шоколадный Топпинг [Ростик'c - KFC]",
+        "Calories": "39 кКал",
+        "Protein": "0,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Шоколадный Фондан [Ростик'c - KFC]",
+        "Calories": "470 кКал",
+        "Protein": "5,5 г",
+        "Fats": "32 г",
+        "Carbohydrates": "39 г"
+    },
+    {
+        "title": "Шоколадный Фондан с Мороженым [Ростик'c - KFC]",
+        "Calories": "334 кКал",
+        "Protein": "4,5 г",
+        "Fats": "20,6 г",
+        "Carbohydrates": "32,5 г"
+    },
+    {
+        "title": "Яблочная Тарталетка [Ростик'c - KFC]",
+        "Calories": "231 кКал",
+        "Protein": "12,3 г",
+        "Fats": "10,5 г",
+        "Carbohydrates": "21,9 г"
+    },
+    {
+        "title": "Яблочный Десерт [Ростик'c - KFC]",
+        "Calories": "207 кКал",
+        "Protein": "2,3 г",
+        "Fats": "5,6 г",
+        "Carbohydrates": "36,9 г"
+    },
+    {
+        "title": "Яблочный Десерт с Мороженым [Ростик'c - KFC]",
+        "Calories": "178 кКал",
+        "Protein": "2,7 г",
+        "Fats": "4,7 г",
+        "Carbohydrates": "31,1 г"
+    },
+    {
+        "title": "Ягодный Пунш [Ростик'c - KFC]",
+        "Calories": "22 кКал",
+        "Protein": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "5,2 г"
+    },
+    {
+        "title": "Яичница с Байтсами [Ростик'c - KFC]",
+        "Calories": "223 кКал",
+        "Protein": "17,8 г",
+        "Fats": "14,5 г",
+        "Carbohydrates": "5,3 г"
+    }
+]

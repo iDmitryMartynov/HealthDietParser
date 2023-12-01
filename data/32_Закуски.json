@@ -1,0 +1,513 @@
+﻿[
+    {
+        "title": "Ассорти",
+        "Calories": "0 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Ассорти в азиатском стиле",
+        "Calories": "77,7 кКал",
+        "Protein": "1,4 г",
+        "Fats": "5 г",
+        "Carbohydrates": "7,2 г"
+    },
+    {
+        "title": "Ассорти из капусты и овощей",
+        "Calories": "0 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Ассорти мясное на хлебе",
+        "Calories": "375,2 кКал",
+        "Protein": "11,1 г",
+        "Fats": "26,1 г",
+        "Carbohydrates": "25,5 г"
+    },
+    {
+        "title": "Ассорти рыбное на хлебе",
+        "Calories": "257,9 кКал",
+        "Protein": "14,6 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "22,2 г"
+    },
+    {
+        "title": "Ассорти фруктовое",
+        "Calories": "59,4 кКал",
+        "Protein": "2,4 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "10,3 г"
+    },
+    {
+        "title": "Бутерброд закрытый с говяжьими котлетами, по 1-54",
+        "Calories": "224 кКал",
+        "Protein": "11,1 г",
+        "Fats": "6,2 г",
+        "Carbohydrates": "30,2 г"
+    },
+    {
+        "title": "Бутерброд из баклажан",
+        "Calories": "97,8 кКал",
+        "Protein": "4,3 г",
+        "Fats": "2 г",
+        "Carbohydrates": "16,8 г"
+    },
+    {
+        "title": "Бутерброд из жареного мяса",
+        "Calories": "267,4 кКал",
+        "Protein": "9,4 г",
+        "Fats": "25 г",
+        "Carbohydrates": "1,2 г"
+    },
+    {
+        "title": "Бутерброд из плавленого сыра",
+        "Calories": "395,9 кКал",
+        "Protein": "8,4 г",
+        "Fats": "38,5 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "title": "Бутерброд из сыра",
+        "Calories": "403,2 кКал",
+        "Protein": "16,9 г",
+        "Fats": "35,8 г",
+        "Carbohydrates": "3,6 г"
+    },
+    {
+        "title": "Бутерброд из творога с сельдью",
+        "Calories": "217,2 кКал",
+        "Protein": "12,8 г",
+        "Fats": "17,7 г",
+        "Carbohydrates": "1,8 г"
+    },
+    {
+        "title": "Бутерброд из хрена",
+        "Calories": "433,2 кКал",
+        "Protein": "4,6 г",
+        "Fats": "44,9 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "title": "Бутерброд пикантный",
+        "Calories": "316,6 кКал",
+        "Protein": "11,8 г",
+        "Fats": "20,8 г",
+        "Carbohydrates": "21,9 г"
+    },
+    {
+        "title": "Бутерброд с  зернистой икрой кеты, по 1-50",
+        "Calories": "278,6 кКал",
+        "Protein": "13,1 г",
+        "Fats": "9,3 г",
+        "Carbohydrates": "35,7 г"
+    },
+    {
+        "title": "Бутерброд с брынзой",
+        "Calories": "235,9 кКал",
+        "Protein": "8,1 г",
+        "Fats": "4 г",
+        "Carbohydrates": "44,8 г"
+    },
+    {
+        "title": "Бутерброд с горчичным маслом",
+        "Calories": "360,3 кКал",
+        "Protein": "6,5 г",
+        "Fats": "23,4 г",
+        "Carbohydrates": "33 г"
+    },
+    {
+        "title": "Бутерброд с икрой осетровой, зернистой",
+        "Calories": "267 кКал",
+        "Protein": "12,4 г",
+        "Fats": "8,3 г",
+        "Carbohydrates": "35,7 г"
+    },
+    {
+        "title": "Бутерброд с килькой",
+        "Calories": "307,8 кКал",
+        "Protein": "7,3 г",
+        "Fats": "20,3 г",
+        "Carbohydrates": "25,6 г"
+    },
+    {
+        "title": "Бутерброд с килькой и яйцом, по 1-52",
+        "Calories": "233 кКал",
+        "Protein": "10,9 г",
+        "Fats": "10,6 г",
+        "Carbohydrates": "23,4 г"
+    },
+    {
+        "title": "Бутерброд с любительской колбасой, по 1-48",
+        "Calories": "275 кКал",
+        "Protein": "10,63 г",
+        "Fats": "17,88 г",
+        "Carbohydrates": "17,75 г"
+    },
+    {
+        "title": "Бутерброд с морковью и сыром",
+        "Calories": "206 кКал",
+        "Protein": "7,1 г",
+        "Fats": "11,6 г",
+        "Carbohydrates": "19,4 г"
+    },
+    {
+        "title": "Бутерброд с отварной говядиной, по 1-46",
+        "Calories": "122 кКал",
+        "Protein": "7,6 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "14,2 г"
+    },
+    {
+        "title": "Бутерброд с селедочным маслом",
+        "Calories": "341,8 кКал",
+        "Protein": "6,4 г",
+        "Fats": "22,3 г",
+        "Carbohydrates": "30,7 г"
+    },
+    {
+        "title": "Бутерброд с соленой горбушей, по 1-50",
+        "Calories": "220 кКал",
+        "Protein": "13,4 г",
+        "Fats": "5,4 г",
+        "Carbohydrates": "29,6 г"
+    },
+    {
+        "title": "Бутерброд с творогом и изюмом",
+        "Calories": "295,5 кКал",
+        "Protein": "11,8 г",
+        "Fats": "23,8 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Горячий бутерброд",
+        "Calories": "301,6 кКал",
+        "Protein": "7,7 г",
+        "Fats": "26,4 г",
+        "Carbohydrates": "8,8 г"
+    },
+    {
+        "title": "Гренки из пшеничного хлеба (1-й вариант)",
+        "Calories": "213,8 кКал",
+        "Protein": "9,7 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "44 г"
+    },
+    {
+        "title": "Гренки острые",
+        "Calories": "269,3 кКал",
+        "Protein": "15,4 г",
+        "Fats": "13,2 г",
+        "Carbohydrates": "23,6 г"
+    },
+    {
+        "title": "Гренки с сыром",
+        "Calories": "295,2 кКал",
+        "Protein": "13,9 г",
+        "Fats": "13,6 г",
+        "Carbohydrates": "31,3 г"
+    },
+    {
+        "title": "Закуска \"Уральский рулет\"",
+        "Calories": "220,8 кКал",
+        "Protein": "16,3 г",
+        "Fats": "16,7 г",
+        "Carbohydrates": "1,5 г"
+    },
+    {
+        "title": "Закуска из плавленого сыра с яйцом и майонезом",
+        "Calories": "355,3 кКал",
+        "Protein": "17,3 г",
+        "Fats": "31,1 г",
+        "Carbohydrates": "1,6 г"
+    },
+    {
+        "title": "Закуска овощная с чесноком (марийское национальное блюдо)",
+        "Calories": "166,4 кКал",
+        "Protein": "1,7 г",
+        "Fats": "12,5 г",
+        "Carbohydrates": "12,5 г"
+    },
+    {
+        "title": "Закуска свекольная с орехами",
+        "Calories": "177,6 кКал",
+        "Protein": "6,9 г",
+        "Fats": "5,9 г",
+        "Carbohydrates": "25,8 г"
+    },
+    {
+        "title": "Заливное из птицы или дичи, или мясных продуктов в форме",
+        "Calories": "213,6 кКал",
+        "Protein": "18,7 г",
+        "Fats": "14,4 г",
+        "Carbohydrates": "2,4 г"
+    },
+    {
+        "title": "Икра овощная закусочная",
+        "Calories": "85,7 кКал",
+        "Protein": "2 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Икра осетровых рыб и икра кетовая",
+        "Calories": "308,5 кКал",
+        "Protein": "16,7 г",
+        "Fats": "22,4 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "title": "Канапе с бужениной и окороком",
+        "Calories": "354,9 кКал",
+        "Protein": "9,9 г",
+        "Fats": "27,6 г",
+        "Carbohydrates": "18 г"
+    },
+    {
+        "title": "Канапе с икрой и севрюгой",
+        "Calories": "253,5 кКал",
+        "Protein": "11,5 г",
+        "Fats": "15,1 г",
+        "Carbohydrates": "19 г"
+    },
+    {
+        "title": "Канапе с икрой, семгой и осетром",
+        "Calories": "289,2 кКал",
+        "Protein": "19 г",
+        "Fats": "15,1 г",
+        "Carbohydrates": "20,7 г"
+    },
+    {
+        "title": "Канапе с килькой и яйцом",
+        "Calories": "238,7 кКал",
+        "Protein": "11,4 г",
+        "Fats": "16,2 г",
+        "Carbohydrates": "12,6 г"
+    },
+    {
+        "title": "Канапе с паштетом",
+        "Calories": "267,3 кКал",
+        "Protein": "8,6 г",
+        "Fats": "16,2 г",
+        "Carbohydrates": "23,1 г"
+    },
+    {
+        "title": "Канапе с паюсной икрой",
+        "Calories": "233,3 кКал",
+        "Protein": "10,2 г",
+        "Fats": "14 г",
+        "Carbohydrates": "17,7 г"
+    },
+    {
+        "title": "Канапе с сыром",
+        "Calories": "388,5 кКал",
+        "Protein": "13,4 г",
+        "Fats": "28,2 г",
+        "Carbohydrates": "21,7 г"
+    },
+    {
+        "title": "Канапе с сыром и окороком",
+        "Calories": "364,9 кКал",
+        "Protein": "12,8 г",
+        "Fats": "27,1 г",
+        "Carbohydrates": "18,5 г"
+    },
+    {
+        "title": "Квашеная капуста с орехами",
+        "Calories": "82,8 кКал",
+        "Protein": "4,7 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "16,6 г"
+    },
+    {
+        "title": "Колбаса русская, свадебная",
+        "Calories": "160,9 кКал",
+        "Protein": "13,1 г",
+        "Fats": "11,8 г",
+        "Carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Колбаски из сельдерея",
+        "Calories": "114 кКал",
+        "Protein": "5,3 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "12,6 г"
+    },
+    {
+        "title": "Колбасные, мясные изделия, запеченные в тесте",
+        "Calories": "265,1 кКал",
+        "Protein": "11,6 г",
+        "Fats": "14,3 г",
+        "Carbohydrates": "23,9 г"
+    },
+    {
+        "title": "Корзиночки (тарталетки) для закусок",
+        "Calories": "342 кКал",
+        "Protein": "9,4 г",
+        "Fats": "15,9 г",
+        "Carbohydrates": "43 г"
+    },
+    {
+        "title": "Корзиночки с крабами, креветками, кальмарами или морским гребешком",
+        "Calories": "360,4 кКал",
+        "Protein": "11,5 г",
+        "Fats": "25,6 г",
+        "Carbohydrates": "22,4 г"
+    },
+    {
+        "title": "Корзиночки с паштетом",
+        "Calories": "318,6 кКал",
+        "Protein": "11,8 г",
+        "Fats": "20,8 г",
+        "Carbohydrates": "22,3 г"
+    },
+    {
+        "title": "Корзиночки с салатом",
+        "Calories": "327,9 кКал",
+        "Protein": "10,8 г",
+        "Fats": "21,9 г",
+        "Carbohydrates": "23,2 г"
+    },
+    {
+        "title": "Корзиночки с языком или ветчиной",
+        "Calories": "311,6 кКал",
+        "Protein": "11,3 г",
+        "Fats": "19,3 г",
+        "Carbohydrates": "24,8 г"
+    },
+    {
+        "title": "Лазанки из картофеля",
+        "Calories": "60,7 кКал",
+        "Protein": "3,4 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "title": "Лососина, семга, кета малосоленые",
+        "Calories": "218,6 кКал",
+        "Protein": "33 г",
+        "Fats": "9,1 г",
+        "Carbohydrates": "1,4 г"
+    },
+    {
+        "title": "Масса  из ветчины",
+        "Calories": "327,3 кКал",
+        "Protein": "17,4 г",
+        "Fats": "28,5 г",
+        "Carbohydrates": "0,3 г"
+    },
+    {
+        "title": "Масса из брынзы",
+        "Calories": "273,1 кКал",
+        "Protein": "13,2 г",
+        "Fats": "24 г",
+        "Carbohydrates": "1 г"
+    },
+    {
+        "title": "Масса из сыра для бутербродов",
+        "Calories": "451,7 кКал",
+        "Protein": "18,1 г",
+        "Fats": "41,1 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "title": "Острая закуска",
+        "Calories": "32,6 кКал",
+        "Protein": "1,7 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "title": "Пикантная закуска из брынзы",
+        "Calories": "0 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Птичьи гнезда из сельди иваси",
+        "Calories": "0 кКал",
+        "Protein": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Расстегаи закусочные",
+        "Calories": "266,4 кКал",
+        "Protein": "13,3 г",
+        "Fats": "9,6 г",
+        "Carbohydrates": "33,8 г"
+    },
+    {
+        "title": "Соленые фаршированные огурцы",
+        "Calories": "65,3 кКал",
+        "Protein": "3,6 г",
+        "Fats": "3 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "title": "Студень говяжий",
+        "Calories": "209,3 кКал",
+        "Protein": "26,6 г",
+        "Fats": "9,9 г",
+        "Carbohydrates": "3,7 г"
+    },
+    {
+        "title": "Студень из субпродуктов птицы",
+        "Calories": "347,4 кКал",
+        "Protein": "30,2 г",
+        "Fats": "24,4 г",
+        "Carbohydrates": "1,9 г"
+    },
+    {
+        "title": "Студень свиной",
+        "Calories": "354,6 кКал",
+        "Protein": "25,1 г",
+        "Fats": "27,1 г",
+        "Carbohydrates": "2,7 г"
+    },
+    {
+        "title": "Творог с орехами и чесноком",
+        "Calories": "358,2 кКал",
+        "Protein": "16,4 г",
+        "Fats": "20,5 г",
+        "Carbohydrates": "28,9 г"
+    },
+    {
+        "title": "Творожные шарики",
+        "Calories": "316,3 кКал",
+        "Protein": "13,6 г",
+        "Fats": "26,4 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "title": "Творожный бутерброд",
+        "Calories": "242,7 кКал",
+        "Protein": "9,5 г",
+        "Fats": "11,2 г",
+        "Carbohydrates": "27,6 г"
+    },
+    {
+        "title": "Фарш из пасты \"Океан\"",
+        "Calories": "177,5 кКал",
+        "Protein": "14,8 г",
+        "Fats": "10,9 г",
+        "Carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Холодец по домашнему",
+        "Calories": "257,8 кКал",
+        "Protein": "26,1 г",
+        "Fats": "15,5 г",
+        "Carbohydrates": "3,6 г"
+    },
+    {
+        "title": "Яйца фаршированные креветками",
+        "Calories": "247,4 кКал",
+        "Protein": "10,3 г",
+        "Fats": "22,2 г",
+        "Carbohydrates": "1,6 г"
+    }
+]

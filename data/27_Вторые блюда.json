@@ -1,0 +1,3516 @@
+﻿[
+    {
+        "title": "Азу",
+        "Calories": "177,62 кКал",
+        "Protein": "9,3114 г",
+        "Fats": "12,2569 г",
+        "Carbohydrates": "7,2551 г"
+    },
+    {
+        "title": "Антрекот",
+        "Calories": "317,2565 кКал",
+        "Protein": "21,536 г",
+        "Fats": "25,0652 г",
+        "Carbohydrates": "1,3686 г"
+    },
+    {
+        "title": "Анчоусы и кильки с картофелем",
+        "Calories": "156,5 кКал",
+        "Protein": "12,3 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "9,7 г"
+    },
+    {
+        "title": "Баклажаны панированные",
+        "Calories": "236 кКал",
+        "Protein": "2,9 г",
+        "Fats": "23,1 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Баклажаны по-украински",
+        "Calories": "154,1 кКал",
+        "Protein": "1,7 г",
+        "Fats": "13,6 г",
+        "Carbohydrates": "6,8 г"
+    },
+    {
+        "title": "Баклажаны под майонезом",
+        "Calories": "114,2 кКал",
+        "Protein": "1,4 г",
+        "Fats": "10,4 г",
+        "Carbohydrates": "4,1 г"
+    },
+    {
+        "title": "Баклажаны тушеные с помидорами",
+        "Calories": "189,3 кКал",
+        "Protein": "2,1 г",
+        "Fats": "17,7 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "title": "Баранина рубленая, запеченная в омлете (чувашское национальное блюдо)",
+        "Calories": "246,3 кКал",
+        "Protein": "14 г",
+        "Fats": "20,1 г",
+        "Carbohydrates": "2,5 г"
+    },
+    {
+        "title": "Баранина с рисом и изюмом (еврейское национальное блюдо)",
+        "Calories": "265,4 кКал",
+        "Protein": "12,4 г",
+        "Fats": "18 г",
+        "Carbohydrates": "14,4 г"
+    },
+    {
+        "title": "Беляш",
+        "Calories": "139,3 кКал",
+        "Protein": "8,8 г",
+        "Fats": "6,2 г",
+        "Carbohydrates": "12,8 г"
+    },
+    {
+        "title": "Беляши (казахское национальное блюдо)",
+        "Calories": "260,6 кКал",
+        "Protein": "14,6 г",
+        "Fats": "14,7 г",
+        "Carbohydrates": "18,7 г"
+    },
+    {
+        "title": "Береки (мучное изделие с мясом - калмыцкое национальное блюдо)",
+        "Calories": "289 кКал",
+        "Protein": "15,4 г",
+        "Fats": "18,9 г",
+        "Carbohydrates": "15,3 г"
+    },
+    {
+        "title": "Бефстроганов",
+        "Calories": "355,4 кКал",
+        "Protein": "21,9 г",
+        "Fats": "27,4 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "title": "Биточки или котлеты манные, рисовые",
+        "Calories": "162,4 кКал",
+        "Protein": "4 г",
+        "Fats": "7,8 г",
+        "Carbohydrates": "20,4 г"
+    },
+    {
+        "title": "Биточки или котлеты пшенные, пшеничный, перловые, ячневые",
+        "Calories": "151,9 кКал",
+        "Protein": "3,9 г",
+        "Fats": "7,4 г",
+        "Carbohydrates": "18,6 г"
+    },
+    {
+        "title": "Биточки паровые",
+        "Calories": "281,4 кКал",
+        "Protein": "20 г",
+        "Fats": "19,5 г",
+        "Carbohydrates": "7 г"
+    },
+    {
+        "title": "Биточки по-селянски (украинское национальное блюдо)",
+        "Calories": "208,6 кКал",
+        "Protein": "9,8 г",
+        "Fats": "13,8 г",
+        "Carbohydrates": "12 г"
+    },
+    {
+        "title": "Биточки рубленые из птицы, дичи или кролика паровые под белым соусом с рисом",
+        "Calories": "307,1 кКал",
+        "Protein": "11,2 г",
+        "Fats": "13,2 г",
+        "Carbohydrates": "38,3 г"
+    },
+    {
+        "title": "Биточки рыбные, жаренные \"фри\"",
+        "Calories": "232,1 кКал",
+        "Protein": "12,3 г",
+        "Fats": "15 г",
+        "Carbohydrates": "12,7 г"
+    },
+    {
+        "title": "Биточки, котлеты из кальмаров и рыбы",
+        "Calories": "363 кКал",
+        "Protein": "14,4 г",
+        "Fats": "12,5 г",
+        "Carbohydrates": "51,4 г"
+    },
+    {
+        "title": "Бифштекс",
+        "Calories": "384,3 кКал",
+        "Protein": "27,8 г",
+        "Fats": "29,6 г",
+        "Carbohydrates": "1,7 г"
+    },
+    {
+        "title": "Бифштекс рубленый",
+        "Calories": "497,3 кКал",
+        "Protein": "27,1 г",
+        "Fats": "43,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Бифштекс с луком",
+        "Calories": "337,7 кКал",
+        "Protein": "25 г",
+        "Fats": "25 г",
+        "Carbohydrates": "3,4 г"
+    },
+    {
+        "title": "Бифштекс с яйцом",
+        "Calories": "326,4 кКал",
+        "Protein": "26,1 г",
+        "Fats": "24 г",
+        "Carbohydrates": "1,6 г"
+    },
+    {
+        "title": "Бифштексы рубленые",
+        "Calories": "166 кКал",
+        "Protein": "11,1 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "1,4 г"
+    },
+    {
+        "title": "Бобовые с копченой грудинкой или корейкой",
+        "Calories": "381,4 кКал",
+        "Protein": "23 г",
+        "Fats": "14,9 г",
+        "Carbohydrates": "41,4 г"
+    },
+    {
+        "title": "Бозбаш",
+        "Calories": "87,9 кКал",
+        "Protein": "4,6 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "9,6 г"
+    },
+    {
+        "title": "Брюква запеченная",
+        "Calories": "51,1 кКал",
+        "Protein": "2,1 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Брюква тушеная",
+        "Calories": "113,5 кКал",
+        "Protein": "1,2 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "8,6 г"
+    },
+    {
+        "title": "Вареники ленивые (полуфабрикат)",
+        "Calories": "248,2 кКал",
+        "Protein": "13,7 г",
+        "Fats": "14,9 г",
+        "Carbohydrates": "15,9 г"
+    },
+    {
+        "title": "Вареники ленивые отварные",
+        "Calories": "355,4 кКал",
+        "Protein": "17,2 г",
+        "Fats": "23,5 г",
+        "Carbohydrates": "20 г"
+    },
+    {
+        "title": "Вареники с брусникой и яблоками по-уральски",
+        "Calories": "106,1 кКал",
+        "Protein": "3,5 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "19,6 г"
+    },
+    {
+        "title": "Вареники с капустой",
+        "Calories": "79,1 кКал",
+        "Protein": "4,2 г",
+        "Fats": "2,9 г",
+        "Carbohydrates": "9,7 г"
+    },
+    {
+        "title": "Вареники с творожным, фруктовым или овощным фаршем",
+        "Calories": "281,3 кКал",
+        "Protein": "10,4 г",
+        "Fats": "10,5 г",
+        "Carbohydrates": "38,8 г"
+    },
+    {
+        "title": "Волованы",
+        "Calories": "435 кКал",
+        "Protein": "7,9 г",
+        "Fats": "29,9 г",
+        "Carbohydrates": "35,9 г"
+    },
+    {
+        "title": "Волованы с икрой",
+        "Calories": "293,2 кКал",
+        "Protein": "11,2 г",
+        "Fats": "20,2 г",
+        "Carbohydrates": "17,8 г"
+    },
+    {
+        "title": "Волованы с курицей",
+        "Calories": "410,8 кКал",
+        "Protein": "14,1 г",
+        "Fats": "30,8 г",
+        "Carbohydrates": "20,7 г"
+    },
+    {
+        "title": "Волованы с окороком",
+        "Calories": "480,1 кКал",
+        "Protein": "9,5 г",
+        "Fats": "41,3 г",
+        "Carbohydrates": "18,8 г"
+    },
+    {
+        "title": "Волованы с салатом",
+        "Calories": "326,6 кКал",
+        "Protein": "8,3 г",
+        "Fats": "24 г",
+        "Carbohydrates": "20,5 г"
+    },
+    {
+        "title": "Волованы с семгой или икрой",
+        "Calories": "333,6 кКал",
+        "Protein": "12,1 г",
+        "Fats": "24,3 г",
+        "Carbohydrates": "17,9 г"
+    },
+    {
+        "title": "Вымя отварное в соусе",
+        "Calories": "70,7 кКал",
+        "Protein": "5,7 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "0,3 г"
+    },
+    {
+        "title": "Галантин из рыбы",
+        "Calories": "145,1 кКал",
+        "Protein": "15,6 г",
+        "Fats": "7,4 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "title": "Говядина в кисло-сладком соусе",
+        "Calories": "354,9 кКал",
+        "Protein": "26,1 г",
+        "Fats": "22 г",
+        "Carbohydrates": "13,9 г"
+    },
+    {
+        "title": "Говядина в луковом соусе запеченная",
+        "Calories": "178,5 кКал",
+        "Protein": "12,2 г",
+        "Fats": "11,4 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "title": "Говядина, запеченная с макаронами",
+        "Calories": "359,4 кКал",
+        "Protein": "18,4 г",
+        "Fats": "22,2 г",
+        "Carbohydrates": "22,9 г"
+    },
+    {
+        "title": "Говядина, тушенная с луком, орехами и чесноком (адыгейское национальное блюдо)",
+        "Calories": "530,2 кКал",
+        "Protein": "29,9 г",
+        "Fats": "24,2 г",
+        "Carbohydrates": "51,4 г"
+    },
+    {
+        "title": "Говядина, фаршированная грибами",
+        "Calories": "326,5 кКал",
+        "Protein": "21,1 г",
+        "Fats": "25,5 г",
+        "Carbohydrates": "3,4 г"
+    },
+    {
+        "title": "Голубцы овощные",
+        "Calories": "190,9 кКал",
+        "Protein": "3,4 г",
+        "Fats": "16,7 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "title": "Горбуша в сливках",
+        "Calories": "129,5 кКал",
+        "Protein": "8,8 г",
+        "Fats": "9,5 г",
+        "Carbohydrates": "2,4 г"
+    },
+    {
+        "title": "Горячий паштет из печени",
+        "Calories": "119,4 кКал",
+        "Protein": "10,2 г",
+        "Fats": "5,6 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Грибная запеканка",
+        "Calories": "145,2 кКал",
+        "Protein": "4,7 г",
+        "Fats": "10,1 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "title": "Грибная икра",
+        "Calories": "88,4 кКал",
+        "Protein": "2,2 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "title": "Грибные пельмени",
+        "Calories": "185,8 кКал",
+        "Protein": "5,5 г",
+        "Fats": "13,3 г",
+        "Carbohydrates": "11,8 г"
+    },
+    {
+        "title": "Грибные ушки",
+        "Calories": "341,7 кКал",
+        "Protein": "17,2 г",
+        "Fats": "20,4 г",
+        "Carbohydrates": "23,8 г"
+    },
+    {
+        "title": "Грибочки калевальские (рыба, фаршированная яйцом, - карельское национальное блюдо)",
+        "Calories": "185,7 кКал",
+        "Protein": "11,8 г",
+        "Fats": "9,2 г",
+        "Carbohydrates": "14,8 г"
+    },
+    {
+        "title": "Грибы в сметанном соусе",
+        "Calories": "204,2 кКал",
+        "Protein": "5 г",
+        "Fats": "18,9 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "title": "Грибы в сметанном соусе",
+        "Calories": "230,5 кКал",
+        "Protein": "4,8 г",
+        "Fats": "21,8 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "title": "Грибы жареные",
+        "Calories": "162,1 кКал",
+        "Protein": "4,6 г",
+        "Fats": "11,5 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "title": "Грибы по-деревенски",
+        "Calories": "51,1 кКал",
+        "Protein": "1,2 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "title": "Грибы по-селянски",
+        "Calories": "180 кКал",
+        "Protein": "1,6 г",
+        "Fats": "18,4 г",
+        "Carbohydrates": "2,1 г"
+    },
+    {
+        "title": "Грибы с квашеной капустой",
+        "Calories": "138,9 кКал",
+        "Protein": "2,8 г",
+        "Fats": "10,9 г",
+        "Carbohydrates": "8 г"
+    },
+    {
+        "title": "Грибы с квашеной капустой",
+        "Calories": "58,7 кКал",
+        "Protein": "1,8 г",
+        "Fats": "4,6 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "title": "Грудинка, фаршированная кашей",
+        "Calories": "283,8 кКал",
+        "Protein": "16,4 г",
+        "Fats": "18,5 г",
+        "Carbohydrates": "13,7 г"
+    },
+    {
+        "title": "Гуляш",
+        "Calories": "326 кКал",
+        "Protein": "24,9 г",
+        "Fats": "22 г",
+        "Carbohydrates": "7,7 г"
+    },
+    {
+        "title": "Гуляш с капустой",
+        "Calories": "81,3 кКал",
+        "Protein": "5,9 г",
+        "Fats": "5,4 г",
+        "Carbohydrates": "2,5 г"
+    },
+    {
+        "title": "Гусь, утка фаршированные",
+        "Calories": "437,2 кКал",
+        "Protein": "14,5 г",
+        "Fats": "38,1 г",
+        "Carbohydrates": "9,6 г"
+    },
+    {
+        "title": "Драники",
+        "Calories": "69,3 кКал",
+        "Protein": "3 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "13 г"
+    },
+    {
+        "title": "Драчена",
+        "Calories": "196,7 кКал",
+        "Protein": "11,4 г",
+        "Fats": "14,5 г",
+        "Carbohydrates": "5,5 г"
+    },
+    {
+        "title": "Дрочена",
+        "Calories": "253 кКал",
+        "Protein": "7,7 г",
+        "Fats": "22,3 г",
+        "Carbohydrates": "5,8 г"
+    },
+    {
+        "title": "Еда \"Быстрая\"",
+        "Calories": "241,7 кКал",
+        "Protein": "10,7 г",
+        "Fats": "6,7 г",
+        "Carbohydrates": "36,9 г"
+    },
+    {
+        "title": "Ежики сибирские",
+        "Calories": "184,7 кКал",
+        "Protein": "10,1 г",
+        "Fats": "9,6 г",
+        "Carbohydrates": "15,5 г"
+    },
+    {
+        "title": "Жал-баур (шашлык из печени - кабардино-балкарское национальное блюдо)",
+        "Calories": "383,5 кКал",
+        "Protein": "10,4 г",
+        "Fats": "36,4 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "title": "Жареная курица и бульон",
+        "Calories": "212 кКал",
+        "Protein": "15,8 г",
+        "Fats": "15,8 г",
+        "Carbohydrates": "1,7 г"
+    },
+    {
+        "title": "Жареная рыба под маринадом",
+        "Calories": "215,4 кКал",
+        "Protein": "19,5 г",
+        "Fats": "11,4 г",
+        "Carbohydrates": "9,4 г"
+    },
+    {
+        "title": "Жаренный картофель с колбасой",
+        "Calories": "83,9 кКал",
+        "Protein": "2,8 г",
+        "Fats": "5,4 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "title": "Жаркое \"Вкусное\"",
+        "Calories": "179,4 кКал",
+        "Protein": "11,2 г",
+        "Fats": "6,9 г",
+        "Carbohydrates": "19,4 г"
+    },
+    {
+        "title": "Жаркое \"Казань\" (жаркое с черносливом - татарское национальное блюдо)",
+        "Calories": "227,6 кКал",
+        "Protein": "12,8 г",
+        "Fats": "14,6 г",
+        "Carbohydrates": "11,9 г"
+    },
+    {
+        "title": "Жаркое из кролика (зайчатины)",
+        "Calories": "182,1 кКал",
+        "Protein": "13,5 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "3,2 г"
+    },
+    {
+        "title": "Жаркое из курицы по-русски",
+        "Calories": "368,8 кКал",
+        "Protein": "15,4 г",
+        "Fats": "30,1 г",
+        "Carbohydrates": "9,6 г"
+    },
+    {
+        "title": "Жаркое из свинины",
+        "Calories": "233,1 кКал",
+        "Protein": "10,6 г",
+        "Fats": "20,9 г",
+        "Carbohydrates": "0,7 г"
+    },
+    {
+        "title": "Жаркое из субпродуктов по-ингушски",
+        "Calories": "121,3 кКал",
+        "Protein": "16 г",
+        "Fats": "3,3 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "title": "Жаркое из фаршированной свинины",
+        "Calories": "102 кКал",
+        "Protein": "3,3 г",
+        "Fats": "6,7 г",
+        "Carbohydrates": "7,6 г"
+    },
+    {
+        "title": "Жаркое из цыплят и субпродуктов кур",
+        "Calories": "280,9 кКал",
+        "Protein": "14,6 г",
+        "Fats": "21,7 г",
+        "Carbohydrates": "7,2 г"
+    },
+    {
+        "title": "Жаркое по-гусарски",
+        "Calories": "153,6 кКал",
+        "Protein": "13,4 г",
+        "Fats": "9,8 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "title": "Жаркое по-домашнему",
+        "Calories": "248 кКал",
+        "Protein": "16,2 г",
+        "Fats": "13,8 г",
+        "Carbohydrates": "15,7 г"
+    },
+    {
+        "title": "Жаркое с грибами по-русски",
+        "Calories": "205,4 кКал",
+        "Protein": "11,2 г",
+        "Fats": "13,8 г",
+        "Carbohydrates": "9,8 г"
+    },
+    {
+        "title": "Запеканка из икры частиковых рыб (национальное блюдо народов Севера)",
+        "Calories": "122,8 кКал",
+        "Protein": "8,3 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "11,7 г"
+    },
+    {
+        "title": "Запеканка из кабачков",
+        "Calories": "142,3 кКал",
+        "Protein": "5,2 г",
+        "Fats": "12,1 г",
+        "Carbohydrates": "3,3 г"
+    },
+    {
+        "title": "Запеканка из лапши со смородиной",
+        "Calories": "164,4 кКал",
+        "Protein": "4,5 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "24,3 г"
+    },
+    {
+        "title": "Запеканка из макарон с творогом",
+        "Calories": "241,8 кКал",
+        "Protein": "11,6 г",
+        "Fats": "9,2 г",
+        "Carbohydrates": "30 г"
+    },
+    {
+        "title": "Запеканка из отварного картофеля",
+        "Calories": "133 кКал",
+        "Protein": "2,8 г",
+        "Fats": "10,5 г",
+        "Carbohydrates": "7,2 г"
+    },
+    {
+        "title": "Запеканка из риса с ревенем",
+        "Calories": "155,3 кКал",
+        "Protein": "3,3 г",
+        "Fats": "6,2 г",
+        "Carbohydrates": "23,1 г"
+    },
+    {
+        "title": "Запеканка из спаржи и риса",
+        "Calories": "137,5 кКал",
+        "Protein": "2,7 г",
+        "Fats": "9,2 г",
+        "Carbohydrates": "11,7 г"
+    },
+    {
+        "title": "Запеканка из творога",
+        "Calories": "299,7 кКал",
+        "Protein": "12,4 г",
+        "Fats": "20,8 г",
+        "Carbohydrates": "16,7 г"
+    },
+    {
+        "title": "Запеканка из творога и гречневой крупы",
+        "Calories": "168,3 кКал",
+        "Protein": "7,2 г",
+        "Fats": "7,3 г",
+        "Carbohydrates": "19,6 г"
+    },
+    {
+        "title": "Запеканка из тыквы",
+        "Calories": "227,8 кКал",
+        "Protein": "4,4 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "25 г"
+    },
+    {
+        "title": "Запеканка из цветной капусты с сыром",
+        "Calories": "160,7 кКал",
+        "Protein": "6,4 г",
+        "Fats": "12,3 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "title": "Запеканка из черного хлеба",
+        "Calories": "180,3 кКал",
+        "Protein": "2,3 г",
+        "Fats": "11,6 г",
+        "Carbohydrates": "17,9 г"
+    },
+    {
+        "title": "Запеканка из яблок",
+        "Calories": "147,7 кКал",
+        "Protein": "0,3 г",
+        "Fats": "8 г",
+        "Carbohydrates": "19,9 г"
+    },
+    {
+        "title": "Запеканка капустная",
+        "Calories": "161,6 кКал",
+        "Protein": "6,8 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "4,9 г"
+    },
+    {
+        "title": "Запеканка картофельная или рулет картофельный с мясом или субпродуктами",
+        "Calories": "180,3 кКал",
+        "Protein": "10,6 г",
+        "Fats": "9,9 г",
+        "Carbohydrates": "13,1 г"
+    },
+    {
+        "title": "Запеканка морковная с творогом и без творога",
+        "Calories": "192,6 кКал",
+        "Protein": "6,9 г",
+        "Fats": "13,4 г",
+        "Carbohydrates": "12 г"
+    },
+    {
+        "title": "Запеканка овощная",
+        "Calories": "90 кКал",
+        "Protein": "3 г",
+        "Fats": "6,7 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "title": "Запеканка рисовая с творогом",
+        "Calories": "200,3 кКал",
+        "Protein": "4,5 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "27,4 г"
+    },
+    {
+        "title": "Запеканка рисовая, манная, пшенная, пшеничная",
+        "Calories": "147,8 кКал",
+        "Protein": "3,3 г",
+        "Fats": "6,3 г",
+        "Carbohydrates": "20,8 г"
+    },
+    {
+        "title": "Запеканка со свежими плодами",
+        "Calories": "157,8 кКал",
+        "Protein": "3 г",
+        "Fats": "2,6 г",
+        "Carbohydrates": "32,6 г"
+    },
+    {
+        "title": "Запеченная маринованная курица",
+        "Calories": "201,9 кКал",
+        "Protein": "10,3 г",
+        "Fats": "16,8 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "title": "Запеченная цветная капуста",
+        "Calories": "99 кКал",
+        "Protein": "3,8 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "3,4 г"
+    },
+    {
+        "title": "Запеченные творожные клецки",
+        "Calories": "214,1 кКал",
+        "Protein": "10 г",
+        "Fats": "17 г",
+        "Carbohydrates": "5,6 г"
+    },
+    {
+        "title": "Заячьи шкурки",
+        "Calories": "35,9 кКал",
+        "Protein": "1,6 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "title": "Зразы донские",
+        "Calories": "337,1 кКал",
+        "Protein": "19,1 г",
+        "Fats": "11,3 г",
+        "Carbohydrates": "42,5 г"
+    },
+    {
+        "title": "Зразы картофельные",
+        "Calories": "189,7 кКал",
+        "Protein": "4,5 г",
+        "Fats": "12,4 г",
+        "Carbohydrates": "16 г"
+    },
+    {
+        "title": "Зразы картофельные с фаршем из пасты \"Океан\"",
+        "Calories": "174,8 кКал",
+        "Protein": "5,5 г",
+        "Fats": "10,7 г",
+        "Carbohydrates": "15 г"
+    },
+    {
+        "title": "Зразы отбивные",
+        "Calories": "266,2 кКал",
+        "Protein": "24,4 г",
+        "Fats": "15,2 г",
+        "Carbohydrates": "8,5 г"
+    },
+    {
+        "title": "Зразы рубленые",
+        "Calories": "303,4 кКал",
+        "Protein": "18,1 г",
+        "Fats": "20,7 г",
+        "Carbohydrates": "11,9 г"
+    },
+    {
+        "title": "Зразы рыбные с черносливом по-российски",
+        "Calories": "122 кКал",
+        "Protein": "13,8 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "9,7 г"
+    },
+    {
+        "title": "Имам баилди",
+        "Calories": "153,2 кКал",
+        "Protein": "8,2 г",
+        "Fats": "11,7 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "title": "Имбирно-медовый цыпленок",
+        "Calories": "193,1 кКал",
+        "Protein": "14,5 г",
+        "Fats": "11,1 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "title": "Индейка с грибами",
+        "Calories": "221,4 кКал",
+        "Protein": "10,5 г",
+        "Fats": "11,9 г",
+        "Carbohydrates": "19,3 г"
+    },
+    {
+        "title": "Кабачки и цветная капуста, запеченные под соусом",
+        "Calories": "179,7 кКал",
+        "Protein": "2,8 г",
+        "Fats": "16 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "title": "Кабачки с помидорами",
+        "Calories": "104,4 кКал",
+        "Protein": "1,3 г",
+        "Fats": "8,1 г",
+        "Carbohydrates": "7,1 г"
+    },
+    {
+        "title": "Кабачки улыбаются",
+        "Calories": "57,5 кКал",
+        "Protein": "1,4 г",
+        "Fats": "2,9 г",
+        "Carbohydrates": "6,9 г"
+    },
+    {
+        "title": "Кабачки фаршированные в томатном соку",
+        "Calories": "47,1 кКал",
+        "Protein": "1,6 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "10 г"
+    },
+    {
+        "title": "Кабачки фаршированные мясом",
+        "Calories": "115,9 кКал",
+        "Protein": "5,5 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "title": "Кабачки, баклажаны, перец или помидоры, фаршированные мясом или рисом",
+        "Calories": "154,9 кКал",
+        "Protein": "10 г",
+        "Fats": "8,6 г",
+        "Carbohydrates": "10 г"
+    },
+    {
+        "title": "Калаатикко (из картофеля)",
+        "Calories": "119,4 кКал",
+        "Protein": "4 г",
+        "Fats": "8,4 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Калитки картофельные",
+        "Calories": "157,1 кКал",
+        "Protein": "3,4 г",
+        "Fats": "8,1 г",
+        "Carbohydrates": "18,9 г"
+    },
+    {
+        "title": "Кальмары жареные",
+        "Calories": "174,6 кКал",
+        "Protein": "9,9 г",
+        "Fats": "14,4 г",
+        "Carbohydrates": "1,4 г"
+    },
+    {
+        "title": "Капуста отварная с маслом или соусом",
+        "Calories": "92 кКал",
+        "Protein": "1,7 г",
+        "Fats": "7,8 г",
+        "Carbohydrates": "4,1 г"
+    },
+    {
+        "title": "Капуста по-охотничьи",
+        "Calories": "65,8 кКал",
+        "Protein": "2,3 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "title": "Капуста со сметаной в горшочке",
+        "Calories": "119,4 кКал",
+        "Protein": "1,6 г",
+        "Fats": "11,3 г",
+        "Carbohydrates": "2,9 г"
+    },
+    {
+        "title": "Капуста тушеная",
+        "Calories": "102,2 кКал",
+        "Protein": "2,7 г",
+        "Fats": "5,9 г",
+        "Carbohydrates": "10,2 г"
+    },
+    {
+        "title": "Капуста тушеная",
+        "Calories": "99,3 кКал",
+        "Protein": "2,6 г",
+        "Fats": "5,8 г",
+        "Carbohydrates": "9,8 г"
+    },
+    {
+        "title": "Капуста тушеная с грибами",
+        "Calories": "132,1 кКал",
+        "Protein": "8,1 г",
+        "Fats": "7,8 г",
+        "Carbohydrates": "7,9 г"
+    },
+    {
+        "title": "Капуста, тушенная с лимонным соком",
+        "Calories": "79,6 кКал",
+        "Protein": "1,1 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "7,6 г"
+    },
+    {
+        "title": "Капуста, тушенная со свеклой",
+        "Calories": "56,4 кКал",
+        "Protein": "1,7 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "7,4 г"
+    },
+    {
+        "title": "Капустные котлеты",
+        "Calories": "99,4 кКал",
+        "Protein": "6,4 г",
+        "Fats": "3,5 г",
+        "Carbohydrates": "11,3 г"
+    },
+    {
+        "title": "Капустные рулетики",
+        "Calories": "160 кКал",
+        "Protein": "3,1 г",
+        "Fats": "15,4 г",
+        "Carbohydrates": "2,4 г"
+    },
+    {
+        "title": "Капустный пирог",
+        "Calories": "158 кКал",
+        "Protein": "4,3 г",
+        "Fats": "12,7 г",
+        "Carbohydrates": "7 г"
+    },
+    {
+        "title": "Карп по-австрийски",
+        "Calories": "150,1 кКал",
+        "Protein": "11,7 г",
+        "Fats": "10,9 г",
+        "Carbohydrates": "1,4 г"
+    },
+    {
+        "title": "Картофельные котлеты, запеченные под соусом грибным или сметанным соусом",
+        "Calories": "228,9 кКал",
+        "Protein": "4,1 г",
+        "Fats": "19 г",
+        "Carbohydrates": "11 г"
+    },
+    {
+        "title": "Картофельные лепешки (национальное блюдо республики Коми)",
+        "Calories": "182,7 кКал",
+        "Protein": "4,7 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "26,5 г"
+    },
+    {
+        "title": "Картофельные оладьи с сыром",
+        "Calories": "178 кКал",
+        "Protein": "5,4 г",
+        "Fats": "11,6 г",
+        "Carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Картофельные оладьи со свежей капустой",
+        "Calories": "185,3 кКал",
+        "Protein": "3,7 г",
+        "Fats": "13,5 г",
+        "Carbohydrates": "13 г"
+    },
+    {
+        "title": "Картофельный хворост",
+        "Calories": "227,9 кКал",
+        "Protein": "5,3 г",
+        "Fats": "11,5 г",
+        "Carbohydrates": "27,5 г"
+    },
+    {
+        "title": "Кезан-кебаб",
+        "Calories": "128,3 кКал",
+        "Protein": "5,5 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "8 г"
+    },
+    {
+        "title": "Кильки с картофельным салатом и яйцом",
+        "Calories": "114,6 кКал",
+        "Protein": "6,9 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "8,6 г"
+    },
+    {
+        "title": "Киприана",
+        "Calories": "294,3 кКал",
+        "Protein": "15,6 г",
+        "Fats": "24,9 г",
+        "Carbohydrates": "2,1 г"
+    },
+    {
+        "title": "Кисло-сладкая капуста",
+        "Calories": "75,7 кКал",
+        "Protein": "1,5 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "6 г"
+    },
+    {
+        "title": "Кольраби с томатным соусом",
+        "Calories": "80,6 кКал",
+        "Protein": "4,9 г",
+        "Fats": "4,6 г",
+        "Carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Кольраби, тушенная с морковью",
+        "Calories": "65,6 кКал",
+        "Protein": "3,5 г",
+        "Fats": "4,1 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "title": "Корнетики с муссом ветчины",
+        "Calories": "287,1 кКал",
+        "Protein": "18,5 г",
+        "Fats": "23,3 г",
+        "Carbohydrates": "0,9 г"
+    },
+    {
+        "title": "Котлета \"Аленушкина загадка\"",
+        "Calories": "263 кКал",
+        "Protein": "8,8 г",
+        "Fats": "24,8 г",
+        "Carbohydrates": "1,3 г"
+    },
+    {
+        "title": "Котлетки по-приморски",
+        "Calories": "151,9 кКал",
+        "Protein": "13 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "5,6 г"
+    },
+    {
+        "title": "Котлеты",
+        "Calories": "227,4 кКал",
+        "Protein": "10,1 г",
+        "Fats": "19,4 г",
+        "Carbohydrates": "3,3 г"
+    },
+    {
+        "title": "Котлеты \"Централь\"",
+        "Calories": "203,1 кКал",
+        "Protein": "10,9 г",
+        "Fats": "15,5 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "title": "Котлеты гороховые",
+        "Calories": "236 кКал",
+        "Protein": "13,3 г",
+        "Fats": "10,4 г",
+        "Carbohydrates": "23,7 г"
+    },
+    {
+        "title": "Котлеты из брюквы",
+        "Calories": "99,3 кКал",
+        "Protein": "3,1 г",
+        "Fats": "5,6 г",
+        "Carbohydrates": "9,6 г"
+    },
+    {
+        "title": "Котлеты из кабачков с творогом",
+        "Calories": "122,5 кКал",
+        "Protein": "5 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "8,3 г"
+    },
+    {
+        "title": "Котлеты из овощей",
+        "Calories": "187,6 кКал",
+        "Protein": "3,3 г",
+        "Fats": "13,3 г",
+        "Carbohydrates": "14,5 г"
+    },
+    {
+        "title": "Котлеты из свинины по-сарански (мордовское национальное блюдо)",
+        "Calories": "571,6 кКал",
+        "Protein": "14,2 г",
+        "Fats": "52,9 г",
+        "Carbohydrates": "10,4 г"
+    },
+    {
+        "title": "Котлеты из филе птицы или дичи, панированные жареные",
+        "Calories": "403,7 кКал",
+        "Protein": "25,1 г",
+        "Fats": "20,4 г",
+        "Carbohydrates": "32 г"
+    },
+    {
+        "title": "Котлеты или биточки рыбные",
+        "Calories": "168,1 кКал",
+        "Protein": "8,1 г",
+        "Fats": "8,4 г",
+        "Carbohydrates": "16,1 г"
+    },
+    {
+        "title": "Котлеты капустно-морковные",
+        "Calories": "198 кКал",
+        "Protein": "4,5 г",
+        "Fats": "14,1 г",
+        "Carbohydrates": "14,2 г"
+    },
+    {
+        "title": "Котлеты капустные",
+        "Calories": "191 кКал",
+        "Protein": "4,9 г",
+        "Fats": "13,8 г",
+        "Carbohydrates": "12,7 г"
+    },
+    {
+        "title": "Котлеты картофельные",
+        "Calories": "189,2 кКал",
+        "Protein": "3,7 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "15,6 г"
+    },
+    {
+        "title": "Котлеты морковные",
+        "Calories": "206,2 кКал",
+        "Protein": "4,1 г",
+        "Fats": "14,5 г",
+        "Carbohydrates": "15,9 г"
+    },
+    {
+        "title": "Котлеты мясо-картофельные по-хлыновски",
+        "Calories": "342,9 кКал",
+        "Protein": "20,8 г",
+        "Fats": "26,1 г",
+        "Carbohydrates": "6,7 г"
+    },
+    {
+        "title": "Котлеты натуральные",
+        "Calories": "438,2 кКал",
+        "Protein": "29 г",
+        "Fats": "35,8 г",
+        "Carbohydrates": "0,04 г"
+    },
+    {
+        "title": "Котлеты натуральные из филе птицы или дичи под соусом паровым с грибами",
+        "Calories": "312,2 кКал",
+        "Protein": "13,3 г",
+        "Fats": "16 г",
+        "Carbohydrates": "30,6 г"
+    },
+    {
+        "title": "Котлеты натуральные из филе птицы, дичи или кролика с гарниром",
+        "Calories": "301,7 кКал",
+        "Protein": "11,7 г",
+        "Fats": "22,8 г",
+        "Carbohydrates": "13,1 г"
+    },
+    {
+        "title": "Котлеты натуральные паровые",
+        "Calories": "209,8 кКал",
+        "Protein": "8,8 г",
+        "Fats": "19,4 г",
+        "Carbohydrates": "0,008 г"
+    },
+    {
+        "title": "Котлеты натуральные рубленые",
+        "Calories": "490,5 кКал",
+        "Protein": "23 г",
+        "Fats": "44,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Котлеты отбивные",
+        "Calories": "505,2 кКал",
+        "Protein": "18,2 г",
+        "Fats": "43,5 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "title": "Котлеты по-гречески",
+        "Calories": "178,1 кКал",
+        "Protein": "6,4 г",
+        "Fats": "6,7 г",
+        "Carbohydrates": "24,6 г"
+    },
+    {
+        "title": "Котлеты по-киевски",
+        "Calories": "444,7 кКал",
+        "Protein": "21,6 г",
+        "Fats": "27,8 г",
+        "Carbohydrates": "28,8 г"
+    },
+    {
+        "title": "Котлеты полтавские (украинское национальное блюдо)",
+        "Calories": "465,7 кКал",
+        "Protein": "27,8 г",
+        "Fats": "36,7 г",
+        "Carbohydrates": "6,3 г"
+    },
+    {
+        "title": "Котлеты рубленые из кур, кролика, запеченные с соусом молочным",
+        "Calories": "301,8 кКал",
+        "Protein": "17,7 г",
+        "Fats": "15,8 г",
+        "Carbohydrates": "23,7 г"
+    },
+    {
+        "title": "Котлеты рубленые из птицы, дичи или кролика с гарниром",
+        "Calories": "328,4 кКал",
+        "Protein": "12,3 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "43,6 г"
+    },
+    {
+        "title": "Котлеты рубленые, запеченные с молочным соусом",
+        "Calories": "285,3 кКал",
+        "Protein": "16,2 г",
+        "Fats": "21 г",
+        "Carbohydrates": "8,4 г"
+    },
+    {
+        "title": "Котлеты рыбные любительские",
+        "Calories": "148,2 кКал",
+        "Protein": "10,5 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "8 г"
+    },
+    {
+        "title": "Котлеты рыбные с капустой и морковью",
+        "Calories": "288,7 кКал",
+        "Protein": "20,8 г",
+        "Fats": "20,9 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Котлеты рыбные с омлетом и сыром",
+        "Calories": "322,6 кКал",
+        "Protein": "15 г",
+        "Fats": "26,2 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "title": "Котлеты свекольные",
+        "Calories": "153,5 кКал",
+        "Protein": "3,8 г",
+        "Fats": "9 г",
+        "Carbohydrates": "15,2 г"
+    },
+    {
+        "title": "Котлеты, биточки из рыбы и пасты \"Океан\"",
+        "Calories": "362 кКал",
+        "Protein": "11,7 г",
+        "Fats": "10 г",
+        "Carbohydrates": "59,9 г"
+    },
+    {
+        "title": "Котлеты, биточки, шницели",
+        "Calories": "317,7 кКал",
+        "Protein": "21,3 г",
+        "Fats": "20,9 г",
+        "Carbohydrates": "11,8 г"
+    },
+    {
+        "title": "Крабы с яйцом",
+        "Calories": "251,2 кКал",
+        "Protein": "16,7 г",
+        "Fats": "19,9 г",
+        "Carbohydrates": "1,3 г"
+    },
+    {
+        "title": "Красная капуста",
+        "Calories": "73 кКал",
+        "Protein": "1,1 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "5,9 г"
+    },
+    {
+        "title": "Краснокочанная капуста, тушенная с яблоками",
+        "Calories": "44,1 кКал",
+        "Protein": "0,6 г",
+        "Fats": "1 г",
+        "Carbohydrates": "8,7 г"
+    },
+    {
+        "title": "Креветки с соусом",
+        "Calories": "211,3 кКал",
+        "Protein": "26,5 г",
+        "Fats": "7,5 г",
+        "Carbohydrates": "10,1 г"
+    },
+    {
+        "title": "Креветки, запеченные под сметанным или молочным соусом",
+        "Calories": "175,7 кКал",
+        "Protein": "15,1 г",
+        "Fats": "7,8 г",
+        "Carbohydrates": "11,9 г"
+    },
+    {
+        "title": "Крокеты картофельные",
+        "Calories": "187,3 кКал",
+        "Protein": "4,2 г",
+        "Fats": "13 г",
+        "Carbohydrates": "14,2 г"
+    },
+    {
+        "title": "Крокеты картофельные",
+        "Calories": "207,5 кКал",
+        "Protein": "4,3 г",
+        "Fats": "13,6 г",
+        "Carbohydrates": "18,2 г"
+    },
+    {
+        "title": "Крокеты картофельные",
+        "Calories": "239,7 кКал",
+        "Protein": "4,3 г",
+        "Fats": "20,2 г",
+        "Carbohydrates": "10,9 г"
+    },
+    {
+        "title": "Кролик в маринаде",
+        "Calories": "194,5 кКал",
+        "Protein": "15,7 г",
+        "Fats": "11,5 г",
+        "Carbohydrates": "7,6 г"
+    },
+    {
+        "title": "Кролик по-любительски",
+        "Calories": "455 кКал",
+        "Protein": "15,4 г",
+        "Fats": "26 г",
+        "Carbohydrates": "42,3 г"
+    },
+    {
+        "title": "Кролик под ореховым соусом",
+        "Calories": "205,4 кКал",
+        "Protein": "8,1 г",
+        "Fats": "17,1 г",
+        "Carbohydrates": "5,2 г"
+    },
+    {
+        "title": "Курзе с зеленью (пельмени с фаршем из зелени - дагестанское национальное блюдо)",
+        "Calories": "162,8 кКал",
+        "Protein": "6,2 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "24,7 г"
+    },
+    {
+        "title": "Куриное филе, фаршированное грибами",
+        "Calories": "226,2 кКал",
+        "Protein": "13,4 г",
+        "Fats": "19 г",
+        "Carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Куриные грудки с соусом из грецких орехов",
+        "Calories": "227,2 кКал",
+        "Protein": "11,8 г",
+        "Fats": "15,6 г",
+        "Carbohydrates": "10,6 г"
+    },
+    {
+        "title": "Куриные колбаски с жареным картофелем",
+        "Calories": "141,9 кКал",
+        "Protein": "6,4 г",
+        "Fats": "7,8 г",
+        "Carbohydrates": "12,3 г"
+    },
+    {
+        "title": "Курица по-купечески",
+        "Calories": "127,9 кКал",
+        "Protein": "7 г",
+        "Fats": "9,9 г",
+        "Carbohydrates": "2,8 г"
+    },
+    {
+        "title": "Курица почти в сметане",
+        "Calories": "338,8 кКал",
+        "Protein": "7,3 г",
+        "Fats": "33,6 г",
+        "Carbohydrates": "1,9 г"
+    },
+    {
+        "title": "Курица фаршированная (галантин) или поросенок фаршированный",
+        "Calories": "325,3 кКал",
+        "Protein": "12,5 г",
+        "Fats": "27,6 г",
+        "Carbohydrates": "7,1 г"
+    },
+    {
+        "title": "Курица, жаренная целиком",
+        "Calories": "133,8 кКал",
+        "Protein": "8,5 г",
+        "Fats": "9,3 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "title": "Курица, тушённая с картофелем и помидорами",
+        "Calories": "123 кКал",
+        "Protein": "5,6 г",
+        "Fats": "9 г",
+        "Carbohydrates": "5,1 г"
+    },
+    {
+        "title": "Лангет",
+        "Calories": "381,3 кКал",
+        "Protein": "33,2 г",
+        "Fats": "27,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лук маринованный",
+        "Calories": "82,2 кКал",
+        "Protein": "1,4 г",
+        "Fats": "5 г",
+        "Carbohydrates": "8,5 г"
+    },
+    {
+        "title": "Лук порей с грибами",
+        "Calories": "58,3 кКал",
+        "Protein": "2,4 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "title": "Лук-порей со свининой",
+        "Calories": "207,5 кКал",
+        "Protein": "6 г",
+        "Fats": "15,6 г",
+        "Carbohydrates": "11,5 г"
+    },
+    {
+        "title": "Лук, жареный во фритюре",
+        "Calories": "239,7 кКал",
+        "Protein": "4,8 г",
+        "Fats": "14 г",
+        "Carbohydrates": "25,3 г"
+    },
+    {
+        "title": "Луковый клопс",
+        "Calories": "181,4 кКал",
+        "Protein": "11,4 г",
+        "Fats": "13,3 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "title": "Люля-кебаб (азербайджанское национальное блюдо)",
+        "Calories": "338,7 кКал",
+        "Protein": "20,1 г",
+        "Fats": "24,6 г",
+        "Carbohydrates": "9,9 г"
+    },
+    {
+        "title": "Макароны с яйцом",
+        "Calories": "114,9 кКал",
+        "Protein": "3,1 г",
+        "Fats": "7,5 г",
+        "Carbohydrates": "9,4 г"
+    },
+    {
+        "title": "Манты с бараниной (казахское национальное блюдо)",
+        "Calories": "204,9 кКал",
+        "Protein": "11,7 г",
+        "Fats": "10,3 г",
+        "Carbohydrates": "17,6 г"
+    },
+    {
+        "title": "Манты с тыквой",
+        "Calories": "247,7 кКал",
+        "Protein": "3 г",
+        "Fats": "18 г",
+        "Carbohydrates": "19,7 г"
+    },
+    {
+        "title": "Масса из рыбы горячего копчения",
+        "Calories": "340,1 кКал",
+        "Protein": "22,3 г",
+        "Fats": "27,8 г",
+        "Carbohydrates": "0,3 г"
+    },
+    {
+        "title": "Минестроне",
+        "Calories": "66,8 кКал",
+        "Protein": "4,2 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Мозги, запеченные на гренках",
+        "Calories": "219,6 кКал",
+        "Protein": "9,8 г",
+        "Fats": "12,1 г",
+        "Carbohydrates": "19,2 г"
+    },
+    {
+        "title": "Морепродукты под майонезом",
+        "Calories": "472,2 кКал",
+        "Protein": "39 г",
+        "Fats": "34,7 г",
+        "Carbohydrates": "1 г"
+    },
+    {
+        "title": "Морковь в формочках",
+        "Calories": "74,4 кКал",
+        "Protein": "2,1 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "title": "Морковь глазированная",
+        "Calories": "146,3 кКал",
+        "Protein": "1 г",
+        "Fats": "6,8 г",
+        "Carbohydrates": "21,6 г"
+    },
+    {
+        "title": "Морковь с зеленым горошком в молочном соусе",
+        "Calories": "184,8 кКал",
+        "Protein": "7,4 г",
+        "Fats": "8,9 г",
+        "Carbohydrates": "19,9 г"
+    },
+    {
+        "title": "Морковь тушеная",
+        "Calories": "108 кКал",
+        "Protein": "0,9 г",
+        "Fats": "8,9 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "title": "Морковь тушеная с рисом и черносливом",
+        "Calories": "174,6 кКал",
+        "Protein": "2,6 г",
+        "Fats": "7,1 г",
+        "Carbohydrates": "26,6 г"
+    },
+    {
+        "title": "Морковь, тушенная в сметанном соусе",
+        "Calories": "152,4 кКал",
+        "Protein": "2,4 г",
+        "Fats": "11,3 г",
+        "Carbohydrates": "10,9 г"
+    },
+    {
+        "title": "Морковь, тушенная с репчатым луком",
+        "Calories": "57,6 кКал",
+        "Protein": "1,9 г",
+        "Fats": "2,5 г",
+        "Carbohydrates": "7,4 г"
+    },
+    {
+        "title": "Морковь, тушенная с рисом",
+        "Calories": "130,8 кКал",
+        "Protein": "1,7 г",
+        "Fats": "8,1 г",
+        "Carbohydrates": "13,7 г"
+    },
+    {
+        "title": "Морковь, тушенная с черносливом или яблоками",
+        "Calories": "146,6 кКал",
+        "Protein": "2,2 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "24,7 г"
+    },
+    {
+        "title": "Морской гребешок или креветки заливные",
+        "Calories": "222 кКал",
+        "Protein": "23,6 г",
+        "Fats": "13,7 г",
+        "Carbohydrates": "1,2 г"
+    },
+    {
+        "title": "Морской гребешок отварной с соусом",
+        "Calories": "159 кКал",
+        "Protein": "16,9 г",
+        "Fats": "6,2 г",
+        "Carbohydrates": "9,4 г"
+    },
+    {
+        "title": "Мясо \"Пальчики оближешь\"",
+        "Calories": "269,4 кКал",
+        "Protein": "9,8 г",
+        "Fats": "24,7 г",
+        "Carbohydrates": "2,1 г"
+    },
+    {
+        "title": "Мясо в горшочке",
+        "Calories": "57,9 кКал",
+        "Protein": "1,9 г",
+        "Fats": "3,8 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "title": "Мясо в шубе",
+        "Calories": "273,5 кКал",
+        "Protein": "11,8 г",
+        "Fats": "24,6 г",
+        "Carbohydrates": "1,4 г"
+    },
+    {
+        "title": "Мясо отварное",
+        "Calories": "307,2 кКал",
+        "Protein": "34,1 г",
+        "Fats": "18,6 г",
+        "Carbohydrates": "0,9 г"
+    },
+    {
+        "title": "Мясо по-корейски",
+        "Calories": "173,5 кКал",
+        "Protein": "3,1 г",
+        "Fats": "15,7 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "title": "Мясо по-французски",
+        "Calories": "264,6 кКал",
+        "Protein": "10 г",
+        "Fats": "23 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Мясо с курагой",
+        "Calories": "181,6 кКал",
+        "Protein": "10,1 г",
+        "Fats": "10,6 г",
+        "Carbohydrates": "12,3 г"
+    },
+    {
+        "title": "Мясо с овощами по-индонезийски",
+        "Calories": "174,7 кКал",
+        "Protein": "5,1 г",
+        "Fats": "11 г",
+        "Carbohydrates": "14,7 г"
+    },
+    {
+        "title": "Мясо тушеное",
+        "Calories": "252,3 кКал",
+        "Protein": "17,3 г",
+        "Fats": "9 г",
+        "Carbohydrates": "27,3 г"
+    },
+    {
+        "title": "Мясо шпигованное",
+        "Calories": "174 кКал",
+        "Protein": "17,6 г",
+        "Fats": "9,2 г",
+        "Carbohydrates": "5,6 г"
+    },
+    {
+        "title": "Мясо, жаренное крупным куском",
+        "Calories": "399,3 кКал",
+        "Protein": "35 г",
+        "Fats": "28,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Мясо, жаренное крупным куском, шпигованное",
+        "Calories": "391,5 кКал",
+        "Protein": "32,6 г",
+        "Fats": "29 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Мясо, тушенное с луком в горшочке",
+        "Calories": "293,2 кКал",
+        "Protein": "15,9 г",
+        "Fats": "9,7 г",
+        "Carbohydrates": "37,9 г"
+    },
+    {
+        "title": "Овощи в молочном соусе (1-й вариант)",
+        "Calories": "120,8 кКал",
+        "Protein": "5,6 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "17,5 г"
+    },
+    {
+        "title": "Овощи отварные с жиром",
+        "Calories": "90,5 кКал",
+        "Protein": "1,9 г",
+        "Fats": "6 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Овощи, припущенные в молочном или сметанном соусе",
+        "Calories": "232,1 кКал",
+        "Protein": "4,7 г",
+        "Fats": "17,9 г",
+        "Carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Овощи, припущенные с жиром",
+        "Calories": "109,2 кКал",
+        "Protein": "2,1 г",
+        "Fats": "6 г",
+        "Carbohydrates": "12,4 г"
+    },
+    {
+        "title": "Овощное рагу с шампиньонами",
+        "Calories": "73,2 кКал",
+        "Protein": "1,1 г",
+        "Fats": "6 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "title": "Оладьи из капусты с сыром",
+        "Calories": "213,2 кКал",
+        "Protein": "5,6 г",
+        "Fats": "19,3 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Оладьи из печени",
+        "Calories": "229,1 кКал",
+        "Protein": "20,2 г",
+        "Fats": "14,2 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "title": "Омлет из взбитых сливок",
+        "Calories": "256,8 кКал",
+        "Protein": "6,4 г",
+        "Fats": "14,8 г",
+        "Carbohydrates": "26,2 г"
+    },
+    {
+        "title": "Омлет натуральный",
+        "Calories": "221,9 кКал",
+        "Protein": "12,2 г",
+        "Fats": "18,4 г",
+        "Carbohydrates": "1,9 г"
+    },
+    {
+        "title": "Омлет натуральный",
+        "Calories": "128 кКал",
+        "Protein": "8,7 г",
+        "Fats": "9,2 г",
+        "Carbohydrates": "2,7 г"
+    },
+    {
+        "title": "Омлет с сыром",
+        "Calories": "342 кКал",
+        "Protein": "16,3 г",
+        "Fats": "29,7 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "title": "Омлет, смешанный с мясными продуктами",
+        "Calories": "351,4 кКал",
+        "Protein": "17,3 г",
+        "Fats": "30,5 г",
+        "Carbohydrates": "2,1 г"
+    },
+    {
+        "title": "Осетрина, белуга, севрюга, сом с гарниром",
+        "Calories": "132,6 кКал",
+        "Protein": "12 г",
+        "Fats": "8 г",
+        "Carbohydrates": "3,3 г"
+    },
+    {
+        "title": "Острый рис с помидорами",
+        "Calories": "128,4 кКал",
+        "Protein": "2,9 г",
+        "Fats": "4,1 г",
+        "Carbohydrates": "21,2 г"
+    },
+    {
+        "title": "Охотничье блюдо",
+        "Calories": "114,2 кКал",
+        "Protein": "4,9 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "title": "Палочки из оленины (национальное блюдо народов Севера)",
+        "Calories": "527,1 кКал",
+        "Protein": "21,8 г",
+        "Fats": "47,8 г",
+        "Carbohydrates": "2,5 г"
+    },
+    {
+        "title": "Пампушки с чесноком",
+        "Calories": "215,3 кКал",
+        "Protein": "5,8 г",
+        "Fats": "3,9 г",
+        "Carbohydrates": "41,9 г"
+    },
+    {
+        "title": "Паста Наполитана",
+        "Calories": "289,6 кКал",
+        "Protein": "4,2 г",
+        "Fats": "21,5 г",
+        "Carbohydrates": "21 г"
+    },
+    {
+        "title": "Паста сырная",
+        "Calories": "555,2 кКал",
+        "Protein": "14,8 г",
+        "Fats": "54,2 г",
+        "Carbohydrates": "2,3 г"
+    },
+    {
+        "title": "Паштет из печени",
+        "Calories": "294,5 кКал",
+        "Protein": "14 г",
+        "Fats": "26 г",
+        "Carbohydrates": "1,1 г"
+    },
+    {
+        "title": "Паштет из фасоли",
+        "Calories": "330,5 кКал",
+        "Protein": "13 г",
+        "Fats": "20,9 г",
+        "Carbohydrates": "24 г"
+    },
+    {
+        "title": "Паштет рыбный",
+        "Calories": "276,4 кКал",
+        "Protein": "20,5 г",
+        "Fats": "21,5 г",
+        "Carbohydrates": "0,3 г"
+    },
+    {
+        "title": "Пельмени \"Московские\"",
+        "Calories": "279 кКал",
+        "Protein": "14 г",
+        "Fats": "14,6 г",
+        "Carbohydrates": "24,6 г"
+    },
+    {
+        "title": "Пельмени из говядины и свинины",
+        "Calories": "276,9 кКал",
+        "Protein": "13,4 г",
+        "Fats": "12 г",
+        "Carbohydrates": "30,7 г"
+    },
+    {
+        "title": "Пельмени мясные",
+        "Calories": "245 кКал",
+        "Protein": "15,5 г",
+        "Fats": "8 г",
+        "Carbohydrates": "29,7 г"
+    },
+    {
+        "title": "Пельмени по-мордовски",
+        "Calories": "249,3 кКал",
+        "Protein": "8,9 г",
+        "Fats": "14,2 г",
+        "Carbohydrates": "23 г"
+    },
+    {
+        "title": "Пельмени рыбные (полуфабрикат)",
+        "Calories": "209,2 кКал",
+        "Protein": "14,9 г",
+        "Fats": "6,7 г",
+        "Carbohydrates": "23,9 г"
+    },
+    {
+        "title": "Пельмени рыбные, запеченные в горшочке",
+        "Calories": "377,5 кКал",
+        "Protein": "20,9 г",
+        "Fats": "20,2 г",
+        "Carbohydrates": "29,9 г"
+    },
+    {
+        "title": "Пельмени со свининой и свежей капустой",
+        "Calories": "268,5 кКал",
+        "Protein": "10,2 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "29,7 г"
+    },
+    {
+        "title": "Пельмени старорусские с субпродуктами",
+        "Calories": "265,2 кКал",
+        "Protein": "15,1 г",
+        "Fats": "13,7 г",
+        "Carbohydrates": "21,8 г"
+    },
+    {
+        "title": "Пельмени, запеченные в сметане",
+        "Calories": "616,6 кКал",
+        "Protein": "25,7 г",
+        "Fats": "40 г",
+        "Carbohydrates": "41,1 г"
+    },
+    {
+        "title": "Перец с грибами",
+        "Calories": "73,4 кКал",
+        "Protein": "2,1 г",
+        "Fats": "5,7 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "title": "Перец, фаршированный брынзой или сыром с яйцом (карачаево-черкесское национальное блюдо)",
+        "Calories": "175,2 кКал",
+        "Protein": "8,4 г",
+        "Fats": "14,3 г",
+        "Carbohydrates": "3,4 г"
+    },
+    {
+        "title": "Перец, фаршированный овощами и рисом",
+        "Calories": "131,8 кКал",
+        "Protein": "2,7 г",
+        "Fats": "8,9 г",
+        "Carbohydrates": "11 г"
+    },
+    {
+        "title": "Печенка в сметане",
+        "Calories": "184,7 кКал",
+        "Protein": "8,9 г",
+        "Fats": "14,6 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "title": "Печеночный паштет",
+        "Calories": "306,7 кКал",
+        "Protein": "7,3 г",
+        "Fats": "22,2 г",
+        "Carbohydrates": "20,7 г"
+    },
+    {
+        "title": "Печень в сметанном соусе",
+        "Calories": "112,2 кКал",
+        "Protein": "4,1 г",
+        "Fats": "9 г",
+        "Carbohydrates": "4,1 г"
+    },
+    {
+        "title": "Печень по Берлински",
+        "Calories": "118,2 кКал",
+        "Protein": "8,1 г",
+        "Fats": "6,4 г",
+        "Carbohydrates": "7,6 г"
+    },
+    {
+        "title": "Печень по Южноамерикански",
+        "Calories": "139,8 кКал",
+        "Protein": "14,2 г",
+        "Fats": "9,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Печень по-деревенски (печень, запеченная в яйце, - татарское национальное блюдо)",
+        "Calories": "182 кКал",
+        "Protein": "16,5 г",
+        "Fats": "11 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Печень по-строгановски",
+        "Calories": "347 кКал",
+        "Protein": "16,3 г",
+        "Fats": "29,1 г",
+        "Carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Печень по-строгановски",
+        "Calories": "211,8 кКал",
+        "Protein": "6 г",
+        "Fats": "19 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Печень по-шадрински",
+        "Calories": "84,8 кКал",
+        "Protein": "11 г",
+        "Fats": "2,6 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "title": "Печень с грибами",
+        "Calories": "251,3 кКал",
+        "Protein": "21,6 г",
+        "Fats": "17,3 г",
+        "Carbohydrates": "2,5 г"
+    },
+    {
+        "title": "Печень, жаренная с жиром или луком",
+        "Calories": "300,3 кКал",
+        "Protein": "23,7 г",
+        "Fats": "21,2 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "title": "Печень, тушенная в соусе",
+        "Calories": "362,4 кКал",
+        "Protein": "12,3 г",
+        "Fats": "18,2 г",
+        "Carbohydrates": "39,8 г"
+    },
+    {
+        "title": "Печенье \"Платочки\"",
+        "Calories": "302,2 кКал",
+        "Protein": "8,9 г",
+        "Fats": "19,5 г",
+        "Carbohydrates": "24,2 г"
+    },
+    {
+        "title": "Поджарка",
+        "Calories": "357,6 кКал",
+        "Protein": "26,1 г",
+        "Fats": "26,1 г",
+        "Carbohydrates": "4,9 г"
+    },
+    {
+        "title": "Поджарка из рыбы",
+        "Calories": "276,4 кКал",
+        "Protein": "15,2 г",
+        "Fats": "20 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "title": "Помидоры жареные",
+        "Calories": "55,6 кКал",
+        "Protein": "0,8 г",
+        "Fats": "4,2 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "title": "Помидоры, фаршированные грибами",
+        "Calories": "58 кКал",
+        "Protein": "1,6 г",
+        "Fats": "4,1 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "title": "Помидоры, фаршированные овощами и рисом",
+        "Calories": "118 кКал",
+        "Protein": "2,3 г",
+        "Fats": "7,6 г",
+        "Carbohydrates": "10,8 г"
+    },
+    {
+        "title": "Помидоры, фаршированные творогом",
+        "Calories": "91,5 кКал",
+        "Protein": "5,4 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "4,1 г"
+    },
+    {
+        "title": "Помидоры, фаршированные яйцом и луком",
+        "Calories": "95,4 кКал",
+        "Protein": "3,1 г",
+        "Fats": "7,7 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "title": "Поросенок отварной с хреном",
+        "Calories": "194,8 кКал",
+        "Protein": "20,5 г",
+        "Fats": "8,6 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "title": "Поросенок фаршированный",
+        "Calories": "120,3 кКал",
+        "Protein": "16,5 г",
+        "Fats": "5,7 г",
+        "Carbohydrates": "0,6 г"
+    },
+    {
+        "title": "Почки жареные с помидорами или лимонным соком",
+        "Calories": "237,9 кКал",
+        "Protein": "19,8 г",
+        "Fats": "15,6 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "title": "Почки по-русски",
+        "Calories": "116,4 кКал",
+        "Protein": "8,7 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Почки с грибами в соусе красном с вином",
+        "Calories": "154,7 кКал",
+        "Protein": "12,8 г",
+        "Fats": "9,8 г",
+        "Carbohydrates": "4,1 г"
+    },
+    {
+        "title": "Птица или дичь под паровым соусом с грибами и рисом",
+        "Calories": "322 кКал",
+        "Protein": "14,4 г",
+        "Fats": "15,4 г",
+        "Carbohydrates": "33,5 г"
+    },
+    {
+        "title": "Птица или кролик жареные",
+        "Calories": "508,3 кКал",
+        "Protein": "31,2 г",
+        "Fats": "42 г",
+        "Carbohydrates": "1,3 г"
+    },
+    {
+        "title": "Птица или кролик, тушенные в соусе",
+        "Calories": "265,5 кКал",
+        "Protein": "17,5 г",
+        "Fats": "19,1 г",
+        "Carbohydrates": "6,2 г"
+    },
+    {
+        "title": "Птица, дичь или кролик отварные с гарниром",
+        "Calories": "335,8 кКал",
+        "Protein": "16 г",
+        "Fats": "13,7 г",
+        "Carbohydrates": "39,6 г"
+    },
+    {
+        "title": "Птица, дичь или кролик по-столичному",
+        "Calories": "396,2 кКал",
+        "Protein": "22,9 г",
+        "Fats": "21,2 г",
+        "Carbohydrates": "30,3 г"
+    },
+    {
+        "title": "Рагу из баранины или свинины",
+        "Calories": "225,6 кКал",
+        "Protein": "11,2 г",
+        "Fats": "13,3 г",
+        "Carbohydrates": "16,2 г"
+    },
+    {
+        "title": "Рагу из грибов с яйцами",
+        "Calories": "87,8 кКал",
+        "Protein": "7,3 г",
+        "Fats": "4,4 г",
+        "Carbohydrates": "5,1 г"
+    },
+    {
+        "title": "Рагу из овощей",
+        "Calories": "147,2 кКал",
+        "Protein": "4,5 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "15,4 г"
+    },
+    {
+        "title": "Рагу из овощей",
+        "Calories": "57,3 кКал",
+        "Protein": "1,2 г",
+        "Fats": "3 г",
+        "Carbohydrates": "6,9 г"
+    },
+    {
+        "title": "Рагу из птицы, дичи, кролика или субпродуктов",
+        "Calories": "246,2 кКал",
+        "Protein": "14,1 г",
+        "Fats": "16,4 г",
+        "Carbohydrates": "11,2 г"
+    },
+    {
+        "title": "Рагу овощное (1-й вариант)",
+        "Calories": "125,9 кКал",
+        "Protein": "4,7 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "16,1 г"
+    },
+    {
+        "title": "Рагу овощное (2-й вариант)",
+        "Calories": "107,7 кКал",
+        "Protein": "3 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "12,7 г"
+    },
+    {
+        "title": "Репа или кабачки, фаршированные овощами и рисом",
+        "Calories": "157,8 кКал",
+        "Protein": "4,8 г",
+        "Fats": "10,2 г",
+        "Carbohydrates": "12,6 г"
+    },
+    {
+        "title": "Репа, фаршированная грибами",
+        "Calories": "189,9 кКал",
+        "Protein": "5 г",
+        "Fats": "13,1 г",
+        "Carbohydrates": "13,8 г"
+    },
+    {
+        "title": "Рис в капустных листьях с мясным фаршем",
+        "Calories": "38,4 кКал",
+        "Protein": "1,4 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "6,2 г"
+    },
+    {
+        "title": "Рис запеченый",
+        "Calories": "361,2 кКал",
+        "Protein": "10,9 г",
+        "Fats": "23,5 г",
+        "Carbohydrates": "28,3 г"
+    },
+    {
+        "title": "Рис припущенный",
+        "Calories": "163,6 кКал",
+        "Protein": "5,7 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "22,9 г"
+    },
+    {
+        "title": "Рис припущенный с томатом",
+        "Calories": "208,4 кКал",
+        "Protein": "8,3 г",
+        "Fats": "7,7 г",
+        "Carbohydrates": "28,3 г"
+    },
+    {
+        "title": "Ромштекс",
+        "Calories": "395,3 кКал",
+        "Protein": "26,9 г",
+        "Fats": "27,4 г",
+        "Carbohydrates": "11,1 г"
+    },
+    {
+        "title": "Ромштексы",
+        "Calories": "212,8 кКал",
+        "Protein": "13,2 г",
+        "Fats": "17,7 г",
+        "Carbohydrates": "0,2 г"
+    },
+    {
+        "title": "Рулет из баранины по-башкирски",
+        "Calories": "190,5 кКал",
+        "Protein": "14,5 г",
+        "Fats": "11,4 г",
+        "Carbohydrates": "7,9 г"
+    },
+    {
+        "title": "Рулет из говядины",
+        "Calories": "387,3 кКал",
+        "Protein": "32,5 г",
+        "Fats": "28,1 г",
+        "Carbohydrates": "1,3 г"
+    },
+    {
+        "title": "Рулет из курицы со свининой и черносливом",
+        "Calories": "281 кКал",
+        "Protein": "18,5 г",
+        "Fats": "19,6 г",
+        "Carbohydrates": "8,2 г"
+    },
+    {
+        "title": "Рулет из печени с яблоками",
+        "Calories": "124,3 кКал",
+        "Protein": "6,2 г",
+        "Fats": "9,8 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "title": "Рулет из рыбы",
+        "Calories": "159,6 кКал",
+        "Protein": "10,6 г",
+        "Fats": "7,4 г",
+        "Carbohydrates": "13,5 г"
+    },
+    {
+        "title": "Рулет или запеканка  картофельные с овощами или овощами и грибами",
+        "Calories": "128,8 кКал",
+        "Protein": "4,3 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "15,2 г"
+    },
+    {
+        "title": "Рулет мясной с черносливом",
+        "Calories": "202,9 кКал",
+        "Protein": "13,2 г",
+        "Fats": "13,7 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "title": "Рулет с луком и яйцом",
+        "Calories": "255,5 кКал",
+        "Protein": "17,8 г",
+        "Fats": "16,5 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "title": "Рулет с макаронами или яйцом",
+        "Calories": "287,1 кКал",
+        "Protein": "16,2 г",
+        "Fats": "13,9 г",
+        "Carbohydrates": "26 г"
+    },
+    {
+        "title": "Рулет яичный с морковью",
+        "Calories": "198,6 кКал",
+        "Protein": "9,9 г",
+        "Fats": "15,7 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "title": "Рулетики куриные",
+        "Calories": "142 кКал",
+        "Protein": "17,1 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "0,7 г"
+    },
+    {
+        "title": "Рулетики мясные, фаршированные капустой, по-домашнему",
+        "Calories": "460,4 кКал",
+        "Protein": "16 г",
+        "Fats": "40,5 г",
+        "Carbohydrates": "8,7 г"
+    },
+    {
+        "title": "Рыба \"Аппетитная\" (рыба, запеченная с капустой и луком)",
+        "Calories": "248,4 кКал",
+        "Protein": "12,8 г",
+        "Fats": "19 г",
+        "Carbohydrates": "6,9 г"
+    },
+    {
+        "title": "Рыба \"Сюрприз\" (окунь)",
+        "Calories": "115,7 кКал",
+        "Protein": "9,3 г",
+        "Fats": "8,2 г",
+        "Carbohydrates": "1,2 г"
+    },
+    {
+        "title": "Рыба (непластованная кусками) отварная",
+        "Calories": "178,5 кКал",
+        "Protein": "15,1 г",
+        "Fats": "8,7 г",
+        "Carbohydrates": "10,5 г"
+    },
+    {
+        "title": "Рыба (непластованная кусками) припущенная",
+        "Calories": "186,2 кКал",
+        "Protein": "12,9 г",
+        "Fats": "12,1 г",
+        "Carbohydrates": "6,9 г"
+    },
+    {
+        "title": "Рыба (семейства осетровых) жареная",
+        "Calories": "242,2 кКал",
+        "Protein": "16 г",
+        "Fats": "16,7 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Рыба (семейства осетровых) отварная",
+        "Calories": "202,2 кКал",
+        "Protein": "13,3 г",
+        "Fats": "13,7 г",
+        "Carbohydrates": "7 г"
+    },
+    {
+        "title": "Рыба (семейства осетровых) припущенная",
+        "Calories": "193,8 кКал",
+        "Protein": "13,4 г",
+        "Fats": "13 г",
+        "Carbohydrates": "6,2 г"
+    },
+    {
+        "title": "Рыба (филе) отварная",
+        "Calories": "165 кКал",
+        "Protein": "19,6 г",
+        "Fats": "6 г",
+        "Carbohydrates": "8,8 г"
+    },
+    {
+        "title": "Рыба (филе) припущенная",
+        "Calories": "145,9 кКал",
+        "Protein": "13,8 г",
+        "Fats": "7,5 г",
+        "Carbohydrates": "6,3 г"
+    },
+    {
+        "title": "Рыба в тесте, жареная",
+        "Calories": "227 кКал",
+        "Protein": "15,4 г",
+        "Fats": "12,3 г",
+        "Carbohydrates": "14,7 г"
+    },
+    {
+        "title": "Рыба в яблочном соусе",
+        "Calories": "86,7 кКал",
+        "Protein": "5,9 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "5,2 г"
+    },
+    {
+        "title": "Рыба жареная",
+        "Calories": "207,8 кКал",
+        "Protein": "16,6 г",
+        "Fats": "11,3 г",
+        "Carbohydrates": "10,6 г"
+    },
+    {
+        "title": "Рыба заливная с гарниром",
+        "Calories": "200,7 кКал",
+        "Protein": "20,1 г",
+        "Fats": "11,3 г",
+        "Carbohydrates": "4,9 г"
+    },
+    {
+        "title": "Рыба по-волжски (рыба маринованная, жареная)",
+        "Calories": "264,8 кКал",
+        "Protein": "24,8 г",
+        "Fats": "14,7 г",
+        "Carbohydrates": "8,8 г"
+    },
+    {
+        "title": "Рыба по-русски",
+        "Calories": "190,6 кКал",
+        "Protein": "14,5 г",
+        "Fats": "11,6 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Рыба по-старорусски в горшочке",
+        "Calories": "152,3 кКал",
+        "Protein": "4,5 г",
+        "Fats": "13,4 г",
+        "Carbohydrates": "3,7 г"
+    },
+    {
+        "title": "Рыба под майонезом",
+        "Calories": "191,8 кКал",
+        "Protein": "10,6 г",
+        "Fats": "16,1 г",
+        "Carbohydrates": "1,1 г"
+    },
+    {
+        "title": "Рыба под майонезом",
+        "Calories": "258,8 кКал",
+        "Protein": "12 г",
+        "Fats": "22,4 г",
+        "Carbohydrates": "2,4 г"
+    },
+    {
+        "title": "Рыба под маринадом",
+        "Calories": "6,2 кКал",
+        "Protein": "0,3 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Рыба припущенная с соусом белое вино",
+        "Calories": "172,6 кКал",
+        "Protein": "15 г",
+        "Fats": "8,6 г",
+        "Carbohydrates": "9,4 г"
+    },
+    {
+        "title": "Рыба, жаренная во фритюре",
+        "Calories": "245,2 кКал",
+        "Protein": "12,5 г",
+        "Fats": "15,7 г",
+        "Carbohydrates": "14,3 г"
+    },
+    {
+        "title": "Рыба, жаренная с луком по-ленинградски",
+        "Calories": "220 кКал",
+        "Protein": "12 г",
+        "Fats": "14,1 г",
+        "Carbohydrates": "12,1 г"
+    },
+    {
+        "title": "Рыба, запеченная в соусе с грибами",
+        "Calories": "366,4 кКал",
+        "Protein": "25,6 г",
+        "Fats": "27,7 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "title": "Рыба, запеченная под молочным соусом",
+        "Calories": "173,8 кКал",
+        "Protein": "9,1 г",
+        "Fats": "10,1 г",
+        "Carbohydrates": "12,3 г"
+    },
+    {
+        "title": "Рыба, запеченная с картофелем по-русски",
+        "Calories": "193,8 кКал",
+        "Protein": "13,5 г",
+        "Fats": "11,9 г",
+        "Carbohydrates": "8,7 г"
+    },
+    {
+        "title": "Рыба, печеная со шпиком",
+        "Calories": "97,5 кКал",
+        "Protein": "11,2 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "title": "Рыба, тушенная в томате с овощами",
+        "Calories": "122,7 кКал",
+        "Protein": "14,4 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "8,5 г"
+    },
+    {
+        "title": "Рыбная запеканка",
+        "Calories": "164 кКал",
+        "Protein": "9,7 г",
+        "Fats": "11,8 г",
+        "Carbohydrates": "4,9 г"
+    },
+    {
+        "title": "Рыбно-картофельные котлеты",
+        "Calories": "130,2 кКал",
+        "Protein": "6,7 г",
+        "Fats": "9,9 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "title": "Рыбные котлеты",
+        "Calories": "241,6 кКал",
+        "Protein": "7,9 г",
+        "Fats": "12,3 г",
+        "Carbohydrates": "26,4 г"
+    },
+    {
+        "title": "Рыбные котлеты",
+        "Calories": "112,8 кКал",
+        "Protein": "11,8 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "2,7 г"
+    },
+    {
+        "title": "Рыбные рулеты с овощами",
+        "Calories": "122,3 кКал",
+        "Protein": "6,8 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "4,9 г"
+    },
+    {
+        "title": "Рыбный шницель",
+        "Calories": "215,2 кКал",
+        "Protein": "12,8 г",
+        "Fats": "15,5 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "title": "Салака в молоке",
+        "Calories": "143 кКал",
+        "Protein": "6,2 г",
+        "Fats": "11,8 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "title": "Салака в чесночном соусе",
+        "Calories": "32,7 кКал",
+        "Protein": "2,4 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "1,1 г"
+    },
+    {
+        "title": "Салака, запеченная с рисом и капустой",
+        "Calories": "43 кКал",
+        "Protein": "2,6 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Сациви из курицы или индейки (птица в ореховом соусе - грузинское национальное блюдо)",
+        "Calories": "312,8 кКал",
+        "Protein": "20,4 г",
+        "Fats": "19,4 г",
+        "Carbohydrates": "15,1 г"
+    },
+    {
+        "title": "Свекла тушеная",
+        "Calories": "106,3 кКал",
+        "Protein": "2,7 г",
+        "Fats": "5,5 г",
+        "Carbohydrates": "12,2 г"
+    },
+    {
+        "title": "Свекла тушеная в сметане или соусе",
+        "Calories": "144,3 кКал",
+        "Protein": "2,3 г",
+        "Fats": "10,6 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "title": "Свекла тушеная с яблоками",
+        "Calories": "166,1 кКал",
+        "Protein": "2 г",
+        "Fats": "11,8 г",
+        "Carbohydrates": "13,9 г"
+    },
+    {
+        "title": "Свекла, тушенная в сметанном соусе",
+        "Calories": "174,8 кКал",
+        "Protein": "2,6 г",
+        "Fats": "12,7 г",
+        "Carbohydrates": "13,3 г"
+    },
+    {
+        "title": "Свекла, фаршированная творогом и изюмом",
+        "Calories": "177,9 кКал",
+        "Protein": "6,2 г",
+        "Fats": "11,5 г",
+        "Carbohydrates": "13,2 г"
+    },
+    {
+        "title": "Свела, тушенная с яблоками",
+        "Calories": "46,5 кКал",
+        "Protein": "0,4 г",
+        "Fats": "4 г",
+        "Carbohydrates": "2,5 г"
+    },
+    {
+        "title": "Свинина на сковороде по-зауральски",
+        "Calories": "155,2 кКал",
+        "Protein": "8 г",
+        "Fats": "11,5 г",
+        "Carbohydrates": "5,1 г"
+    },
+    {
+        "title": "Свинина по-китайски",
+        "Calories": "303,9 кКал",
+        "Protein": "9,2 г",
+        "Fats": "23,3 г",
+        "Carbohydrates": "15,3 г"
+    },
+    {
+        "title": "Свинина с капустой и клецками",
+        "Calories": "139 кКал",
+        "Protein": "4,6 г",
+        "Fats": "9,9 г",
+        "Carbohydrates": "8,5 г"
+    },
+    {
+        "title": "Свинина, жаренная в тесте",
+        "Calories": "319,1 кКал",
+        "Protein": "10,9 г",
+        "Fats": "25,2 г",
+        "Carbohydrates": "13 г"
+    },
+    {
+        "title": "Свинина, запеченная в тесте",
+        "Calories": "322,9 кКал",
+        "Protein": "13,1 г",
+        "Fats": "27,7 г",
+        "Carbohydrates": "5,6 г"
+    },
+    {
+        "title": "Свинина, тушенная с капустой",
+        "Calories": "128,5 кКал",
+        "Protein": "4 г",
+        "Fats": "11,7 г",
+        "Carbohydrates": "2 г"
+    },
+    {
+        "title": "Свиные рулетики",
+        "Calories": "260,4 кКал",
+        "Protein": "10,2 г",
+        "Fats": "21,9 г",
+        "Carbohydrates": "6,1 г"
+    },
+    {
+        "title": "Сельдерей с картофелем",
+        "Calories": "130,2 кКал",
+        "Protein": "1,3 г",
+        "Fats": "9,6 г",
+        "Carbohydrates": "10,3 г"
+    },
+    {
+        "title": "Сельдерей с морковью",
+        "Calories": "163,9 кКал",
+        "Protein": "1,4 г",
+        "Fats": "13,8 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Сельдерей с яблоками",
+        "Calories": "131,9 кКал",
+        "Protein": "2 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "11,9 г"
+    },
+    {
+        "title": "Сельдерей со сливами",
+        "Calories": "171,8 кКал",
+        "Protein": "2,9 г",
+        "Fats": "9,3 г",
+        "Carbohydrates": "20,4 г"
+    },
+    {
+        "title": "Сельдерей со стручковой фасолью",
+        "Calories": "120 кКал",
+        "Protein": "1,6 г",
+        "Fats": "9,6 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "title": "Сельдерей, жаренный с яйцом",
+        "Calories": "81,2 кКал",
+        "Protein": "3,2 г",
+        "Fats": "4,6 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "title": "Сельдь в сметане",
+        "Calories": "182,6 кКал",
+        "Protein": "11 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "5,9 г"
+    },
+    {
+        "title": "Сельдь жареная по-датски",
+        "Calories": "183,7 кКал",
+        "Protein": "11,1 г",
+        "Fats": "12,8 г",
+        "Carbohydrates": "6,3 г"
+    },
+    {
+        "title": "Сельдь по-московски с яблоками и луком",
+        "Calories": "235,3 кКал",
+        "Protein": "12,4 г",
+        "Fats": "18,6 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "title": "Сельдь рубленая",
+        "Calories": "289,3 кКал",
+        "Protein": "14,1 г",
+        "Fats": "22,8 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Сельдь рубленая с орехами",
+        "Calories": "387,7 кКал",
+        "Protein": "20 г",
+        "Fats": "23,2 г",
+        "Carbohydrates": "26,2 г"
+    },
+    {
+        "title": "Сельдь с гарниром",
+        "Calories": "94,4 кКал",
+        "Protein": "6,7 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "title": "Сельдь с гарниром",
+        "Calories": "201,6 кКал",
+        "Protein": "9,6 г",
+        "Fats": "16,9 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "title": "Сельдь с картофелем",
+        "Calories": "174,5 кКал",
+        "Protein": "9,8 г",
+        "Fats": "10,4 г",
+        "Carbohydrates": "11,1 г"
+    },
+    {
+        "title": "Сердце, легкие и другие субпродукты в соусе",
+        "Calories": "140,3 кКал",
+        "Protein": "12,2 г",
+        "Fats": "7,6 г",
+        "Carbohydrates": "6,1 г"
+    },
+    {
+        "title": "Сладкая запеканка из фасоли",
+        "Calories": "299 кКал",
+        "Protein": "11,2 г",
+        "Fats": "15,5 г",
+        "Carbohydrates": "30,5 г"
+    },
+    {
+        "title": "Сладкая картофельная запеканка",
+        "Calories": "176,7 кКал",
+        "Protein": "3,9 г",
+        "Fats": "11,6 г",
+        "Carbohydrates": "15 г"
+    },
+    {
+        "title": "Сладкая фасоль с грушами",
+        "Calories": "157,7 кКал",
+        "Protein": "9,6 г",
+        "Fats": "2,9 г",
+        "Carbohydrates": "24,9 г"
+    },
+    {
+        "title": "Солянка",
+        "Calories": "34,9 кКал",
+        "Protein": "2 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "6,2 г"
+    },
+    {
+        "title": "Солянка грибная",
+        "Calories": "43,5 кКал",
+        "Protein": "1,3 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "2 г"
+    },
+    {
+        "title": "Солянка из рыбы на сковороде",
+        "Calories": "135,8 кКал",
+        "Protein": "14,1 г",
+        "Fats": "6,6 г",
+        "Carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Солянка овощная",
+        "Calories": "124,9 кКал",
+        "Protein": "3,2 г",
+        "Fats": "8,2 г",
+        "Carbohydrates": "10,2 г"
+    },
+    {
+        "title": "Солянка по-казански (солянка с черносливом - татарское национальное блюдо)",
+        "Calories": "58,6 кКал",
+        "Protein": "2,6 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "title": "Солянка рыбная",
+        "Calories": "96,9 кКал",
+        "Protein": "13,3 г",
+        "Fats": "3,8 г",
+        "Carbohydrates": "2,5 г"
+    },
+    {
+        "title": "Солянка сборная мясная",
+        "Calories": "68,7 кКал",
+        "Protein": "5,2 г",
+        "Fats": "4,6 г",
+        "Carbohydrates": "1,7 г"
+    },
+    {
+        "title": "Солянка сборная мясная на сковороде",
+        "Calories": "152,5 кКал",
+        "Protein": "9 г",
+        "Fats": "10,5 г",
+        "Carbohydrates": "5,8 г"
+    },
+    {
+        "title": "Спаржа в соусе",
+        "Calories": "70 кКал",
+        "Protein": "2,6 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Спаржа с сыром",
+        "Calories": "175,7 кКал",
+        "Protein": "5,5 г",
+        "Fats": "16,1 г",
+        "Carbohydrates": "2,3 г"
+    },
+    {
+        "title": "Спаржа со сливочным маслом",
+        "Calories": "46,3 кКал",
+        "Protein": "1,8 г",
+        "Fats": "3 г",
+        "Carbohydrates": "3,2 г"
+    },
+    {
+        "title": "Спаржевая фасоль в яйце",
+        "Calories": "256,1 кКал",
+        "Protein": "6 г",
+        "Fats": "19,1 г",
+        "Carbohydrates": "16 г"
+    },
+    {
+        "title": "Старинная запеканка из лосося",
+        "Calories": "104,2 кКал",
+        "Protein": "10,4 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "9,3 г"
+    },
+    {
+        "title": "Строганина из рыбы (национальное блюдо народов Севера)",
+        "Calories": "172,6 кКал",
+        "Protein": "34,3 г",
+        "Fats": "3,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Стручковая фасоль с творогом",
+        "Calories": "119,1 кКал",
+        "Protein": "5,7 г",
+        "Fats": "9,6 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "title": "Стручковая фасоль с яичницей",
+        "Calories": "109,6 кКал",
+        "Protein": "4,2 г",
+        "Fats": "8,7 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "title": "Стручковая фасоль тушеная",
+        "Calories": "136,6 кКал",
+        "Protein": "3,2 г",
+        "Fats": "11,5 г",
+        "Carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Судак в соусе \"Рокфор\"",
+        "Calories": "128,5 кКал",
+        "Protein": "7,7 г",
+        "Fats": "10,2 г",
+        "Carbohydrates": "1,7 г"
+    },
+    {
+        "title": "Судак или щука фаршированные (целиком)",
+        "Calories": "153,2 кКал",
+        "Protein": "11,1 г",
+        "Fats": "6,8 г",
+        "Carbohydrates": "12,7 г"
+    },
+    {
+        "title": "Судак, запеченный с картофелем",
+        "Calories": "88,1 кКал",
+        "Protein": "5,6 г",
+        "Fats": "4,9 г",
+        "Carbohydrates": "5,9 г"
+    },
+    {
+        "title": "Творожники вареные из картофеля",
+        "Calories": "107,2 кКал",
+        "Protein": "5,8 г",
+        "Fats": "4,2 г",
+        "Carbohydrates": "12,3 г"
+    },
+    {
+        "title": "Тельное из рыбы",
+        "Calories": "194,6 кКал",
+        "Protein": "11,4 г",
+        "Fats": "10,9 г",
+        "Carbohydrates": "13,5 г"
+    },
+    {
+        "title": "Тефтели",
+        "Calories": "158,5 кКал",
+        "Protein": "9,8 г",
+        "Fats": "9 г",
+        "Carbohydrates": "10,1 г"
+    },
+    {
+        "title": "Тефтели (1-й вариант)",
+        "Calories": "315,9 кКал",
+        "Protein": "18,7 г",
+        "Fats": "22,1 г",
+        "Carbohydrates": "11,2 г"
+    },
+    {
+        "title": "Тефтели (2-ой вариант)",
+        "Calories": "304,5 кКал",
+        "Protein": "17,5 г",
+        "Fats": "21,1 г",
+        "Carbohydrates": "11,9 г"
+    },
+    {
+        "title": "Тефтели из мяса кролика",
+        "Calories": "105,9 кКал",
+        "Protein": "7,1 г",
+        "Fats": "5,9 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "title": "Тефтели рыбные",
+        "Calories": "303,5 кКал",
+        "Protein": "12,6 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "48,6 г"
+    },
+    {
+        "title": "Треска с горчичным соусом",
+        "Calories": "127,5 кКал",
+        "Protein": "8,1 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "4,9 г"
+    },
+    {
+        "title": "Тулма (голубцы - татарское национальное блюдо)",
+        "Calories": "181,8 кКал",
+        "Protein": "9,3 г",
+        "Fats": "13 г",
+        "Carbohydrates": "7,4 г"
+    },
+    {
+        "title": "Тушеная морковь со стручковой фасолью",
+        "Calories": "38,5 кКал",
+        "Protein": "2,1 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "title": "Тушеная ставрида",
+        "Calories": "70,3 кКал",
+        "Protein": "6 г",
+        "Fats": "3,9 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "title": "Тушенная кольраби",
+        "Calories": "74 кКал",
+        "Protein": "4,1 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "3,3 г"
+    },
+    {
+        "title": "Тушеное филе хека",
+        "Calories": "137 кКал",
+        "Protein": "7,7 г",
+        "Fats": "11,1 г",
+        "Carbohydrates": "1,7 г"
+    },
+    {
+        "title": "Тушеный кролик",
+        "Calories": "166,9 кКал",
+        "Protein": "10,4 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "2,4 г"
+    },
+    {
+        "title": "Тушеный стручковый перец",
+        "Calories": "142,9 кКал",
+        "Protein": "1,3 г",
+        "Fats": "13,3 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "title": "Тыква в сладком маринаде",
+        "Calories": "90,7 кКал",
+        "Protein": "0,4 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "23,7 г"
+    },
+    {
+        "title": "Тыква отварная",
+        "Calories": "116,9 кКал",
+        "Protein": "2,6 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "9,4 г"
+    },
+    {
+        "title": "Тыква, кабачки, баклажаны жареные",
+        "Calories": "89,7 кКал",
+        "Protein": "2,1 г",
+        "Fats": "6 г",
+        "Carbohydrates": "7,2 г"
+    },
+    {
+        "title": "Уральские сардельки",
+        "Calories": "295,2 кКал",
+        "Protein": "10,2 г",
+        "Fats": "26,7 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "title": "Утка тушеная с грибами",
+        "Calories": "170 кКал",
+        "Protein": "5,8 г",
+        "Fats": "16 г",
+        "Carbohydrates": "0,7 г"
+    },
+    {
+        "title": "Утка, фаршированная картофелем и черносливом",
+        "Calories": "340 кКал",
+        "Protein": "10,5 г",
+        "Fats": "26,1 г",
+        "Carbohydrates": "16,9 г"
+    },
+    {
+        "title": "Фальшивые \"куриные\" котлеты",
+        "Calories": "157,4 кКал",
+        "Protein": "10,5 г",
+        "Fats": "4,6 г",
+        "Carbohydrates": "19,8 г"
+    },
+    {
+        "title": "Фальшивый заяц",
+        "Calories": "209,5 кКал",
+        "Protein": "14 г",
+        "Fats": "16,8 г",
+        "Carbohydrates": "0,7 г"
+    },
+    {
+        "title": "Фаршированная кольраби",
+        "Calories": "140,6 кКал",
+        "Protein": "9,6 г",
+        "Fats": "10,3 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "title": "Фаршированные огурцы",
+        "Calories": "102 кКал",
+        "Protein": "1,6 г",
+        "Fats": "9,3 г",
+        "Carbohydrates": "3,2 г"
+    },
+    {
+        "title": "Фаршированный лук",
+        "Calories": "152,6 кКал",
+        "Protein": "5,6 г",
+        "Fats": "11,2 г",
+        "Carbohydrates": "7,8 г"
+    },
+    {
+        "title": "Фаршированный чернослив",
+        "Calories": "174,5 кКал",
+        "Protein": "5,9 г",
+        "Fats": "1 г",
+        "Carbohydrates": "38 г"
+    },
+    {
+        "title": "Фасоль овощная отварная",
+        "Calories": "24,7 кКал",
+        "Protein": "2,492 г",
+        "Fats": "0,305 г",
+        "Carbohydrates": "2,918 г"
+    },
+    {
+        "title": "Фасоль с огурцами",
+        "Calories": "107,2 кКал",
+        "Protein": "4,8 г",
+        "Fats": "5,5 г",
+        "Carbohydrates": "10,2 г"
+    },
+    {
+        "title": "Фасоль с черносливом",
+        "Calories": "316,5 кКал",
+        "Protein": "8,7 г",
+        "Fats": "12,8 г",
+        "Carbohydrates": "44,4 г"
+    },
+    {
+        "title": "Фасоль с яблоками",
+        "Calories": "209,1 кКал",
+        "Protein": "10,2 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "36,8 г"
+    },
+    {
+        "title": "Филе",
+        "Calories": "374,5 кКал",
+        "Protein": "33,2 г",
+        "Fats": "26,8 г",
+        "Carbohydrates": "0,04 г"
+    },
+    {
+        "title": "Филе из кур или дичи фаршированное",
+        "Calories": "335,4 кКал",
+        "Protein": "17 г",
+        "Fats": "27,1 г",
+        "Carbohydrates": "6,1 г"
+    },
+    {
+        "title": "Филе индейки, фаршированное яблоками и черносливом",
+        "Calories": "255,5 кКал",
+        "Protein": "12,2 г",
+        "Fats": "14,9 г",
+        "Carbohydrates": "19,4 г"
+    },
+    {
+        "title": "Филе морского гребешка, жаренное во фритюре",
+        "Calories": "251,5 кКал",
+        "Protein": "22,1 г",
+        "Fats": "13,2 г",
+        "Carbohydrates": "11,7 г"
+    },
+    {
+        "title": "Филе птицы или дичи под майонезом",
+        "Calories": "400,2 кКал",
+        "Protein": "16,7 г",
+        "Fats": "33,3 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Филе с помидорами и соусом",
+        "Calories": "235,1 кКал",
+        "Protein": "12,7 г",
+        "Fats": "16,7 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "title": "Филе с соусом",
+        "Calories": "288 кКал",
+        "Protein": "20,2 г",
+        "Fats": "19,9 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "title": "Филе скумбрии по-гречески",
+        "Calories": "78,4 кКал",
+        "Protein": "4,6 г",
+        "Fats": "4,2 г",
+        "Carbohydrates": "5,9 г"
+    },
+    {
+        "title": "Форшмак",
+        "Calories": "245,3 кКал",
+        "Protein": "6,9 г",
+        "Fats": "21,7 г",
+        "Carbohydrates": "6 г"
+    },
+    {
+        "title": "Форшмак картофельный с сельдью",
+        "Calories": "255,6 кКал",
+        "Protein": "8,7 г",
+        "Fats": "21,1 г",
+        "Carbohydrates": "8,4 г"
+    },
+    {
+        "title": "Фрикадельки мясные",
+        "Calories": "263 кКал",
+        "Protein": "28,7 г",
+        "Fats": "16 г",
+        "Carbohydrates": "1 г"
+    },
+    {
+        "title": "Фрикадельки рыбные",
+        "Calories": "152,6 кКал",
+        "Protein": "21,6 г",
+        "Fats": "6,7 г",
+        "Carbohydrates": "1,6 г"
+    },
+    {
+        "title": "Хрюшка из картофеля",
+        "Calories": "130,2 кКал",
+        "Protein": "4,8 г",
+        "Fats": "9,3 г",
+        "Carbohydrates": "7,2 г"
+    },
+    {
+        "title": "Цветная капуста отварная",
+        "Calories": "178,8 кКал",
+        "Protein": "1,3 г",
+        "Fats": "18,3 г",
+        "Carbohydrates": "2,3 г"
+    },
+    {
+        "title": "Цветная капуста под голландским соусом",
+        "Calories": "52,4 кКал",
+        "Protein": "2,3 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "title": "Цветная капуста под соусом",
+        "Calories": "123,2 кКал",
+        "Protein": "2,3 г",
+        "Fats": "10,9 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "title": "Цветная капуста с морковью",
+        "Calories": "72,3 кКал",
+        "Protein": "1,5 г",
+        "Fats": "5,9 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "title": "Цветная капуста с морковью и сельдереем",
+        "Calories": "49,1 кКал",
+        "Protein": "1,2 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Цветная капуста с помидорами",
+        "Calories": "46,3 кКал",
+        "Protein": "2,2 г",
+        "Fats": "2,5 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "title": "Цепелинай с мясом",
+        "Calories": "41,3 кКал",
+        "Protein": "1,2 г",
+        "Fats": "2,9 г",
+        "Carbohydrates": "2,8 г"
+    },
+    {
+        "title": "Цеппелины (Литовская кухня)",
+        "Calories": "116,8 кКал",
+        "Protein": "4,1 г",
+        "Fats": "8,9 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "title": "Цимес \"Еврейский\" (тушеные овощи)",
+        "Calories": "135,7 кКал",
+        "Protein": "3,1 г",
+        "Fats": "6,3 г",
+        "Carbohydrates": "17,7 г"
+    },
+    {
+        "title": "Цуккини в сырной панировке",
+        "Calories": "100,9 кКал",
+        "Protein": "6,2 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "8,9 г"
+    },
+    {
+        "title": "Цыпленок с пряностями",
+        "Calories": "167,3 кКал",
+        "Protein": "15 г",
+        "Fats": "11,3 г",
+        "Carbohydrates": "1,6 г"
+    },
+    {
+        "title": "Цыплята табака (грузинское национальное блюдо)",
+        "Calories": "350,5 кКал",
+        "Protein": "29,2 г",
+        "Fats": "24,8 г",
+        "Carbohydrates": "2,8 г"
+    },
+    {
+        "title": "Цыплята, тушенные с морковью и репой",
+        "Calories": "250,8 кКал",
+        "Protein": "11,8 г",
+        "Fats": "19,5 г",
+        "Carbohydrates": "7,4 г"
+    },
+    {
+        "title": "Чахохбили из курицы",
+        "Calories": "119,7 кКал",
+        "Protein": "6,9 г",
+        "Fats": "8,9 г",
+        "Carbohydrates": "3,3 г"
+    },
+    {
+        "title": "Чебуреки",
+        "Calories": "279,3 кКал",
+        "Protein": "12,5 г",
+        "Fats": "15,6 г",
+        "Carbohydrates": "23,6 г"
+    },
+    {
+        "title": "Чолнт-фиш",
+        "Calories": "142,7 кКал",
+        "Protein": "8 г",
+        "Fats": "11,1 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "title": "Шашлык из баранины, говядины или свинины",
+        "Calories": "154,5 кКал",
+        "Protein": "11,3 г",
+        "Fats": "10,5 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "title": "Шашлык из говядины",
+        "Calories": "465,5 кКал",
+        "Protein": "22,1 г",
+        "Fats": "40,8 г",
+        "Carbohydrates": "2,7 г"
+    },
+    {
+        "title": "Шницель",
+        "Calories": "456,2 кКал",
+        "Protein": "16,5 г",
+        "Fats": "39,2 г",
+        "Carbohydrates": "9,9 г"
+    },
+    {
+        "title": "Шницель из капусты",
+        "Calories": "149,2 кКал",
+        "Protein": "3,3 г",
+        "Fats": "10,9 г",
+        "Carbohydrates": "10,1 г"
+    },
+    {
+        "title": "Шницель из разных овощей в молочном соусе",
+        "Calories": "180 кКал",
+        "Protein": "4,2 г",
+        "Fats": "12,7 г",
+        "Carbohydrates": "13 г"
+    },
+    {
+        "title": "Шницель натуральный рубленый",
+        "Calories": "539,6 кКал",
+        "Protein": "20,3 г",
+        "Fats": "47,7 г",
+        "Carbohydrates": "7,9 г"
+    },
+    {
+        "title": "Шницель рыбный натуральный",
+        "Calories": "203,3 кКал",
+        "Protein": "14,6 г",
+        "Fats": "11,7 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "title": "Шурпа",
+        "Calories": "44,3 кКал",
+        "Protein": "2,2 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "3,7 г"
+    },
+    {
+        "title": "Шурпа в горшочке (дагестанское национальное блюдо)",
+        "Calories": "76,9 кКал",
+        "Protein": "5,2 г",
+        "Fats": "3,5 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "title": "Эскалоп",
+        "Calories": "486,6 кКал",
+        "Protein": "19 г",
+        "Fats": "42,8 г",
+        "Carbohydrates": "6,8 г"
+    },
+    {
+        "title": "Язык говяжий \"по-кавказски\"",
+        "Calories": "182,2 кКал",
+        "Protein": "9,5 г",
+        "Fats": "12,3 г",
+        "Carbohydrates": "8,9 г"
+    },
+    {
+        "title": "Язык отварной в соусе",
+        "Calories": "206,7 кКал",
+        "Protein": "19,1 г",
+        "Fats": "14,1 г",
+        "Carbohydrates": "0,9 г"
+    },
+    {
+        "title": "Яичница глазунья (натуральная)",
+        "Calories": "240,8 кКал",
+        "Protein": "15,9 г",
+        "Fats": "19,3 г",
+        "Carbohydrates": "1 г"
+    },
+    {
+        "title": "Яичница глазунья с мясными продуктами",
+        "Calories": "294 кКал",
+        "Protein": "18,6 г",
+        "Fats": "24,1 г",
+        "Carbohydrates": "0,8 г"
+    },
+    {
+        "title": "Яичница глазунья с овощами или грибами",
+        "Calories": "257,1 кКал",
+        "Protein": "18,2 г",
+        "Fats": "14,4 г",
+        "Carbohydrates": "14,6 г"
+    },
+    {
+        "title": "Яичница с курицей и грибами",
+        "Calories": "210,4 кКал",
+        "Protein": "8,6 г",
+        "Fats": "18,1 г",
+        "Carbohydrates": "3,4 г"
+    },
+    {
+        "title": "Яйца под майонезом с гарниром",
+        "Calories": "251 кКал",
+        "Protein": "7,2 г",
+        "Fats": "22,8 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Яйца фаршированные сельдью и луком",
+        "Calories": "160,4 кКал",
+        "Protein": "7,3 г",
+        "Fats": "12,6 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "title": "Яйца, фаршированные креветками",
+        "Calories": "226,6 кКал",
+        "Protein": "19,1 г",
+        "Fats": "15,9 г",
+        "Carbohydrates": "1,8 г"
+    }
+]

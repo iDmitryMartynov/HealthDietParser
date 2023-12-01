@@ -1,0 +1,4461 @@
+﻿[
+    {
+        "title": "Акула катран",
+        "Calories": "143 кКал",
+        "Protein": "19,9 г",
+        "Fats": "7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Акула, все виды, приготовленная, обжаренная в панировке",
+        "Calories": "228 кКал",
+        "Protein": "18,62 г",
+        "Fats": "13,82 г",
+        "Carbohydrates": "6,39 г"
+    },
+    {
+        "title": "Акула, все виды, сырая",
+        "Calories": "130 кКал",
+        "Protein": "20,98 г",
+        "Fats": "4,51 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Альбула",
+        "Calories": "106 кКал",
+        "Protein": "23 г",
+        "Fats": "1,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Анчоус атлантический",
+        "Calories": "135 кКал",
+        "Protein": "20,1 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Анчоус европейский, консервированный в масле, сухой продукт без маринада",
+        "Calories": "210 кКал",
+        "Protein": "28,89 г",
+        "Fats": "9,71 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Анчоус европейский, сырой",
+        "Calories": "131 кКал",
+        "Protein": "20,35 г",
+        "Fats": "4,84 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Аргентина",
+        "Calories": "88 кКал",
+        "Protein": "17,6 г",
+        "Fats": "2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Асцидия, (tunughnak), (Аляска)",
+        "Calories": "20 кКал",
+        "Protein": "3,8 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Балык осетровый вяленый",
+        "Calories": "177 кКал",
+        "Protein": "21,6 г",
+        "Fats": "10,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Балык осетровый холодного копчения",
+        "Calories": "194 кКал",
+        "Protein": "20,4 г",
+        "Fats": "12,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Барабулька, приготовленная на жару",
+        "Calories": "150 кКал",
+        "Protein": "24,81 г",
+        "Fats": "4,86 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Барабулька, сырая",
+        "Calories": "117 кКал",
+        "Protein": "19,35 г",
+        "Fats": "3,79 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Баттерфиш, весенне-летняя",
+        "Calories": "140 кКал",
+        "Protein": "17,3 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Баттерфиш, осенне-зимняя",
+        "Calories": "201 кКал",
+        "Protein": "17,3 г",
+        "Fats": "14,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Белая рыба, все виды",
+        "Calories": "134 кКал",
+        "Protein": "19,09 г",
+        "Fats": "5,86 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Белая рыба, все виды, копченая",
+        "Calories": "108 кКал",
+        "Protein": "23,4 г",
+        "Fats": "0,93 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Белая рыба, все виды, приготовленная на жару",
+        "Calories": "172 кКал",
+        "Protein": "24,47 г",
+        "Fats": "7,51 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Белоглазка аральская холодного копчения",
+        "Calories": "244 кКал",
+        "Protein": "27,5 г",
+        "Fats": "14,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Белоглазка, аральская",
+        "Calories": "144 кКал",
+        "Protein": "17,9 г",
+        "Fats": "8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Белоглазка, волго-каспийская",
+        "Calories": "92 кКал",
+        "Protein": "18,8 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Белорыбица",
+        "Calories": "274 кКал",
+        "Protein": "20,1 г",
+        "Fats": "21,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Белуга бланшированная консервированная",
+        "Calories": "234 кКал",
+        "Protein": "23,3 г",
+        "Fats": "15,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Белуга, глаза (Аляска)",
+        "Calories": "291 кКал",
+        "Protein": "19,6 г",
+        "Fats": "23,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Бельдюга американская, приготовленная на жару",
+        "Calories": "102 кКал",
+        "Protein": "21,33 г",
+        "Fats": "1,17 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Бельдюга американская, сырая",
+        "Calories": "79 кКал",
+        "Protein": "16,64 г",
+        "Fats": "0,91 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Бельдюга океаническая",
+        "Calories": "89 кКал",
+        "Protein": "17,6 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Берикс",
+        "Calories": "88 кКал",
+        "Protein": "20,3 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Бесуго",
+        "Calories": "145 кКал",
+        "Protein": "20 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Боковник белужий холодного копчения",
+        "Calories": "228 кКал",
+        "Protein": "18,2 г",
+        "Fats": "17,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Большеголов",
+        "Calories": "94 кКал",
+        "Protein": "11,4 г",
+        "Fats": "5,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Большеголов атлантический",
+        "Calories": "76 кКал",
+        "Protein": "16,41 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Большеголов атлантический, приготовленный на жару",
+        "Calories": "105 кКал",
+        "Protein": "22,64 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Бульон рыбный",
+        "Calories": "17 кКал",
+        "Protein": "2,26 г",
+        "Fats": "0,81 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Бычки в томатном соусе, консервы",
+        "Calories": "145 кКал",
+        "Protein": "12,8 г",
+        "Fats": "8,1 г",
+        "Carbohydrates": "5,2 г"
+    },
+    {
+        "title": "Бычок-песочник",
+        "Calories": "70 кКал",
+        "Protein": "15,8 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Вобла",
+        "Calories": "95 кКал",
+        "Protein": "18 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Вобла каспийская вяленая",
+        "Calories": "235 кКал",
+        "Protein": "46,4 г",
+        "Fats": "5,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Вобла холодного копчения",
+        "Calories": "181 кКал",
+        "Protein": "31,1 г",
+        "Fats": "6,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Галиотис, все виды, жареный",
+        "Calories": "189 кКал",
+        "Protein": "19,63 г",
+        "Fats": "6,78 г",
+        "Carbohydrates": "11,05 г"
+    },
+    {
+        "title": "Галиотис, все виды, сырой",
+        "Calories": "105 кКал",
+        "Protein": "17,1 г",
+        "Fats": "0,76 г",
+        "Carbohydrates": "6,01 г"
+    },
+    {
+        "title": "Галки из трески, по 1-388",
+        "Calories": "87 кКал",
+        "Protein": "12 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "title": "Гирелла, черный каменный окунь, сырой, (Аляска)",
+        "Calories": "82 кКал",
+        "Protein": "15,5 г",
+        "Fats": "1,75 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Гладкоголов",
+        "Calories": "49 кКал",
+        "Protein": "8 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Горбуша",
+        "Calories": "140 кКал",
+        "Protein": "20,5 г",
+        "Fats": "6,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Горбуша в томатном соусе. Консервы",
+        "Calories": "130 кКал",
+        "Protein": "15 г",
+        "Fats": "6 г",
+        "Carbohydrates": "4,1 г"
+    },
+    {
+        "title": "Горбуша натуральная. Консервы",
+        "Calories": "136 кКал",
+        "Protein": "20,9 г",
+        "Fats": "5,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Горбуша отварная, по 1-342",
+        "Calories": "152 кКал",
+        "Protein": "21,8 г",
+        "Fats": "7,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Горбуша соленая",
+        "Calories": "169 кКал",
+        "Protein": "22,1 г",
+        "Fats": "9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Горбуша, консервированная без соли, с маринадом и костями",
+        "Calories": "139 кКал",
+        "Protein": "19,78 г",
+        "Fats": "6,05 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Горбуша, консервированная, содержимое без жидкости",
+        "Calories": "138 кКал",
+        "Protein": "23,1 г",
+        "Fats": "5,02 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Горбуша, консервированная, содержимое без жидкости, без кожи и костей",
+        "Calories": "136 кКал",
+        "Protein": "24,62 г",
+        "Fats": "4,21 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Горбуша, приготовленная на жару",
+        "Calories": "153 кКал",
+        "Protein": "24,58 г",
+        "Fats": "5,28 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Горбуша, с костями, консервированная",
+        "Calories": "129 кКал",
+        "Protein": "19,68 г",
+        "Fats": "4,97 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Горбуша, сырая",
+        "Calories": "127 кКал",
+        "Protein": "20,5 г",
+        "Fats": "4,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Горбыль волнистый, жареный в панировке",
+        "Calories": "221 кКал",
+        "Protein": "18,2 г",
+        "Fats": "12,67 г",
+        "Carbohydrates": "7,14 г"
+    },
+    {
+        "title": "Горбыль волнистый, сырой",
+        "Calories": "104 кКал",
+        "Protein": "17,78 г",
+        "Fats": "3,17 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Горбыль, приготовленный на жару",
+        "Calories": "153 кКал",
+        "Protein": "22,49 г",
+        "Fats": "6,32 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Горбыль, сырой",
+        "Calories": "119 кКал",
+        "Protein": "17,54 г",
+        "Fats": "4,93 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Гребешок",
+        "Calories": "69 кКал",
+        "Protein": "12,06 г",
+        "Fats": "0,49 г",
+        "Carbohydrates": "3,18 г"
+    },
+    {
+        "title": "Гребешок, искусственный из сурими",
+        "Calories": "99 кКал",
+        "Protein": "12,77 г",
+        "Fats": "0,41 г",
+        "Carbohydrates": "10,62 г"
+    },
+    {
+        "title": "Гребешок, обжаренный в панировке",
+        "Calories": "216 кКал",
+        "Protein": "18,07 г",
+        "Fats": "10,94 г",
+        "Carbohydrates": "10,13 г"
+    },
+    {
+        "title": "Гребешок, приготовленный на пару",
+        "Calories": "111 кКал",
+        "Protein": "20,54 г",
+        "Fats": "0,84 г",
+        "Carbohydrates": "5,41 г"
+    },
+    {
+        "title": "Групер, все виды, приготовленный на жару",
+        "Calories": "118 кКал",
+        "Protein": "24,84 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Групер, все виды, сырой",
+        "Calories": "92 кКал",
+        "Protein": "19,38 г",
+        "Fats": "1,02 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Джакас",
+        "Calories": "120 кКал",
+        "Protein": "20,3 г",
+        "Fats": "4,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Дночерпатель,все виды, приготовленный на жару",
+        "Calories": "128 кКал",
+        "Protein": "26,3 г",
+        "Fats": "1,72 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Дночерпатель,все виды, сырой",
+        "Calories": "100 кКал",
+        "Protein": "20,51 г",
+        "Fats": "1,34 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Дрепана",
+        "Calories": "88 кКал",
+        "Protein": "19,4 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Ерш морской дальневосточный",
+        "Calories": "150 кКал",
+        "Protein": "16,6 г",
+        "Fats": "9,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Желтоперка",
+        "Calories": "108 кКал",
+        "Protein": "17,9 г",
+        "Fats": "4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Жерех",
+        "Calories": "99 кКал",
+        "Protein": "18,8 г",
+        "Fats": "2,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Жир тюленя, (Ларга, или пестрая нерпа), (Аляска)",
+        "Calories": "894 кКал",
+        "Protein": "0 г",
+        "Fats": "99,32 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Зеленоглазка",
+        "Calories": "117 кКал",
+        "Protein": "19,6 г",
+        "Fats": "4,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Зразы из судака, по 1-382",
+        "Calories": "164 кКал",
+        "Protein": "12,1 г",
+        "Fats": "7,4 г",
+        "Carbohydrates": "12,1 г"
+    },
+    {
+        "title": "Зразы из хека, по 1-374",
+        "Calories": "140 кКал",
+        "Protein": "13,1 г",
+        "Fats": "5,6 г",
+        "Carbohydrates": "9,3 г"
+    },
+    {
+        "title": "Зубан",
+        "Calories": "132 кКал",
+        "Protein": "18,8 г",
+        "Fats": "6,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Зубатка атлантическая",
+        "Calories": "96 кКал",
+        "Protein": "17,5 г",
+        "Fats": "2,39 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Зубатка атлантическая, приготовленная на жару",
+        "Calories": "123 кКал",
+        "Protein": "22,44 г",
+        "Fats": "3,06 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Зубатка жареная, по 1-364",
+        "Calories": "209 кКал",
+        "Protein": "22,2 г",
+        "Fats": "11,5 г",
+        "Carbohydrates": "4,1 г"
+    },
+    {
+        "title": "Зубатка запеченная в сметанном соусе, по 1-376",
+        "Calories": "137 кКал",
+        "Protein": "7,4 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "6,8 г"
+    },
+    {
+        "title": "Зубатка отварная, по 1-342",
+        "Calories": "122 кКал",
+        "Protein": "19 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Зубатка пестрая",
+        "Calories": "126 кКал",
+        "Protein": "19,6 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Зубатка полосатая",
+        "Calories": "109 кКал",
+        "Protein": "16 г",
+        "Fats": "5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Икра белужья зернистая, соленая",
+        "Calories": "235 кКал",
+        "Protein": "26,8 г",
+        "Fats": "13,8 г",
+        "Carbohydrates": "0,8 г"
+    },
+    {
+        "title": "Икра вобельная пробойная, соленая",
+        "Calories": "142 кКал",
+        "Protein": "23,9 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Икра вобельная ястычная (тарама), соленая",
+        "Calories": "151 кКал",
+        "Protein": "24,9 г",
+        "Fats": "5,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Икра горбуши зернистая, соленая",
+        "Calories": "230 кКал",
+        "Protein": "30,6 г",
+        "Fats": "11,5 г",
+        "Carbohydrates": "1 г"
+    },
+    {
+        "title": "Икра кеты зернистая, соленая",
+        "Calories": "249 кКал",
+        "Protein": "31,5 г",
+        "Fats": "13,2 г",
+        "Carbohydrates": "1 г"
+    },
+    {
+        "title": "Икра лещевая пробойная, соленая",
+        "Calories": "142 кКал",
+        "Protein": "24,7 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Икра лобанья вяленая, соленая",
+        "Calories": "505 кКал",
+        "Protein": "34,4 г",
+        "Fats": "40,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Икра минтая пробойная, соленая",
+        "Calories": "132 кКал",
+        "Protein": "27,9 г",
+        "Fats": "1,8 г",
+        "Carbohydrates": "1,1 г"
+    },
+    {
+        "title": "Икра осетровая зернистая, соленая",
+        "Calories": "200 кКал",
+        "Protein": "28,4 г",
+        "Fats": "9,3 г",
+        "Carbohydrates": "0,6 г"
+    },
+    {
+        "title": "Икра осетровая паюсная, соленая",
+        "Calories": "289 кКал",
+        "Protein": "38,2 г",
+        "Fats": "14,5 г",
+        "Carbohydrates": "1,5 г"
+    },
+    {
+        "title": "Икра сазанья пробойная, соленая",
+        "Calories": "123 кКал",
+        "Protein": "25,1 г",
+        "Fats": "2,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Икра севрюги зернистая, соленая",
+        "Calories": "221 кКал",
+        "Protein": "28,2 г",
+        "Fats": "11,7 г",
+        "Carbohydrates": "0,7 г"
+    },
+    {
+        "title": "Икра сельди тихоокеанской, свежая",
+        "Calories": "74 кКал",
+        "Protein": "9,6 г",
+        "Fats": "1,93 г",
+        "Carbohydrates": "4,47 г"
+    },
+    {
+        "title": "Икра сельди тихоокеанской, сухая",
+        "Calories": "312 кКал",
+        "Protein": "60,4 г",
+        "Fats": "6,6 г",
+        "Carbohydrates": "2,8 г"
+    },
+    {
+        "title": "Икра сиговых рыб, свежая",
+        "Calories": "104 кКал",
+        "Protein": "14,66 г",
+        "Fats": "2,88 г",
+        "Carbohydrates": "4,89 г"
+    },
+    {
+        "title": "Икра, черная и красная, зернистая, соленая",
+        "Calories": "264 кКал",
+        "Protein": "24,6 г",
+        "Fats": "17,9 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "title": "Кабан-рыба",
+        "Calories": "220 кКал",
+        "Protein": "14,1 г",
+        "Fats": "18,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кальмар",
+        "Calories": "100 кКал",
+        "Protein": "18 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "2 г"
+    },
+    {
+        "title": "Кальмар, все виды, жареный",
+        "Calories": "175 кКал",
+        "Protein": "17,94 г",
+        "Fats": "7,48 г",
+        "Carbohydrates": "7,79 г"
+    },
+    {
+        "title": "Кальмар, все виды, сырой",
+        "Calories": "92 кКал",
+        "Protein": "15,58 г",
+        "Fats": "1,38 г",
+        "Carbohydrates": "3,08 г"
+    },
+    {
+        "title": "Камбала (морская и речная), приготовленная на жару",
+        "Calories": "86 кКал",
+        "Protein": "15,24 г",
+        "Fats": "2,37 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Камбала (морская и речная), сырая",
+        "Calories": "70 кКал",
+        "Protein": "12,41 г",
+        "Fats": "1,93 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Камбала в томатном соусе, консервы",
+        "Calories": "125 кКал",
+        "Protein": "12,6 г",
+        "Fats": "5,4 г",
+        "Carbohydrates": "6,3 г"
+    },
+    {
+        "title": "Камбала дальневосточная",
+        "Calories": "90 кКал",
+        "Protein": "15,7 г",
+        "Fats": "3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Камбала обжаренная в масле. Консервы",
+        "Calories": "254 кКал",
+        "Protein": "14,4 г",
+        "Fats": "21,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Камбала полярная",
+        "Calories": "86 кКал",
+        "Protein": "16,4 г",
+        "Fats": "2,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Камбала речная горячего копчения",
+        "Calories": "192 кКал",
+        "Protein": "22 г",
+        "Fats": "11,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Камбала черноморская",
+        "Calories": "84,5 кКал",
+        "Protein": "18,2 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Камбала-ерш",
+        "Calories": "86 кКал",
+        "Protein": "15,5 г",
+        "Fats": "2,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Каракатица, все виды, приготовленная на пару",
+        "Calories": "158 кКал",
+        "Protein": "32,48 г",
+        "Fats": "1,4 г",
+        "Carbohydrates": "1,64 г"
+    },
+    {
+        "title": "Каракатица, все виды, сырая",
+        "Calories": "79 кКал",
+        "Protein": "16,24 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "0,82 г"
+    },
+    {
+        "title": "Карась",
+        "Calories": "87 кКал",
+        "Protein": "17,7 г",
+        "Fats": "1,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Карась морской",
+        "Calories": "91 кКал",
+        "Protein": "20,4 г",
+        "Fats": "1,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Карась морской, приготовленный на жару",
+        "Calories": "126 кКал",
+        "Protein": "26,02 г",
+        "Fats": "1,63 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Карась морской, сырой",
+        "Calories": "108 кКал",
+        "Protein": "20,21 г",
+        "Fats": "2,41 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Карп",
+        "Calories": "112 кКал",
+        "Protein": "16 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Карп жареный, по 1-364",
+        "Calories": "181 кКал",
+        "Protein": "18,5 г",
+        "Fats": "10,5 г",
+        "Carbohydrates": "3,2 г"
+    },
+    {
+        "title": "Карп, сырой",
+        "Calories": "127 кКал",
+        "Protein": "17,83 г",
+        "Fats": "5,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Карп, сырой, приготовленный на жару",
+        "Calories": "162 кКал",
+        "Protein": "22,86 г",
+        "Fats": "7,17 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кафельник, приготовленный на жару",
+        "Calories": "147 кКал",
+        "Protein": "24,49 г",
+        "Fats": "4,69 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кафельник, сырой",
+        "Calories": "96 кКал",
+        "Protein": "17,5 г",
+        "Fats": "2,31 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кета",
+        "Calories": "127 кКал",
+        "Protein": "19 г",
+        "Fats": "5,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кета в томатном соусе, консервы",
+        "Calories": "168 кКал",
+        "Protein": "19,7 г",
+        "Fats": "8,2 г",
+        "Carbohydrates": "4,1 г"
+    },
+    {
+        "title": "Кета натуральная, консервы",
+        "Calories": "129 кКал",
+        "Protein": "21,5 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кета соленая",
+        "Calories": "184 кКал",
+        "Protein": "24,3 г",
+        "Fats": "9,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кета, консервированная без соли, сухой продукт без маринада с костями",
+        "Calories": "141 кКал",
+        "Protein": "21,43 г",
+        "Fats": "5,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кета, приготовленная на жару",
+        "Calories": "154 кКал",
+        "Protein": "25,82 г",
+        "Fats": "4,83 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кета, сухой продукт без маринада с костями",
+        "Calories": "141 кКал",
+        "Protein": "21,43 г",
+        "Fats": "5,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кета, сушеная, (Аляска)",
+        "Calories": "378 кКал",
+        "Protein": "62,09 г",
+        "Fats": "14,38 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кета, сырая",
+        "Calories": "120 кКал",
+        "Protein": "20,14 г",
+        "Fats": "3,77 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кета, сырая, (Аляска)",
+        "Calories": "116 кКал",
+        "Protein": "20,69 г",
+        "Fats": "3,67 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кефаль холодного копчения",
+        "Calories": "199 кКал",
+        "Protein": "23,8 г",
+        "Fats": "11,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кижуч",
+        "Calories": "140 кКал",
+        "Protein": "21,6 г",
+        "Fats": "6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кижуч (серебряный лосось), сырой, (Аляска)",
+        "Calories": "140 кКал",
+        "Protein": "22,56 г",
+        "Fats": "5,57 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кижуч консервированный",
+        "Calories": "140 кКал",
+        "Protein": "17,9 г",
+        "Fats": "7,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кижуч, дикий, приготовленный на жару",
+        "Calories": "139 кКал",
+        "Protein": "23,45 г",
+        "Fats": "4,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кижуч, дикий, приготовленный на пару",
+        "Calories": "184 кКал",
+        "Protein": "27,36 г",
+        "Fats": "7,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кижуч, дикий, сырой",
+        "Calories": "146 кКал",
+        "Protein": "21,62 г",
+        "Fats": "5,93 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кижуч, разведенный на ферме, приготовленный на жару",
+        "Calories": "178 кКал",
+        "Protein": "24,3 г",
+        "Fats": "8,23 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кижуч, разведенный на ферме, сырой",
+        "Calories": "160 кКал",
+        "Protein": "21,27 г",
+        "Fats": "7,67 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Килька балтийская",
+        "Calories": "137 кКал",
+        "Protein": "14,1 г",
+        "Fats": "9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Килька балтийская горячего копчения",
+        "Calories": "162 кКал",
+        "Protein": "21,3 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Килька балтийская соленая",
+        "Calories": "137 кКал",
+        "Protein": "17,1 г",
+        "Fats": "7,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Килька каспийская",
+        "Calories": "192 кКал",
+        "Protein": "18,5 г",
+        "Fats": "13,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Килька соленая с картофелем и маслом, по 1-100",
+        "Calories": "192 кКал",
+        "Protein": "11,3 г",
+        "Fats": "12,2 г",
+        "Carbohydrates": "9,2 г"
+    },
+    {
+        "title": "Килька соленая с луком и маслом, по 1-98",
+        "Calories": "169 кКал",
+        "Protein": "10 г",
+        "Fats": "13,8 г",
+        "Carbohydrates": "1,1 г"
+    },
+    {
+        "title": "Китовое мясо",
+        "Calories": "119 кКал",
+        "Protein": "22,5 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Китовые, белуга, мясо сушеное (Аляска)",
+        "Calories": "327 кКал",
+        "Protein": "69,86 г",
+        "Fats": "5,34 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Китовые, белуга, мясо сырое (Аляска)",
+        "Calories": "111 кКал",
+        "Protein": "26,5 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Китовые, белуга, плавник сырой (Аляска)",
+        "Calories": "271 кКал",
+        "Protein": "19 г",
+        "Fats": "21,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Клыкач",
+        "Calories": "203 кКал",
+        "Protein": "14,4 г",
+        "Fats": "16,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Корифена, приготовленная на жару",
+        "Calories": "109 кКал",
+        "Protein": "23,72 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Корифена, сырая",
+        "Calories": "85 кКал",
+        "Protein": "18,5 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Корюшка зубастая, азиатская",
+        "Calories": "102 кКал",
+        "Protein": "15,4 г",
+        "Fats": "4,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Корюшка, сушеная, (Аляска)",
+        "Calories": "386 кКал",
+        "Protein": "56,19 г",
+        "Fats": "17,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Котлеты из трески, по 1-380",
+        "Calories": "164 кКал",
+        "Protein": "12,6 г",
+        "Fats": "5,9 г",
+        "Carbohydrates": "15 г"
+    },
+    {
+        "title": "Краб дандженесский, приготовленный на пару",
+        "Calories": "110 кКал",
+        "Protein": "22,32 г",
+        "Fats": "1,24 г",
+        "Carbohydrates": "0,95 г"
+    },
+    {
+        "title": "Краб дандженесский, сырой",
+        "Calories": "86 кКал",
+        "Protein": "17,41 г",
+        "Fats": "0,97 г",
+        "Carbohydrates": "0,74 г"
+    },
+    {
+        "title": "Краб камчатский (мясо)",
+        "Calories": "82 кКал",
+        "Protein": "18,2 г",
+        "Fats": "1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Краб камчатский, приготовленный на пару",
+        "Calories": "97 кКал",
+        "Protein": "19,35 г",
+        "Fats": "1,54 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Краб камчатский, сырой",
+        "Calories": "84 кКал",
+        "Protein": "18,29 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Краб синий, консервированный",
+        "Calories": "83 кКал",
+        "Protein": "17,88 г",
+        "Fats": "0,74 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Краб синий, крабовые пироженные",
+        "Calories": "155 кКал",
+        "Protein": "20,21 г",
+        "Fats": "7,52 г",
+        "Carbohydrates": "0,48 г"
+    },
+    {
+        "title": "Краб синий, приготовленный на пару",
+        "Calories": "83 кКал",
+        "Protein": "17,88 г",
+        "Fats": "0,74 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Краб синий, сырой",
+        "Calories": "87 кКал",
+        "Protein": "18,06 г",
+        "Fats": "1,08 г",
+        "Carbohydrates": "0,04 г"
+    },
+    {
+        "title": "Краб-стригун, приготовленный на пару",
+        "Calories": "115 кКал",
+        "Protein": "23,72 г",
+        "Fats": "1,51 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Краб-стригун, сырой",
+        "Calories": "90 кКал",
+        "Protein": "18,5 г",
+        "Fats": "1,18 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Крабовое мясо из сурими (искуственное), крабовые палочки",
+        "Calories": "95 кКал",
+        "Protein": "7,62 г",
+        "Fats": "0,46 г",
+        "Carbohydrates": "14,5 г"
+    },
+    {
+        "title": "Крабы консервированные",
+        "Calories": "85 кКал",
+        "Protein": "18,7 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Красноглазка",
+        "Calories": "126 кКал",
+        "Protein": "21,9 г",
+        "Fats": "4,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Красноперка дальневосточная",
+        "Calories": "100 кКал",
+        "Protein": "18,3 г",
+        "Fats": "3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Креветка антарктическая (мясо) варено-мороженая",
+        "Calories": "98 кКал",
+        "Protein": "20,5 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "0,3 г"
+    },
+    {
+        "title": "Креветка антарктическая натуральная. Консервы",
+        "Calories": "82 кКал",
+        "Protein": "17,7 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "0,3 г"
+    },
+    {
+        "title": "Креветка дальневосточная (мясо)",
+        "Calories": "87 кКал",
+        "Protein": "18,3 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "0,8 г"
+    },
+    {
+        "title": "Креветка дальневосточныя натуральная, консервы",
+        "Calories": "134 кКал",
+        "Protein": "28,7 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "title": "Креветка приготовленная",
+        "Calories": "99 кКал",
+        "Protein": "23,98 г",
+        "Fats": "0,28 г",
+        "Carbohydrates": "0,2 г"
+    },
+    {
+        "title": "Креветка сырая",
+        "Calories": "85 кКал",
+        "Protein": "20,1 г",
+        "Fats": "0,51 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Креветка, все виды, консервированная",
+        "Calories": "100 кКал",
+        "Protein": "20,42 г",
+        "Fats": "1,36 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Креветка, все виды, обжаренная в панировке",
+        "Calories": "242 кКал",
+        "Protein": "21,39 г",
+        "Fats": "12,28 г",
+        "Carbohydrates": "11,07 г"
+    },
+    {
+        "title": "Креветка, все виды, приготовленная на пару",
+        "Calories": "119 кКал",
+        "Protein": "22,78 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "1,52 г"
+    },
+    {
+        "title": "Креветка, все виды, сырая",
+        "Calories": "71 кКал",
+        "Protein": "13,61 г",
+        "Fats": "1,01 г",
+        "Carbohydrates": "0,91 г"
+    },
+    {
+        "title": "Креветочное мясо из сурими (искусственное)",
+        "Calories": "101 кКал",
+        "Protein": "12,39 г",
+        "Fats": "1,47 г",
+        "Carbohydrates": "9,13 г"
+    },
+    {
+        "title": "Кубера",
+        "Calories": "96 кКал",
+        "Protein": "20,3 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кумжа, все виды, приготовленная на жару",
+        "Calories": "133 кКал",
+        "Protein": "21,46 г",
+        "Fats": "4,63 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Кумжа, все виды, сырая",
+        "Calories": "104 кКал",
+        "Protein": "16,74 г",
+        "Fats": "3,61 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Курок",
+        "Calories": "71 кКал",
+        "Protein": "15,8 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лангуст (мясо шеек)",
+        "Calories": "77 кКал",
+        "Protein": "18,4 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "2,43 г"
+    },
+    {
+        "title": "Лангуст, все виды, приготовленный на пару",
+        "Calories": "143 кКал",
+        "Protein": "26,41 г",
+        "Fats": "1,94 г",
+        "Carbohydrates": "3,12 г"
+    },
+    {
+        "title": "Лангуст, все виды, сырой",
+        "Calories": "112 кКал",
+        "Protein": "20,6 г",
+        "Fats": "1,51 г",
+        "Carbohydrates": "2,43 г"
+    },
+    {
+        "title": "Ледяная рыба",
+        "Calories": "91 кКал",
+        "Protein": "17,7 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лемонема",
+        "Calories": "67 кКал",
+        "Protein": "15,9 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Летрин",
+        "Calories": "84 кКал",
+        "Protein": "20,2 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лещ",
+        "Calories": "105 кКал",
+        "Protein": "17,1 г",
+        "Fats": "4,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лещ в томатном соусе. Консервы",
+        "Calories": "124 кКал",
+        "Protein": "15,3 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "title": "Лещ вяленый",
+        "Calories": "221 кКал",
+        "Protein": "42 г",
+        "Fats": "5,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лещ горячего копчения",
+        "Calories": "172 кКал",
+        "Protein": "32,8 г",
+        "Fats": "4,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лещ каспийский соленый",
+        "Calories": "144 кКал",
+        "Protein": "25,2 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лещ морской",
+        "Calories": "105 кКал",
+        "Protein": "18,88 г",
+        "Fats": "2,73 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лещ морской",
+        "Calories": "143 кКал",
+        "Protein": "21,3 г",
+        "Fats": "6,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лещ морской, приготовленный на жару",
+        "Calories": "135 кКал",
+        "Protein": "24,21 г",
+        "Fats": "3,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лещ холодного копчения",
+        "Calories": "160 кКал",
+        "Protein": "29,7 г",
+        "Fats": "4,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лихия",
+        "Calories": "105 кКал",
+        "Protein": "21,1 г",
+        "Fats": "2,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лосось атлантический (семга)",
+        "Calories": "153 кКал",
+        "Protein": "20 г",
+        "Fats": "8,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лосось атлантический (семга), дикий",
+        "Calories": "142 кКал",
+        "Protein": "19,84 г",
+        "Fats": "6,34 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лосось атлантический (семга), дикий, приготовленный на жару",
+        "Calories": "182 кКал",
+        "Protein": "25,44 г",
+        "Fats": "8,13 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лосось атлантический, разведенный на ферме, приготовленный на жару",
+        "Calories": "206 кКал",
+        "Protein": "22,1 г",
+        "Fats": "12,35 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лосось атлантический, разведенный на ферме, сырой",
+        "Calories": "208 кКал",
+        "Protein": "20,42 г",
+        "Fats": "13,42 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лосось каспийский соленый",
+        "Calories": "269 кКал",
+        "Protein": "21 г",
+        "Fats": "20,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лунник",
+        "Calories": "151 кКал",
+        "Protein": "14,6 г",
+        "Fats": "10,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Луфарь океанический",
+        "Calories": "109 кКал",
+        "Protein": "19,7 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Луфарь, приготовленный на жару",
+        "Calories": "159 кКал",
+        "Protein": "25,69 г",
+        "Fats": "5,44 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Луфарь, сырой",
+        "Calories": "124 кКал",
+        "Protein": "20,04 г",
+        "Fats": "4,24 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Луциан",
+        "Calories": "86 кКал",
+        "Protein": "19,8 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Луциан желтохвостый",
+        "Calories": "107 кКал",
+        "Protein": "22,6 г",
+        "Fats": "1,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Лягушачьи лапки, сырые",
+        "Calories": "73 кКал",
+        "Protein": "16,4 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Мавроликус",
+        "Calories": "173 кКал",
+        "Protein": "14 г",
+        "Fats": "13 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Макрель",
+        "Calories": "113 кКал",
+        "Protein": "20,7 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Макрель испанская, приготовленная на жару",
+        "Calories": "158 кКал",
+        "Protein": "23,59 г",
+        "Fats": "6,32 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Макрель испанская, сырая",
+        "Calories": "139 кКал",
+        "Protein": "19,29 г",
+        "Fats": "6,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Макрель королевская, приготовленная на жару",
+        "Calories": "134 кКал",
+        "Protein": "26 г",
+        "Fats": "2,56 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Макрель королевская, сырая",
+        "Calories": "105 кКал",
+        "Protein": "20,28 г",
+        "Fats": "2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Макрурус малоглазый",
+        "Calories": "32 кКал",
+        "Protein": "7,1 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Макрурус тупорылый",
+        "Calories": "68 кКал",
+        "Protein": "13,3 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Маринка",
+        "Calories": "112 кКал",
+        "Protein": "16,8 г",
+        "Fats": "5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Масло, белужье, китовое (Аляска)",
+        "Calories": "900 кКал",
+        "Protein": "0 г",
+        "Fats": "100 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Масло, китовое, гренландский или полярный кит (Аляска)",
+        "Calories": "900 кКал",
+        "Protein": "0 г",
+        "Fats": "100 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Масло, моржовое (Аляска)",
+        "Calories": "900 кКал",
+        "Protein": "0 г",
+        "Fats": "100 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Масляная рыба",
+        "Calories": "113 кКал",
+        "Protein": "18,8 г",
+        "Fats": "4,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Масляная рыба, приготовленная на жару",
+        "Calories": "187 кКал",
+        "Protein": "22,15 г",
+        "Fats": "10,28 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Масляная рыба, сырая",
+        "Calories": "146 кКал",
+        "Protein": "17,28 г",
+        "Fats": "8,02 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Медуза, сушеная с солью",
+        "Calories": "36 кКал",
+        "Protein": "5,5 г",
+        "Fats": "1,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Менек, приготовленный на жару",
+        "Calories": "112 кКал",
+        "Protein": "24,35 г",
+        "Fats": "0,88 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Менек, сырой",
+        "Calories": "87 кКал",
+        "Protein": "18,99 г",
+        "Fats": "0,69 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Мероу",
+        "Calories": "104 кКал",
+        "Protein": "19,4 г",
+        "Fats": "2,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Мидии",
+        "Calories": "77 кКал",
+        "Protein": "11,5 г",
+        "Fats": "2 г",
+        "Carbohydrates": "3,3 г"
+    },
+    {
+        "title": "Мидия cockles (Аляска)",
+        "Calories": "79 кКал",
+        "Protein": "13,5 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "title": "Мидия голубая, приготовленная на пару",
+        "Calories": "172 кКал",
+        "Protein": "23,8 г",
+        "Fats": "4,48 г",
+        "Carbohydrates": "7,39 г"
+    },
+    {
+        "title": "Мидия голубая, сырая",
+        "Calories": "86 кКал",
+        "Protein": "11,9 г",
+        "Fats": "2,24 г",
+        "Carbohydrates": "3,69 г"
+    },
+    {
+        "title": "Минога каспийская",
+        "Calories": "326 кКал",
+        "Protein": "13,2 г",
+        "Fats": "30,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Минога речная, весенняя",
+        "Calories": "119 кКал",
+        "Protein": "13,5 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Минога речная, осенняя",
+        "Calories": "213 кКал",
+        "Protein": "15,9 г",
+        "Fats": "16,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Минтай",
+        "Calories": "72 кКал",
+        "Protein": "15,9 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Минтай припущенный, по 1-354",
+        "Calories": "75 кКал",
+        "Protein": "16,2 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Минтай, Аляска",
+        "Calories": "76 кКал",
+        "Protein": "17,17 г",
+        "Fats": "0,82 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Минтай, Аляска, приготовленный",
+        "Calories": "86 кКал",
+        "Protein": "19,42 г",
+        "Fats": "0,99 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Минтай, приготовленный на жару",
+        "Calories": "111 кКал",
+        "Protein": "23,48 г",
+        "Fats": "1,18 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Минтай, сырой",
+        "Calories": "56 кКал",
+        "Protein": "12,19 г",
+        "Fats": "0,41 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Мойва весенняя",
+        "Calories": "116 кКал",
+        "Protein": "13,1 г",
+        "Fats": "7,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Мойва осенняя",
+        "Calories": "217 кКал",
+        "Protein": "13,6 г",
+        "Fats": "18,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Моллюск брюхоногий, печеный или жареный на открытом огне",
+        "Calories": "130 кКал",
+        "Protein": "26,3 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "1,7 г"
+    },
+    {
+        "title": "Моллюск двустворчатый",
+        "Calories": "86 кКал",
+        "Protein": "14,67 г",
+        "Fats": "0,96 г",
+        "Carbohydrates": "3,57 г"
+    },
+    {
+        "title": "Моллюск двустворчатый, консервированный, с маринадом",
+        "Calories": "2 кКал",
+        "Protein": "0,4 г",
+        "Fats": "0,02 г",
+        "Carbohydrates": "0,1 г"
+    },
+    {
+        "title": "Моллюск двустворчатый, консервированный, сухой продукт без маринада",
+        "Calories": "142 кКал",
+        "Protein": "24,25 г",
+        "Fats": "1,59 г",
+        "Carbohydrates": "5,9 г"
+    },
+    {
+        "title": "Моллюск двустворчатый, обжаренный в панировке",
+        "Calories": "202 кКал",
+        "Protein": "14,24 г",
+        "Fats": "11,15 г",
+        "Carbohydrates": "10,33 г"
+    },
+    {
+        "title": "Моллюск двустворчатый, приготовленный на пару",
+        "Calories": "148 кКал",
+        "Protein": "25,55 г",
+        "Fats": "1,95 г",
+        "Carbohydrates": "5,13 г"
+    },
+    {
+        "title": "Моллюск рапана",
+        "Calories": "77 кКал",
+        "Protein": "16,7 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Молоки рыб, все виды",
+        "Calories": "143 кКал",
+        "Protein": "22,32 г",
+        "Fats": "6,42 г",
+        "Carbohydrates": "1,5 г"
+    },
+    {
+        "title": "Молоки рыб, все виды, приготовленные на жару",
+        "Calories": "204 кКал",
+        "Protein": "28,62 г",
+        "Fats": "8,23 г",
+        "Carbohydrates": "1,92 г"
+    },
+    {
+        "title": "Морж, мясо и подкожный жир, сырые, (Аляска)",
+        "Calories": "282 кКал",
+        "Protein": "16,3 г",
+        "Fats": "24,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Морж, мясо, сушеное, (Аляска)",
+        "Calories": "251 кКал",
+        "Protein": "57 г",
+        "Fats": "2,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Морж, мясо, сырое, (Аляска)",
+        "Calories": "199 кКал",
+        "Protein": "19,2 г",
+        "Fats": "13,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Морская капуста (ламинария) свежая",
+        "Calories": "24,9 кКал",
+        "Protein": "0,9 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "title": "Морская капуста (ламинария) сушеная",
+        "Calories": "189 кКал",
+        "Protein": "7,1 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "22,6 г"
+    },
+    {
+        "title": "Морские водоросли агар, сушеные",
+        "Calories": "306 кКал",
+        "Protein": "6,21 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "73,18 г"
+    },
+    {
+        "title": "Морские водоросли агар, сырые",
+        "Calories": "26 кКал",
+        "Protein": "0,54 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "6,25 г"
+    },
+    {
+        "title": "Морские водоросли вакаме, сырые",
+        "Calories": "45 кКал",
+        "Protein": "3,03 г",
+        "Fats": "0,64 г",
+        "Carbohydrates": "8,64 г"
+    },
+    {
+        "title": "Морские водоросли ирландский мох, сырой",
+        "Calories": "49 кКал",
+        "Protein": "1,51 г",
+        "Fats": "0,16 г",
+        "Carbohydrates": "10,99 г"
+    },
+    {
+        "title": "Морские водоросли канадские культивируемые emi-tsunomata, сушеные",
+        "Calories": "259 кКал",
+        "Protein": "15,34 г",
+        "Fats": "1,39 г",
+        "Carbohydrates": "9,54 г"
+    },
+    {
+        "title": "Морские водоросли канадские культивируемые emi-tsunomata, сырые",
+        "Calories": "31 кКал",
+        "Protein": "1,86 г",
+        "Fats": "0,17 г",
+        "Carbohydrates": "1,12 г"
+    },
+    {
+        "title": "Морские водоросли порфира, сырые",
+        "Calories": "35 кКал",
+        "Protein": "5,81 г",
+        "Fats": "0,28 г",
+        "Carbohydrates": "4,81 г"
+    },
+    {
+        "title": "Морские водоросли спирулина, сушеные",
+        "Calories": "290 кКал",
+        "Protein": "57,47 г",
+        "Fats": "7,72 г",
+        "Carbohydrates": "20,3 г"
+    },
+    {
+        "title": "Морские водоросли спирулина, сырые",
+        "Calories": "26 кКал",
+        "Protein": "5,92 г",
+        "Fats": "0,39 г",
+        "Carbohydrates": "2,02 г"
+    },
+    {
+        "title": "Морские водоросли, ламинариевые, сырые",
+        "Calories": "43 кКал",
+        "Protein": "1,68 г",
+        "Fats": "0,56 г",
+        "Carbohydrates": "8,27 г"
+    },
+    {
+        "title": "Морской черт, мясо, (Аляска)",
+        "Calories": "97 кКал",
+        "Protein": "11,7 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Морской черт, приготовленный на жару",
+        "Calories": "97 кКал",
+        "Protein": "18,56 г",
+        "Fats": "1,95 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Морской черт, сырой",
+        "Calories": "76 кКал",
+        "Protein": "14,48 г",
+        "Fats": "1,52 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Муксун",
+        "Calories": "121 кКал",
+        "Protein": "18,5 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Муксун в томатном соусе, консервы",
+        "Calories": "119 кКал",
+        "Protein": "13,4 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "title": "Мясо ластоногих",
+        "Calories": "113 кКал",
+        "Protein": "24,5 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Навага беломорская",
+        "Calories": "91 кКал",
+        "Protein": "19,2 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Навага дальневосточная",
+        "Calories": "69 кКал",
+        "Protein": "15,1 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Навага жареная, по 1-368",
+        "Calories": "169 кКал",
+        "Protein": "18,3 г",
+        "Fats": "8,3 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "title": "Наггетсы из лосося, панированные, замороженные, разогретые",
+        "Calories": "212 кКал",
+        "Protein": "12,69 г",
+        "Fats": "11,72 г",
+        "Carbohydrates": "13,96 г"
+    },
+    {
+        "title": "Налим",
+        "Calories": "81 кКал",
+        "Protein": "18,8 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Налим в томатном соусе, консервы",
+        "Calories": "106 кКал",
+        "Protein": "14,2 г",
+        "Fats": "3,3 г",
+        "Carbohydrates": "5,3 г"
+    },
+    {
+        "title": "Налим-ошибень, приготовленный на жару",
+        "Calories": "111 кКал",
+        "Protein": "24,35 г",
+        "Fats": "0,82 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Налим-ошибень, сырой",
+        "Calories": "87 кКал",
+        "Protein": "18,99 г",
+        "Fats": "0,64 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Налим, приготовленный на жару",
+        "Calories": "115 кКал",
+        "Protein": "24,76 г",
+        "Fats": "1,04 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Налим, сырой",
+        "Calories": "90 кКал",
+        "Protein": "19,31 г",
+        "Fats": "0,81 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нельма",
+        "Calories": "160 кКал",
+        "Protein": "19,4 г",
+        "Fats": "9,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нельма (белорыбица), сырая, (Аляска)",
+        "Calories": "115 кКал",
+        "Protein": "22,25 г",
+        "Fats": "2,84 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нерка",
+        "Calories": "157 кКал",
+        "Protein": "20,3 г",
+        "Fats": "8,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нерка",
+        "Calories": "131 кКал",
+        "Protein": "22,25 г",
+        "Fats": "4,69 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нерка (Аляска)",
+        "Calories": "153 кКал",
+        "Protein": "21,94 г",
+        "Fats": "7,28 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нерка натуральная. Консервы",
+        "Calories": "171 кКал",
+        "Protein": "19,1 г",
+        "Fats": "10,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нерка, горячего копчения (Аляска)",
+        "Calories": "141 кКал",
+        "Protein": "24,5 г",
+        "Fats": "4,75 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нерка, консервированная без костей, (Аляска)",
+        "Calories": "161 кКал",
+        "Protein": "27,31 г",
+        "Fats": "5,76 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нерка, консервированная без соли",
+        "Calories": "153 кКал",
+        "Protein": "20,47 г",
+        "Fats": "7,31 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нерка, консервированная, всё содержимое",
+        "Calories": "153 кКал",
+        "Protein": "20,63 г",
+        "Fats": "7,17 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нерка, консервированная, с костями, содержимое без жидкости",
+        "Calories": "167 кКал",
+        "Protein": "23,59 г",
+        "Fats": "7,39 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нерка, консервированная, содержимое без жидкости, без кожи и костей",
+        "Calories": "158 кКал",
+        "Protein": "26,33 г",
+        "Fats": "5,87 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нерка, консервированная, холодного копчения, (Аляска)",
+        "Calories": "206 кКал",
+        "Protein": "35,19 г",
+        "Fats": "7,26 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нерка, красный лосось, филе с кожей, холодного копчения (Аляска)",
+        "Calories": "345 кКал",
+        "Protein": "60,62 г",
+        "Fats": "11,43 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нерка, приготовленная на жару",
+        "Calories": "156 кКал",
+        "Protein": "26,48 г",
+        "Fats": "5,57 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нотоскопелюс кроуэри",
+        "Calories": "220 кКал",
+        "Protein": "15,5 г",
+        "Fats": "17,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Нототения мраморная",
+        "Calories": "148 кКал",
+        "Protein": "15,7 г",
+        "Fats": "9,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь горячего копчения",
+        "Calories": "166 кКал",
+        "Protein": "23,5 г",
+        "Fats": "8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь жареный, по 1-336",
+        "Calories": "180 кКал",
+        "Protein": "20,6 г",
+        "Fats": "9,1 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "title": "Окунь запеченный, по 1-374",
+        "Calories": "103 кКал",
+        "Protein": "6,8 г",
+        "Fats": "4,7 г",
+        "Carbohydrates": "8,4 г"
+    },
+    {
+        "title": "Окунь морской (сибас)",
+        "Calories": "103 кКал",
+        "Protein": "18,2 г",
+        "Fats": "3,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь морской (сибас) отварной, по 1-338",
+        "Calories": "112 кКал",
+        "Protein": "19,9 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь морской (сибас) тушеный, по 1-364",
+        "Calories": "120 кКал",
+        "Protein": "10,9 г",
+        "Fats": "6,6 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "title": "Окунь морской атлантический (золотистый, обыкновенный)",
+        "Calories": "79 кКал",
+        "Protein": "15,31 г",
+        "Fats": "1,54 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь морской атлантический (золотистый, обыкновенный), приготовленный на жару",
+        "Calories": "96 кКал",
+        "Protein": "18,51 г",
+        "Fats": "1,87 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь морской холодного копчения",
+        "Calories": "199 кКал",
+        "Protein": "26,4 г",
+        "Fats": "10,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь морской, все виды",
+        "Calories": "97 кКал",
+        "Protein": "18,43 г",
+        "Fats": "2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь морской, приготовленный на жару",
+        "Calories": "124 кКал",
+        "Protein": "23,63 г",
+        "Fats": "2,56 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь морской, тихоокеанский клювач",
+        "Calories": "90 кКал",
+        "Protein": "18,36 г",
+        "Fats": "1,34 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь морской, тихоокеанский клювач, приготовленный на жару",
+        "Calories": "109 кКал",
+        "Protein": "22,23 г",
+        "Fats": "1,62 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь полосатый (полосатый басс, или полосатый лаврак), приготовленный на жару",
+        "Calories": "124 кКал",
+        "Protein": "22,73 г",
+        "Fats": "2,99 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь полосатый (полосатый басс, или полосатый лаврак), сырой",
+        "Calories": "97 кКал",
+        "Protein": "17,73 г",
+        "Fats": "2,33 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь пресноводный, все виды, приготовленный на жару",
+        "Calories": "146 кКал",
+        "Protein": "24,18 г",
+        "Fats": "4,73 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь пресноводный, все виды, сырой",
+        "Calories": "114 кКал",
+        "Protein": "18,86 г",
+        "Fats": "3,69 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь припущенный, по 1-348",
+        "Calories": "109 кКал",
+        "Protein": "19,5 г",
+        "Fats": "3,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь речной",
+        "Calories": "91 кКал",
+        "Protein": "19,39 г",
+        "Fats": "0,92 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь речной",
+        "Calories": "82 кКал",
+        "Protein": "18,5 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь речной, приготовленный на жару",
+        "Calories": "117 кКал",
+        "Protein": "24,86 г",
+        "Fats": "1,18 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Окунь фаршированный, по 1-360",
+        "Calories": "130 кКал",
+        "Protein": "14,9 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "title": "Омар северный, приготовленный на пару",
+        "Calories": "89 кКал",
+        "Protein": "19 г",
+        "Fats": "0,86 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Омар северный, сырой",
+        "Calories": "77 кКал",
+        "Protein": "16,52 г",
+        "Fats": "0,75 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Омуль",
+        "Calories": "152 кКал",
+        "Protein": "19,2 г",
+        "Fats": "8,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Осетр в томатном соусе. Консервы",
+        "Calories": "164 кКал",
+        "Protein": "14,4 г",
+        "Fats": "11,8 г",
+        "Carbohydrates": "3,3 г"
+    },
+    {
+        "title": "Осетр жареный во фритюре, по 1-372",
+        "Calories": "273 кКал",
+        "Protein": "16 г",
+        "Fats": "17,4 г",
+        "Carbohydrates": "13,2 г"
+    },
+    {
+        "title": "Осетр каспийский и азово-черноморский",
+        "Calories": "164 кКал",
+        "Protein": "16,4 г",
+        "Fats": "10,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Осетр консервированный",
+        "Calories": "163 кКал",
+        "Protein": "16,4 г",
+        "Fats": "10,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Осетр отварной, по 1-344",
+        "Calories": "179 кКал",
+        "Protein": "17,7 г",
+        "Fats": "12 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Осетр припущенный, по 1-350",
+        "Calories": "179 кКал",
+        "Protein": "17,8 г",
+        "Fats": "11,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Осетр холодного копчения, теша ",
+        "Calories": "302 кКал",
+        "Protein": "17,6 г",
+        "Fats": "25,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Осетр, все виды, копченый",
+        "Calories": "173 кКал",
+        "Protein": "31,2 г",
+        "Fats": "4,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Осетр, все виды, приготовленный на жару",
+        "Calories": "135 кКал",
+        "Protein": "20,7 г",
+        "Fats": "5,18 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Осетр, все виды, сырой",
+        "Calories": "105 кКал",
+        "Protein": "16,14 г",
+        "Fats": "4,04 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Осетр, сибирский",
+        "Calories": "202 кКал",
+        "Protein": "15,8 г",
+        "Fats": "15,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Осьминог обыкновенный, приготовленный на пару",
+        "Calories": "164 кКал",
+        "Protein": "29,82 г",
+        "Fats": "2,08 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "title": "Осьминог обыкновенный, сырой",
+        "Calories": "82 кКал",
+        "Protein": "14,91 г",
+        "Fats": "1,04 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "title": "Ошибень",
+        "Calories": "72 кКал",
+        "Protein": "16,7 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Пагрус",
+        "Calories": "106 кКал",
+        "Protein": "19,8 г",
+        "Fats": "3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Палтус (Аляска)",
+        "Calories": "116 кКал",
+        "Protein": "20,53 г",
+        "Fats": "2,92 г",
+        "Carbohydrates": "1,81 г"
+    },
+    {
+        "title": "Палтус белокорый",
+        "Calories": "103 кКал",
+        "Protein": "18,9 г",
+        "Fats": "3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Палтус черный",
+        "Calories": "196 кКал",
+        "Protein": "12,8 г",
+        "Fats": "16,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Палтус, атлантический и тихоокеанский, приготовленный на жару",
+        "Calories": "111 кКал",
+        "Protein": "22,54 г",
+        "Fats": "1,61 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Палтус, атлантический и тихоокеанский, сырой",
+        "Calories": "91 кКал",
+        "Protein": "18,56 г",
+        "Fats": "1,33 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Палтус, приготовленный (Аляска)",
+        "Calories": "113 кКал",
+        "Protein": "22,13 г",
+        "Fats": "2,73 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Палтус, черный, приготовленный на жару",
+        "Calories": "239 кКал",
+        "Protein": "18,42 г",
+        "Fats": "17,74 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Палтус, черный, сырой",
+        "Calories": "186 кКал",
+        "Protein": "14,37 г",
+        "Fats": "13,84 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Паста \"Океан\"",
+        "Calories": "92 кКал",
+        "Protein": "13,6 г",
+        "Fats": "4,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Пеламида",
+        "Calories": "217 кКал",
+        "Protein": "22,4 г",
+        "Fats": "14,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Песчанка радужная (корюшка американская), приготовленная на жару",
+        "Calories": "124 кКал",
+        "Protein": "22,6 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Песчанка радужная (корюшка американская), сырая",
+        "Calories": "97 кКал",
+        "Protein": "17,63 г",
+        "Fats": "2,42 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Печень белуги, сырая, (Аляска)",
+        "Calories": "117 кКал",
+        "Protein": "18,4 г",
+        "Fats": "3,9 г",
+        "Carbohydrates": "2 г"
+    },
+    {
+        "title": "Печень зубастого терпуга (Аляска)",
+        "Calories": "424 кКал",
+        "Protein": "5,6 г",
+        "Fats": "42 г",
+        "Carbohydrates": "6 г"
+    },
+    {
+        "title": "Печень моржа, сырая, (Аляска)",
+        "Calories": "125 кКал",
+        "Protein": "21 г",
+        "Fats": "3 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "title": "Печень трески. Консервы",
+        "Calories": "613 кКал",
+        "Protein": "4,2 г",
+        "Fats": "65,7 г",
+        "Carbohydrates": "1,2 г"
+    },
+    {
+        "title": "Печень чавычи (Аляска)",
+        "Calories": "156 кКал",
+        "Protein": "16,6 г",
+        "Fats": "8 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "title": "Печень щуки северной (Аляска)",
+        "Calories": "156 кКал",
+        "Protein": "16,6 г",
+        "Fats": "8 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "title": "Печень, сиговые, чир (Аляска)",
+        "Calories": "104 кКал",
+        "Protein": "11 г",
+        "Fats": "4,4 г",
+        "Carbohydrates": "5,1 г"
+    },
+    {
+        "title": "Пикша",
+        "Calories": "73 кКал",
+        "Protein": "17,2 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Пикша, копченая",
+        "Calories": "116 кКал",
+        "Protein": "25,23 г",
+        "Fats": "0,96 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Пикша, приготовленная, приготовленная на жару",
+        "Calories": "90 кКал",
+        "Protein": "19,99 г",
+        "Fats": "0,55 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Пикша, сырая",
+        "Calories": "74 кКал",
+        "Protein": "16,32 г",
+        "Fats": "0,45 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Плотва сибирская (сорога)",
+        "Calories": "110 кКал",
+        "Protein": "19 г",
+        "Fats": "3,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Полосатый тунец",
+        "Calories": "103 кКал",
+        "Protein": "22 г",
+        "Fats": "1,01 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Полосатый тунец, приготовленный на жару",
+        "Calories": "132 кКал",
+        "Protein": "28,21 г",
+        "Fats": "1,29 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Помпано флоридский, приготовленный на жару",
+        "Calories": "211 кКал",
+        "Protein": "23,69 г",
+        "Fats": "12,14 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Помпано флоридский, сырой",
+        "Calories": "164 кКал",
+        "Protein": "18,48 г",
+        "Fats": "9,47 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Пристипома",
+        "Calories": "88 кКал",
+        "Protein": "19,6 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Псенопсис",
+        "Calories": "92 кКал",
+        "Protein": "14,6 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Пузанок, приготовленный на жару",
+        "Calories": "252 кКал",
+        "Protein": "21,71 г",
+        "Fats": "17,65 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Пузанок, сырой",
+        "Calories": "197 кКал",
+        "Protein": "16,93 г",
+        "Fats": "13,77 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Путассу",
+        "Calories": "82 кКал",
+        "Protein": "18,5 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Путассу, приготовленный на жару",
+        "Calories": "116 кКал",
+        "Protein": "23,48 г",
+        "Fats": "1,69 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Путассу, смешанные виды, сырой",
+        "Calories": "90 кКал",
+        "Protein": "18,31 г",
+        "Fats": "1,31 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Пыжьян",
+        "Calories": "113 кКал",
+        "Protein": "18 г",
+        "Fats": "4,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Радужная форель (Микижа), вареная, консервированная, (Аляска)",
+        "Calories": "159 кКал",
+        "Protein": "21,11 г",
+        "Fats": "8,26 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Радужная форель (Микижа), сушеная, мясо (Shoshone Bannock)",
+        "Calories": "382 кКал",
+        "Protein": "77,27 г",
+        "Fats": "8,06 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рак речной, дикий",
+        "Calories": "77 кКал",
+        "Protein": "15,97 г",
+        "Fats": "0,95 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рак речной, дикий, приготовленный на пару",
+        "Calories": "82 кКал",
+        "Protein": "16,77 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рак речной, фермерский",
+        "Calories": "72 кКал",
+        "Protein": "14,85 г",
+        "Fats": "0,97 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рак речной, фермерский, приготовленный на пару",
+        "Calories": "87 кКал",
+        "Protein": "17,52 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Раки морские (лангуст, омар)",
+        "Calories": "89 кКал",
+        "Protein": "18,8 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "0,5 г"
+    },
+    {
+        "title": "Раки морские (лангуст, омар) вареные",
+        "Calories": "90 кКал",
+        "Protein": "20,5 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "0,3 г"
+    },
+    {
+        "title": "Раки речные",
+        "Calories": "76 кКал",
+        "Protein": "15,5 г",
+        "Fats": "1 г",
+        "Carbohydrates": "1,2 г"
+    },
+    {
+        "title": "Раки речные вареные",
+        "Calories": "97 кКал",
+        "Protein": "20,3 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "1 г"
+    },
+    {
+        "title": "Ручьевая форель, Нью-Йоркская",
+        "Calories": "110 кКал",
+        "Protein": "21,23 г",
+        "Fats": "2,73 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рыба молочная",
+        "Calories": "148 кКал",
+        "Protein": "20,53 г",
+        "Fats": "6,73 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рыба молочная, приготовленная на жару",
+        "Calories": "190 кКал",
+        "Protein": "26,32 г",
+        "Fats": "8,63 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рыба фаршированная, в сладком соусе",
+        "Calories": "84 кКал",
+        "Protein": "9,07 г",
+        "Fats": "1,73 г",
+        "Carbohydrates": "7,41 г"
+    },
+    {
+        "title": "Рыба-капитан",
+        "Calories": "92 кКал",
+        "Protein": "19,4 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рыба-лист",
+        "Calories": "110 кКал",
+        "Protein": "20,3 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рыба-луна с семенами тыквы, приготовленная на жару",
+        "Calories": "114 кКал",
+        "Protein": "24,87 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рыба-луна с семенами тыквы, сырая",
+        "Calories": "89 кКал",
+        "Protein": "19,4 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рыба-меч",
+        "Calories": "144 кКал",
+        "Protein": "19,66 г",
+        "Fats": "6,65 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рыба-меч, приготовленная на жару",
+        "Calories": "172 кКал",
+        "Protein": "23,45 г",
+        "Fats": "7,93 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рыба-сабля",
+        "Calories": "106 кКал",
+        "Protein": "19,3 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рыбец азово-черноморский холодного копчения",
+        "Calories": "222 кКал",
+        "Protein": "28,6 г",
+        "Fats": "12 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рыбец, азово-черноморский",
+        "Calories": "139 кКал",
+        "Protein": "18,2 г",
+        "Fats": "7,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рыбец, каспийский",
+        "Calories": "98 кКал",
+        "Protein": "19,2 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Рыбные полуфабрикаты, замороженные, разогретые",
+        "Calories": "277 кКал",
+        "Protein": "11,01 г",
+        "Fats": "16,23 г",
+        "Carbohydrates": "20,16 г"
+    },
+    {
+        "title": "Ряпушка сибирская, енисейская",
+        "Calories": "149 кКал",
+        "Protein": "17 г",
+        "Fats": "9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Ряпушка сибирская, обская",
+        "Calories": "107 кКал",
+        "Protein": "19,2 г",
+        "Fats": "3,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сазан",
+        "Calories": "97 кКал",
+        "Protein": "18,2 г",
+        "Fats": "2,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сазан азовский",
+        "Calories": "121 кКал",
+        "Protein": "18,4 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сазан в томатном соусе. Консервы",
+        "Calories": "143 кКал",
+        "Protein": "12,4 г",
+        "Fats": "8,7 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "title": "Сайда",
+        "Calories": "81 кКал",
+        "Protein": "19,1 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сайда атлантическая, приготовленная на жару",
+        "Calories": "118 кКал",
+        "Protein": "24,92 г",
+        "Fats": "1,26 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сайда атлантическая, сырая",
+        "Calories": "92 кКал",
+        "Protein": "19,44 г",
+        "Fats": "0,98 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сайра",
+        "Calories": "205 кКал",
+        "Protein": "19,5 г",
+        "Fats": "14,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сайра бланшированная в масле, консервы",
+        "Calories": "283 кКал",
+        "Protein": "18,3 г",
+        "Fats": "23,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Салака",
+        "Calories": "125 кКал",
+        "Protein": "17 г",
+        "Fats": "6,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Салака горячего копчения",
+        "Calories": "152 кКал",
+        "Protein": "25,4 г",
+        "Fats": "5,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Салат из окуня, по 1-80",
+        "Calories": "182 кКал",
+        "Protein": "4,7 г",
+        "Fats": "15,7 г",
+        "Carbohydrates": "5,5 г"
+    },
+    {
+        "title": "Салат из тунца",
+        "Calories": "187 кКал",
+        "Protein": "16,04 г",
+        "Fats": "9,26 г",
+        "Carbohydrates": "9,41 г"
+    },
+    {
+        "title": "Салилота (бротола)",
+        "Calories": "73 кКал",
+        "Protein": "16,5 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сардина атлантическая, консервы в масле",
+        "Calories": "208 кКал",
+        "Protein": "24,62 г",
+        "Fats": "11,45 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сардина океаническая",
+        "Calories": "166 кКал",
+        "Protein": "19 г",
+        "Fats": "10 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сардина тихоокеанская, консервированная в томатном соусе",
+        "Calories": "185 кКал",
+        "Protein": "20,86 г",
+        "Fats": "10,45 г",
+        "Carbohydrates": "0,44 г"
+    },
+    {
+        "title": "Сардины атлантические в масле, консервы",
+        "Calories": "249 кКал",
+        "Protein": "17,9 г",
+        "Fats": "19,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сардины дальневосточные в масле, консервы",
+        "Calories": "272 кКал",
+        "Protein": "17,2 г",
+        "Fats": "22,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сардины каспийские в масле, консервы",
+        "Calories": "223 кКал",
+        "Protein": "16 г",
+        "Fats": "17,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Севрюга",
+        "Calories": "160 кКал",
+        "Protein": "16,9 г",
+        "Fats": "10,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Севрюга в томатном соусе. Консервы",
+        "Calories": "178 кКал",
+        "Protein": "16 г",
+        "Fats": "11,4 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "title": "Севрюга припущенная, по 1-350",
+        "Calories": "173 кКал",
+        "Protein": "18,2 г",
+        "Fats": "11,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь атлантическая",
+        "Calories": "158 кКал",
+        "Protein": "17,96 г",
+        "Fats": "9,04 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь атлантическая жирная",
+        "Calories": "248 кКал",
+        "Protein": "17,7 г",
+        "Fats": "19,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь атлантическая нежирная",
+        "Calories": "135 кКал",
+        "Protein": "19,1 г",
+        "Fats": "6,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь атлантическая нежирная соленая",
+        "Calories": "145 кКал",
+        "Protein": "17 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь атлантическая, копченая",
+        "Calories": "217 кКал",
+        "Protein": "24,58 г",
+        "Fats": "12,37 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь атлантическая, маринованная",
+        "Calories": "262 кКал",
+        "Protein": "14,19 г",
+        "Fats": "18 г",
+        "Carbohydrates": "9,64 г"
+    },
+    {
+        "title": "Сельдь атлантическая, приготовленная на жару",
+        "Calories": "203 кКал",
+        "Protein": "23,03 г",
+        "Fats": "11,59 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь иваси соленая, специального посола",
+        "Calories": "173 кКал",
+        "Protein": "17,5 г",
+        "Fats": "11,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь иваси, крупная",
+        "Calories": "234 кКал",
+        "Protein": "19,5 г",
+        "Fats": "17,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь иваси, мелкая",
+        "Calories": "131 кКал",
+        "Protein": "21,5 г",
+        "Fats": "5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь рубленая, по 1-98",
+        "Calories": "136 кКал",
+        "Protein": "10,3 г",
+        "Fats": "9,7 г",
+        "Carbohydrates": "2 г"
+    },
+    {
+        "title": "Сельдь с луком, по 1-98",
+        "Calories": "125 кКал",
+        "Protein": "8,3 г",
+        "Fats": "8,3 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "title": "Сельдь тихоокеанская жирная",
+        "Calories": "191 кКал",
+        "Protein": "14 г",
+        "Fats": "15 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь тихоокеанская жирная соленая",
+        "Calories": "224 кКал",
+        "Protein": "17,4 г",
+        "Fats": "17,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь тихоокеанская жирная холодного копчения",
+        "Calories": "225 кКал",
+        "Protein": "20,3 г",
+        "Fats": "16 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь тихоокеанская нежирная",
+        "Calories": "135 кКал",
+        "Protein": "18 г",
+        "Fats": "7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь тихоокеанская, приготовленная на жару",
+        "Calories": "250 кКал",
+        "Protein": "21,01 г",
+        "Fats": "17,79 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь тихоокеанская, сырая",
+        "Calories": "195 кКал",
+        "Protein": "16,39 г",
+        "Fats": "13,88 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сельдь, тихоокеанская, высушенная на воздухе, упакована в масле, (Аляска)",
+        "Calories": "489 кКал",
+        "Protein": "44,5 г",
+        "Fats": "34,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Семга соленая",
+        "Calories": "202 кКал",
+        "Protein": "22,5 г",
+        "Fats": "12,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Семга, наггетсы, готовые к употреблению, не разогретые",
+        "Calories": "189 кКал",
+        "Protein": "11,97 г",
+        "Fats": "10,43 г",
+        "Carbohydrates": "11,85 г"
+    },
+    {
+        "title": "Серебрянка",
+        "Calories": "84 кКал",
+        "Protein": "8,3 г",
+        "Fats": "5,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сериола",
+        "Calories": "103 кКал",
+        "Protein": "22,5 г",
+        "Fats": "1,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сериола (желтохвост), приготовленная на жару",
+        "Calories": "187 кКал",
+        "Protein": "29,67 г",
+        "Fats": "6,72 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сериолелла",
+        "Calories": "160 кКал",
+        "Protein": "19,4 г",
+        "Fats": "9,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сиг",
+        "Calories": "144 кКал",
+        "Protein": "19 г",
+        "Fats": "7,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сиг в томатном соусе, консервы",
+        "Calories": "154 кКал",
+        "Protein": "14,3 г",
+        "Fats": "8,3 г",
+        "Carbohydrates": "5,8 г"
+    },
+    {
+        "title": "Сиг, байкальский",
+        "Calories": "144 кКал",
+        "Protein": "20,2 г",
+        "Fats": "7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сиг, копченый",
+        "Calories": "177 кКал",
+        "Protein": "16,36 г",
+        "Fats": "11,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сиг, смесь видов, сырая, (Аляска)",
+        "Calories": "131 кКал",
+        "Protein": "18,9 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сиг, сушеный, (Аляска)",
+        "Calories": "371 кКал",
+        "Protein": "62,44 г",
+        "Fats": "13,44 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сиг, сырой",
+        "Calories": "98 кКал",
+        "Protein": "18,99 г",
+        "Fats": "1,91 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сиговые, чир, голова, глаза, щековина, мягкие кости, (Аляска)",
+        "Calories": "107 кКал",
+        "Protein": "18,6 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Скап океанический",
+        "Calories": "164 кКал",
+        "Protein": "18,7 г",
+        "Fats": "9,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Скат-лисица",
+        "Calories": "110 кКал",
+        "Protein": "24 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сквама",
+        "Calories": "104 кКал",
+        "Protein": "17,3 г",
+        "Fats": "3,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Скумбрия атлантическая",
+        "Calories": "191 кКал",
+        "Protein": "18 г",
+        "Fats": "13,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Скумбрия атлантическая в масле, консервы",
+        "Calories": "278 кКал",
+        "Protein": "13,1 г",
+        "Fats": "25,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Скумбрия атлантическая в масле. Консервы",
+        "Calories": "318 кКал",
+        "Protein": "14,4 г",
+        "Fats": "28,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Скумбрия атлантическая, приготовленная на жару",
+        "Calories": "262 кКал",
+        "Protein": "23,85 г",
+        "Fats": "17,81 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Скумбрия атлантическая, сырая",
+        "Calories": "205 кКал",
+        "Protein": "18,6 г",
+        "Fats": "13,89 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Скумбрия дальневосточная",
+        "Calories": "239 кКал",
+        "Protein": "19,3 г",
+        "Fats": "18 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Скумбрия дальневосточная в масле, консервы",
+        "Calories": "220 кКал",
+        "Protein": "19,5 г",
+        "Fats": "15,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Скумбрия курильская натуральная. Консервы",
+        "Calories": "248 кКал",
+        "Protein": "18,8 г",
+        "Fats": "19,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Скумбрия натуральная. Консервы",
+        "Calories": "200 кКал",
+        "Protein": "17,7 г",
+        "Fats": "14,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Скумбрия соленая",
+        "Calories": "305 кКал",
+        "Protein": "18,5 г",
+        "Fats": "25,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Скумбрия холодного копчения",
+        "Calories": "150 кКал",
+        "Protein": "23,4 г",
+        "Fats": "6,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Снеток солено-сушеный, полесский",
+        "Calories": "264 кКал",
+        "Protein": "46,3 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Снеток солено-сушеный, псковский",
+        "Calories": "159 кКал",
+        "Protein": "32 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Снэк, рыба",
+        "Calories": "144 кКал",
+        "Protein": "21,8 г",
+        "Fats": "6,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Солнечник, рыба",
+        "Calories": "95 кКал",
+        "Protein": "18,9 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сом",
+        "Calories": "115 кКал",
+        "Protein": "17,2 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сом в томатном соусе. Консервы",
+        "Calories": "126 кКал",
+        "Protein": "12,9 г",
+        "Fats": "6,3 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "title": "Сом припущенный, по 1-346",
+        "Calories": "121 кКал",
+        "Protein": "18,2 г",
+        "Fats": "5,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сомик канальный, американский, дикий",
+        "Calories": "95 кКал",
+        "Protein": "16,38 г",
+        "Fats": "2,82 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сомик канальный, американский, дикий, приготовленный на жару",
+        "Calories": "105 кКал",
+        "Protein": "18,47 г",
+        "Fats": "2,85 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сомик канальный, американский, жареный в панировке",
+        "Calories": "229 кКал",
+        "Protein": "18,09 г",
+        "Fats": "13,33 г",
+        "Carbohydrates": "7,34 г"
+    },
+    {
+        "title": "Сомик канальный, американский, разведенный на ферме",
+        "Calories": "119 кКал",
+        "Protein": "15,23 г",
+        "Fats": "5,94 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Сомик канальный, американский, разведенный на ферме, приготовленный на жару",
+        "Calories": "144 кКал",
+        "Protein": "18,44 г",
+        "Fats": "7,19 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Спот, приготовленный на жару",
+        "Calories": "158 кКал",
+        "Protein": "23,73 г",
+        "Fats": "6,28 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Спот, сырой",
+        "Calories": "123 кКал",
+        "Protein": "18,51 г",
+        "Fats": "4,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Ставрида",
+        "Calories": "114 кКал",
+        "Protein": "18,5 г",
+        "Fats": "4,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Ставрида атлантическая холодного копчения",
+        "Calories": "93,6 кКал",
+        "Protein": "17,1 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Ставрида в томатном соусе, консервы",
+        "Calories": "110 кКал",
+        "Protein": "14,8 г",
+        "Fats": "2,3 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "title": "Ставрида жареная, по 1-366",
+        "Calories": "190 кКал",
+        "Protein": "20,3 г",
+        "Fats": "10,5 г",
+        "Carbohydrates": "3,7 г"
+    },
+    {
+        "title": "Ставрида обжаренная, в масле, консервы",
+        "Calories": "309 кКал",
+        "Protein": "15,6 г",
+        "Fats": "27,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Ставрида отварная, по 1-344",
+        "Calories": "124 кКал",
+        "Protein": "20 г",
+        "Fats": "4,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Ставрида припущенная, по 1-358",
+        "Calories": "122 кКал",
+        "Protein": "19,6 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Ставрида тихоокеанская",
+        "Calories": "158 кКал",
+        "Protein": "20,07 г",
+        "Fats": "7,89 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Ставрида тихоокеанская консервированная, сухой продукт без маринада",
+        "Calories": "156 кКал",
+        "Protein": "23,19 г",
+        "Fats": "6,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Ставрида тихоокеанская, приготовленная на жару",
+        "Calories": "201 кКал",
+        "Protein": "25,73 г",
+        "Fats": "10,12 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Ставрида, все виды, сырая",
+        "Calories": "146 кКал",
+        "Protein": "23,14 г",
+        "Fats": "5,24 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Стерлядь, волжская",
+        "Calories": "127 кКал",
+        "Protein": "17,9 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Стерлядь, сибирская",
+        "Calories": "320 кКал",
+        "Protein": "10,7 г",
+        "Fats": "30,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Судак",
+        "Calories": "84 кКал",
+        "Protein": "18,4 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Судак в томатном соусе. Консервы",
+        "Calories": "119 кКал",
+        "Protein": "14 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "title": "Судак отварной, по 1-342",
+        "Calories": "96 кКал",
+        "Protein": "20,5 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Судак припущенный, по 1-346",
+        "Calories": "89 кКал",
+        "Protein": "19,6 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Судак фаршированный, по 1-362",
+        "Calories": "144 кКал",
+        "Protein": "13,7 г",
+        "Fats": "6 г",
+        "Carbohydrates": "8,7 г"
+    },
+    {
+        "title": "Судак, приготовленный на жару",
+        "Calories": "119 кКал",
+        "Protein": "24,54 г",
+        "Fats": "1,56 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Судак, сырой",
+        "Calories": "93 кКал",
+        "Protein": "19,14 г",
+        "Fats": "1,22 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Суп, рыбный, по-домашнему, (Аляска)",
+        "Calories": "72 кКал",
+        "Protein": "7,4 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "5,6 г"
+    },
+    {
+        "title": "Сурими",
+        "Calories": "99 кКал",
+        "Protein": "15,18 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "6,85 г"
+    },
+    {
+        "title": "Сырок (пелядь), рыба",
+        "Calories": "126 кКал",
+        "Protein": "19,1 г",
+        "Fats": "5,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Таймень",
+        "Calories": "119 кКал",
+        "Protein": "18,9 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Терпуг",
+        "Calories": "102 кКал",
+        "Protein": "17,8 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Терпуг зубатый, приготовленный на жару",
+        "Calories": "109 кКал",
+        "Protein": "22,64 г",
+        "Fats": "1,36 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Терпуг зубатый, сырой",
+        "Calories": "85 кКал",
+        "Protein": "17,66 г",
+        "Fats": "1,06 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Терпуг, зубастый, змеезуб, мясо, сырое, (Аляска)",
+        "Calories": "79 кКал",
+        "Protein": "17,9 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Терпужок южный",
+        "Calories": "105 кКал",
+        "Protein": "19,5 г",
+        "Fats": "3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тиляпия",
+        "Calories": "96 кКал",
+        "Protein": "20,08 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тиляпия, приготовленная на жару",
+        "Calories": "128 кКал",
+        "Protein": "26,15 г",
+        "Fats": "2,65 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Трепанг (мясо)",
+        "Calories": "34,6 кКал",
+        "Protein": "7,3 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска",
+        "Calories": "69 кКал",
+        "Protein": "16 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска атлантическая, консервированная",
+        "Calories": "105 кКал",
+        "Protein": "22,76 г",
+        "Fats": "0,86 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска атлантическая, приготовленная на жару",
+        "Calories": "105 кКал",
+        "Protein": "22,83 г",
+        "Fats": "0,86 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска атлантическая, сушеная и соленая",
+        "Calories": "290 кКал",
+        "Protein": "62,82 г",
+        "Fats": "2,37 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска атлантическая, сырая",
+        "Calories": "82 кКал",
+        "Protein": "17,81 г",
+        "Fats": "0,67 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска горячего копчения",
+        "Calories": "115 кКал",
+        "Protein": "26,7 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска жареная, по 1-366",
+        "Calories": "123 кКал",
+        "Protein": "16 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "title": "Треска запеченная, по 1-374",
+        "Calories": "90 кКал",
+        "Protein": "6 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "8 г"
+    },
+    {
+        "title": "Треска копченая в масле. Консервы",
+        "Calories": "290 кКал",
+        "Protein": "20,8 г",
+        "Fats": "23 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска отварная, по 1-340",
+        "Calories": "79 кКал",
+        "Protein": "17,9 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска припущенная, по 1-358",
+        "Calories": "75 кКал",
+        "Protein": "17 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска соленая потрошеная без головы",
+        "Calories": "98 кКал",
+        "Protein": "23,1 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска тихоокеанская, приготовленная",
+        "Calories": "84 кКал",
+        "Protein": "20,42 г",
+        "Fats": "0,25 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска тихоокеанская, приготовленная на жару",
+        "Calories": "85 кКал",
+        "Protein": "18,73 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска тихоокеанская, сырая",
+        "Calories": "69 кКал",
+        "Protein": "15,27 г",
+        "Fats": "0,41 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Треска тушеная, по 1-362",
+        "Calories": "101 кКал",
+        "Protein": "9,7 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "title": "Трубач, моллюск",
+        "Calories": "137 кКал",
+        "Protein": "23,84 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "7,76 г"
+    },
+    {
+        "title": "Трубач, моллюск, приготовленный на пару",
+        "Calories": "275 кКал",
+        "Protein": "47,68 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "15,52 г"
+    },
+    {
+        "title": "Тунец",
+        "Calories": "139 кКал",
+        "Protein": "24,4 г",
+        "Fats": "4,6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец  в масле, консервированный, сухой продукт без маринада",
+        "Calories": "198 кКал",
+        "Protein": "29,13 г",
+        "Fats": "8,21 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец белый, консервированный в воде, без соли, сухой продукт без маринада",
+        "Calories": "128 кКал",
+        "Protein": "23,62 г",
+        "Fats": "2,97 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец белый, консервированный в воде, сухой продукт без маринада",
+        "Calories": "128 кКал",
+        "Protein": "23,62 г",
+        "Fats": "2,97 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец белый, консервированный в масле, без соли, сухой продукт без маринада",
+        "Calories": "186 кКал",
+        "Protein": "26,53 г",
+        "Fats": "8,08 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец белый, консервированный в масле, сухой продукт без маринада",
+        "Calories": "186 кКал",
+        "Protein": "26,53 г",
+        "Fats": "8,08 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец в масле. Консервы",
+        "Calories": "232 кКал",
+        "Protein": "22 г",
+        "Fats": "15,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец голубой",
+        "Calories": "144 кКал",
+        "Protein": "23,33 г",
+        "Fats": "4,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец голубой, приготовленный на жару",
+        "Calories": "184 кКал",
+        "Protein": "29,91 г",
+        "Fats": "6,28 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец желтоперый",
+        "Calories": "109 кКал",
+        "Protein": "24,4 г",
+        "Fats": "0,49 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец желтоперый, приготовленный на жару",
+        "Calories": "130 кКал",
+        "Protein": "29,15 г",
+        "Fats": "0,59 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец натуральный. Консервы",
+        "Calories": "96 кКал",
+        "Protein": "22,5 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец, консервированный в воде, без соли, сухой продукт без маринада",
+        "Calories": "116 кКал",
+        "Protein": "25,51 г",
+        "Fats": "0,82 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец, консервированный в воде, сухой продукт без маринада",
+        "Calories": "86 кКал",
+        "Protein": "19,44 г",
+        "Fats": "0,96 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тунец, консервированный в масле, без соли, сухой продукт без маринада",
+        "Calories": "198 кКал",
+        "Protein": "29,13 г",
+        "Fats": "8,21 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тюлень, бородатый (Oogruk), мясо,  низкий квадрант, сырое, (Аляска)",
+        "Calories": "186 кКал",
+        "Protein": "23,63 г",
+        "Fats": "10,17 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тюлень, бородатый (Oogruk), мясо, сушеное, (Аляска)",
+        "Calories": "351 кКал",
+        "Protein": "82,6 г",
+        "Fats": "2,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тюлень, бородатый (Oogruk), мясо, сушеное, в масле (Аляска)",
+        "Calories": "367 кКал",
+        "Protein": "35,31 г",
+        "Fats": "25,08 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тюлень, бородатый (Oogruk), мясо, сырое, (Аляска)",
+        "Calories": "110 кКал",
+        "Protein": "26,7 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тюлень, бородатый (Oogruk), мясо, частично сушеное, (Аляска)",
+        "Calories": "270 кКал",
+        "Protein": "62,38 г",
+        "Fats": "2,31 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тюлька весенняя соленая",
+        "Calories": "225 кКал",
+        "Protein": "19,8 г",
+        "Fats": "16,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тюлька осенняя соленая",
+        "Calories": "264 кКал",
+        "Protein": "15,7 г",
+        "Fats": "22,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тюрбо (палтус европейский)",
+        "Calories": "95 кКал",
+        "Protein": "16,05 г",
+        "Fats": "2,95 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Тюрбо (палтус европейский) приготовленный на жару",
+        "Calories": "122 кКал",
+        "Protein": "20,58 г",
+        "Fats": "3,78 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Угольная рыба",
+        "Calories": "201 кКал",
+        "Protein": "12,2 г",
+        "Fats": "16,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Угольная рыба, копченая",
+        "Calories": "257 кКал",
+        "Protein": "17,65 г",
+        "Fats": "20,14 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Угольная рыба, мелкая",
+        "Calories": "114 кКал",
+        "Protein": "14,2 г",
+        "Fats": "6,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Угольная рыба, приготовленная на жару",
+        "Calories": "250 кКал",
+        "Protein": "17,19 г",
+        "Fats": "19,62 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Угольная рыба, сырая",
+        "Calories": "195 кКал",
+        "Protein": "13,41 г",
+        "Fats": "15,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Угорь морской",
+        "Calories": "94 кКал",
+        "Protein": "19,1 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Угорь речной",
+        "Calories": "333 кКал",
+        "Protein": "14,5 г",
+        "Fats": "30,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Угорь речной горячего копчения",
+        "Calories": "386 кКал",
+        "Protein": "15,7 г",
+        "Fats": "35,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Угорь, все виды",
+        "Calories": "184 кКал",
+        "Protein": "18,44 г",
+        "Fats": "11,66 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Угорь, все виды, приготовленный на жару",
+        "Calories": "236 кКал",
+        "Protein": "23,65 г",
+        "Fats": "14,95 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Удильщик",
+        "Calories": "68 кКал",
+        "Protein": "14,8 г",
+        "Fats": "1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Улитка, сырая",
+        "Calories": "90 кКал",
+        "Protein": "16,1 г",
+        "Fats": "1,4 г",
+        "Carbohydrates": "2 г"
+    },
+    {
+        "title": "Умбрина",
+        "Calories": "103 кКал",
+        "Protein": "17,9 г",
+        "Fats": "3,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Усач, аральский",
+        "Calories": "175 кКал",
+        "Protein": "18,6 г",
+        "Fats": "11,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Усач, каспийский",
+        "Calories": "134 кКал",
+        "Protein": "20,1 г",
+        "Fats": "5,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Устрица",
+        "Calories": "72 кКал",
+        "Protein": "9 г",
+        "Fats": "2 г",
+        "Carbohydrates": "4,5 г"
+    },
+    {
+        "title": "Устрица американская, дикая",
+        "Calories": "51 кКал",
+        "Protein": "5,71 г",
+        "Fats": "1,71 г",
+        "Carbohydrates": "2,72 г"
+    },
+    {
+        "title": "Устрица американская, дикая, приготовленная на жару",
+        "Calories": "79 кКал",
+        "Protein": "8,87 г",
+        "Fats": "2,65 г",
+        "Carbohydrates": "4,23 г"
+    },
+    {
+        "title": "Устрица американская, дикая, приготовленная на пару",
+        "Calories": "102 кКал",
+        "Protein": "11,42 г",
+        "Fats": "3,42 г",
+        "Carbohydrates": "5,45 г"
+    },
+    {
+        "title": "Устрица американская, консервированная",
+        "Calories": "68 кКал",
+        "Protein": "7,06 г",
+        "Fats": "2,47 г",
+        "Carbohydrates": "3,91 г"
+    },
+    {
+        "title": "Устрица американская, обжаренная в панировке",
+        "Calories": "199 кКал",
+        "Protein": "8,77 г",
+        "Fats": "12,58 г",
+        "Carbohydrates": "11,62 г"
+    },
+    {
+        "title": "Устрица американская, разведенная на ферме",
+        "Calories": "59 кКал",
+        "Protein": "5,22 г",
+        "Fats": "1,55 г",
+        "Carbohydrates": "5,53 г"
+    },
+    {
+        "title": "Устрица американская, разведенная на ферме, приготовленная на жару",
+        "Calories": "79 кКал",
+        "Protein": "7 г",
+        "Fats": "2,12 г",
+        "Carbohydrates": "7,28 г"
+    },
+    {
+        "title": "Устрица тихоокеанская, приготовленная на пару",
+        "Calories": "163 кКал",
+        "Protein": "18,9 г",
+        "Fats": "4,6 г",
+        "Carbohydrates": "9,9 г"
+    },
+    {
+        "title": "Устрица тихоокеанская, сырая",
+        "Calories": "81 кКал",
+        "Protein": "9,45 г",
+        "Fats": "2,3 г",
+        "Carbohydrates": "4,95 г"
+    },
+    {
+        "title": "Форель радужная, дикая",
+        "Calories": "119 кКал",
+        "Protein": "20,48 г",
+        "Fats": "3,46 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Форель радужная, дикая, приготовленная на жару",
+        "Calories": "150 кКал",
+        "Protein": "22,92 г",
+        "Fats": "5,82 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Форель радужная, разведенная на ферме",
+        "Calories": "141 кКал",
+        "Protein": "19,94 г",
+        "Fats": "6,18 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Форель радужная, разведенная на ферме, приготовленная на жару",
+        "Calories": "168 кКал",
+        "Protein": "23,8 г",
+        "Fats": "7,38 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Форель, все виды",
+        "Calories": "148 кКал",
+        "Protein": "20,77 г",
+        "Fats": "6,61 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Форель, все виды, приготовленная на жару",
+        "Calories": "190 кКал",
+        "Protein": "26,63 г",
+        "Fats": "8,47 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Фрикадельки из минтая, по 1-386",
+        "Calories": "95 кКал",
+        "Protein": "11,8 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "7,6 г"
+    },
+    {
+        "title": "Хамса весенняя соленая",
+        "Calories": "166 кКал",
+        "Protein": "21,2 г",
+        "Fats": "9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Хамса осенняя соленая",
+        "Calories": "292 кКал",
+        "Protein": "17,5 г",
+        "Fats": "24,7 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Хариус",
+        "Calories": "112 кКал",
+        "Protein": "20,6 г",
+        "Fats": "3,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Хек",
+        "Calories": "86 кКал",
+        "Protein": "16,6 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Хек припущенный, по 1-356",
+        "Calories": "91 кКал",
+        "Protein": "17,8 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чавыча",
+        "Calories": "148 кКал",
+        "Protein": "19,1 г",
+        "Fats": "8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чавыча, копченая",
+        "Calories": "117 кКал",
+        "Protein": "18,28 г",
+        "Fats": "4,32 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чавыча, копченая (засоленная лососина), стандартная",
+        "Calories": "117 кКал",
+        "Protein": "18,28 г",
+        "Fats": "4,32 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чавыча, королевкий лосось, Аляска",
+        "Calories": "187 кКал",
+        "Protein": "20,25 г",
+        "Fats": "11,73 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чавыча, королевкий лосось, Аляска, копченая",
+        "Calories": "266 кКал",
+        "Protein": "30,7 г",
+        "Fats": "15,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чавыча, королевкий лосось, Аляска, копченая (smoked), консерв.",
+        "Calories": "150 кКал",
+        "Protein": "23,2 г",
+        "Fats": "5,9 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чавыча, королевкий лосось, Аляска, соленая",
+        "Calories": "430 кКал",
+        "Protein": "39,9 г",
+        "Fats": "30 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чавыча, приготовленная на жару",
+        "Calories": "231 кКал",
+        "Protein": "25,72 г",
+        "Fats": "13,38 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чавыча, сырая",
+        "Calories": "179 кКал",
+        "Protein": "19,93 г",
+        "Fats": "10,43 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Черепаха зеленая, сырая",
+        "Calories": "89 кКал",
+        "Protein": "19,8 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чехонь",
+        "Calories": "97 кКал",
+        "Protein": "19,2 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чир (щокур), енисейский",
+        "Calories": "173 кКал",
+        "Protein": "17,9 г",
+        "Fats": "11,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чир (щокур), обский",
+        "Calories": "127 кКал",
+        "Protein": "18,2 г",
+        "Fats": "6 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чукучан, приготовленный на жару",
+        "Calories": "119 кКал",
+        "Protein": "21,49 г",
+        "Fats": "2,97 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Чукучан, сырой",
+        "Calories": "92 кКал",
+        "Protein": "16,76 г",
+        "Fats": "2,32 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Шемая аральская, весенняя",
+        "Calories": "105 кКал",
+        "Protein": "19,4 г",
+        "Fats": "3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Шемая аральская, осенняя",
+        "Calories": "138 кКал",
+        "Protein": "18,4 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Шницель из окуня, по 1-380",
+        "Calories": "215 кКал",
+        "Protein": "17,6 г",
+        "Fats": "12,5 г",
+        "Carbohydrates": "8,1 г"
+    },
+    {
+        "title": "Шпроты в масле. Консервы",
+        "Calories": "363 кКал",
+        "Protein": "17,4 г",
+        "Fats": "32,4 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Щука",
+        "Calories": "84 кКал",
+        "Protein": "18,4 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Щука в томатном соусе. Консервы",
+        "Calories": "110 кКал",
+        "Protein": "14,2 г",
+        "Fats": "4 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "title": "Щука обыкновенная, приготовленная на жару",
+        "Calories": "113 кКал",
+        "Protein": "24,69 г",
+        "Fats": "0,88 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Щука обыкновенная, сырая",
+        "Calories": "88 кКал",
+        "Protein": "19,26 г",
+        "Fats": "0,69 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Щука отварная, по 1-340",
+        "Calories": "98 кКал",
+        "Protein": "21,3 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Щука припущенная, по 1-348",
+        "Calories": "90 кКал",
+        "Protein": "19,6 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Щука фаршированная, по 1-362",
+        "Calories": "141 кКал",
+        "Protein": "13,3 г",
+        "Fats": "6 г",
+        "Carbohydrates": "8,4 г"
+    },
+    {
+        "title": "Эпигонус чёрный дальневосточный (кардинал)",
+        "Calories": "172 кКал",
+        "Protein": "16,5 г",
+        "Fats": "11,8 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Язык морской",
+        "Calories": "88 кКал",
+        "Protein": "10,3 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Язь",
+        "Calories": "117 кКал",
+        "Protein": "19 г",
+        "Fats": "4,5 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "title": "Язь в томатном соусе, консервы",
+        "Calories": "128 кКал",
+        "Protein": "12,9 г",
+        "Fats": "6,3 г",
+        "Carbohydrates": "5,3 г"
+    }
+]
